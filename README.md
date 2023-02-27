@@ -30,3 +30,20 @@ Mangroves, Quarry Road, Johanna Road, Golf Course, and KwaMashu. The
 data gathered was the audit of the occurence of the brands washed into
 the litterbooms. Additionally, the weights, the plastic types, their
 categories, and their respective groups were noted.
+
+## Data variables
+
+- Brand: The brand of the item collected (example Coca Cola)
+- Group: The larger group that owns the brand (example (Coca Cola 
+         Bottling South Africa)
+- Plastic Type: The plastic collected for this thesis are PET, HDPE 
+         and PP. HDPE and PP are collected as one (HDPE/PP)
+- Amount: The amounts of items in total numbers collected
+- Location: One of six locations around Durban. See Introduction.
+- Date: The date of collection
+- Category: The waste is additionally categorized into 15 categories:
+Soda, Water, Sunflower Oils, Alcohol, Food Container/Packaging, Skin/Hair Products
+Medical Container, Deodorant, Container, Bucket, Juices, Milk, Cleaning Products,
+Tobacco, and Unidentifiable.
+- Weight of PET: Total weight of PET on given date of collection
+- Weight of HDPE/PP: Total weight of HDPE/PP on given date of collection
