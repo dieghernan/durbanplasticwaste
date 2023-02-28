@@ -33,41 +33,41 @@ litterboom_weights <- litterboom_df |>
   select(date, weight_pet, weight_hdpe_pp) |>
   distinct()
 
-# Issue 1: https://github.com/Global-Health-Engineering/durbanplasticwaste22/issues/1#issuecomment-1447828447
-
-litterboom_df |>
-  filter(weight_pet == 0) |>
-  filter(amount != 0) |>
-  select(date, brand, plastic, amount, weight_pet) |>
-  group_by(date, plastic) |>
-  summarise(sum = sum(amount))
-  #head(n = 10) |>
-  knitr::kable()
-
-# Issue 2: https://github.com/Global-Health-Engineering/durbanplasticwaste22/issues/2
+## import tidy brand names after exporting excel
+## Issue 2: https://github.com/Global-Health-Engineering/durbanplasticwaste22/issues/2
 
 litterboom_df |>
   count(brand, name = "count") |>
   mutate(new_name = NA_character_) |>
   openxlsx::write.xlsx("data-raw/tidy-brand.names.xlsx")
 
-brand_names <- read_excel("data-raw/tidy-brand.names-rb.xlsx")
-
-brand_names |> View()
-
-
-# write data --------------------------------------------------------------
-
-litterboom_weights
+brand_names <- read_excel("data-raw/tidy-brand.names-rb.xlsx") |>
+  select(brand, new_name) |>
+  mutate(new_name = case_when(
+    is.na(new_name) == TRUE ~ brand,
+    TRUE ~ new_name
+  ))
 
 litterboom_counts <- litterboom_df |>
   select(-weight_pet, -weight_hdpe_pp) |>
-  rename(count = amount)
+  rename(count = amount) |>
+  left_join(brand_names) |>
+  relocate(new_name, .before = brand) |>
+  select(-brand) |>
+  rename(brand = new_name) |>
+  mutate(group = case_when(
+    group == "OTHER GROUPS" ~ "OTHER",
+    group == "The Coca-Cola Company" ~ "Coca Cola Beverages South Africa",
+    group == "Coca Cola Company" ~ "Coca Cola Beverages South Africa",
+    str_detect(group, "UnID") == TRUE ~ "unidentifiable",
+    TRUE ~ group
+  ))
 
+# write data --------------------------------------------------------------
 
 usethis::use_data(litterboom_weights, litterboom_counts, overwrite = TRUE)
 
 # write_csv(litterboom_counts, here::here("inst", "extdata", "litterboom_counts.csv"))
-# write_csv(litterboom_weights, here::here("inst", "extdata", "litterboom_weights.csv"))
+# write_csv(litterboom_weights, here::here("inst", "extdata", "litterboom_weights.csv"))
 
 
