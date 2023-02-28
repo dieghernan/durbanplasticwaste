@@ -1,12 +1,33 @@
-Package: datadurbanplasticwaste22
-Title: What the Package Does (One Line, Title Case)
+Package: durbanplasticwaste22
+Title: Durban (South Aftica) Plastic Waste Data 
 Version: 0.0.0.9000
-Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
+Authors@R: c(
+    person(given = "Raúl",
+           family = "Bergen",
+           email =, "first.last@example.com",
+           role = c("aut"),
+           comment = c(ORCID = "YOUR-ORCID-ID")),
+    person(given = "Lars",
+           family = "Schöbitz",
+           email =, "lschoebitz@ethz.ch",
+           role = c("cre"),
+           comment = c(ORCID = "0000-0003-2196-5015")),
+    person(given = "Chiara",
+           family = "Meyer-Piening",
+           email =, "first.last@example.com",
+           role = c("aut"),
+           comment = c(ORCID = "0000-0002-9944-3834")),
+    person(given = "First Name",
+           family = "Last Name",
+           email =, "first.last@example.com",
+           role = c("ctb"),
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+           )
+Description: Waste characterisation data for extended producer responsibility.
+    The plastic waste was collected in the uMngeni River system in Durban, 
+    South Africa, and categorised by brand, corporate group, application, and 
+    type of plastic.
+License: CC BY 4.0
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.1
