@@ -11,8 +11,53 @@ library(janitor)
 
 # read data ---------------------------------------------------------------
 
+litterboom <- read_excel("data-raw/Data for R_Raúl.xlsx", skip = 2)
+
+# tidy data ---------------------------------------------------------------
+
+litterboom_df <- litterboom |>
+  select(-...1) |>
+  clean_names() |>
+  mutate(year = "2022") |>
+  unite(col = "date", c("date", "year"), sep = ".") |>
+  mutate(date = lubridate::dmy(date)) |>
+  relocate(date) |>
+  mutate(amount = case_when(
+    is.na(amount) == TRUE ~ 0,
+    TRUE ~ amount
+  ))
+
+## store weights data as separate table
+
+litterboom_df |>
+  select(date, weight_pet, weight_hdpe_pp) |>
+  distinct()
+
+# Issue 1: https://github.com/Global-Health-Engineering/durbanplasticwaste22/issues/1#issuecomment-1447828447
+
+litterboom_df |>
+  filter(weight_pet == 0) |>
+  filter(!is.na(amount)) |>
+  select(date, brand, plastic, amount, weight_pet) |>
+  head(n = 10) |>
+  knitr::kable()
+
+# Issue 2: https://github.com/Global-Health-Engineering/durbanplasticwaste22/issues/2
+
+litterboom_df |>
+  count(brand, name = "count") |>
+  mutate(new_name = NA_character_) |>
+  openxlsx::write.xlsx("data-raw/tidy-brand.names.xlsx")
 
 
-## code to prepare `DATASET` dataset goes here
+# write data --------------------------------------------------------------
 
-usethis::use_data(DATASET, overwrite = TRUE)
+litterboom_df |>
+  select(-weight_pet, -weight_hdpe_pp) |>
+  rename(count = amount) |>
+
+
+
+## code to prepare `DATASET` dataset goes her
+
+usethis::use_data(DATASET, overwrite = TRUE,)
