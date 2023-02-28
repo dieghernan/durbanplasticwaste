@@ -12,6 +12,7 @@ library(janitor)
 # read data ---------------------------------------------------------------
 
 litterboom <- read_excel("data-raw/Data for R_Raúl.xlsx", skip = 2)
+locations <- read_csv("data-raw/litterboom-sample-locations.csv")
 
 # tidy data ---------------------------------------------------------------
 
@@ -30,7 +31,7 @@ litterboom_df <- litterboom |>
 ## store weights data as separate table
 
 litterboom_weights <- litterboom_df |>
-  select(date, weight_pet, weight_hdpe_pp) |>
+  select(date, location, pet = weight_pet, hdpe_pp = weight_hdpe_pp) |>
   distinct()
 
 ## import tidy brand names after exporting excel
@@ -54,6 +55,7 @@ litterboom_counts <- litterboom_df |>
   left_join(brand_names) |>
   relocate(new_name, .before = brand) |>
   select(-brand) |>
+  relocate(location, .after = date) |>
   rename(brand = new_name) |>
   mutate(group = case_when(
     group == "OTHER GROUPS" ~ "OTHER",
@@ -61,13 +63,18 @@ litterboom_counts <- litterboom_df |>
     group == "Coca Cola Company" ~ "Coca Cola Beverages South Africa",
     str_detect(group, "UnID") == TRUE ~ "unidentifiable",
     TRUE ~ group
+  )) |>
+  mutate(category = case_when(
+    category == "skiin" ~ "Skin/Hair Products",
+    TRUE ~ category
   ))
 
 # write data --------------------------------------------------------------
 
-usethis::use_data(litterboom_weights, litterboom_counts, overwrite = TRUE)
+usethis::use_data(litterboom_weights, litterboom_counts, locations, overwrite = TRUE)
 
-# write_csv(litterboom_counts, here::here("inst", "extdata", "litterboom_counts.csv"))
-# write_csv(litterboom_weights, here::here("inst", "extdata", "litterboom_weights.csv"))
+write_csv(litterboom_counts, here::here("inst", "extdata", "litterboom_counts.csv"))
+write_csv(litterboom_weights, here::here("inst", "extdata", "litterboom_weights.csv"))
+write_csv(litterboom_weights, here::here("inst", "extdata", "locations.csv"))
 
 
