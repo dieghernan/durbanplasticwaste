@@ -1,0 +1,15 @@
+directory, file_name, variable_name, variable_type, description
+data, litterboom_counts.rda, date, date, Date of the collected litterboom sample.
+data, litterboom_counts.rda, location, character,  Descriptive name of the sample location. See [`locations`] for longitude and latitude.
+data, litterboom_counts.rda, brand, character, Brand name of the collected item (e.g. Coca Cola).
+data, litterboom_counts.rda, group, character, Group name that owns the brand (e.g. Coca Cola Beverages South Africa).
+data, litterboom_counts.rda, plastic, character, Type of plastic of the item. Identified plastic types are PET, HDPE, and PP. HDPE and PP were categorised together as HDPE/PP.
+data, litterboom_counts.rda, category, character, Categorisation of waste into 15 product type categories (e.g. Alcohol, Milk, Tobacco, Water).
+data, litterboom_counts.rda, count, numeric, Number of counted items.
+data, litterboom_weights.rda, date, date, Date of the collected litterboom sample.
+data, litterboom_weights.rda, location, character,  Descriptive name of the sample location.
+data, litterboom_weights.rda, pet, numeric, Weight (in kg) of PET items.
+data, litterboom_weights.rda, hpde_pp, numeric, Weight (in kg) of PET items.
+data, locations.rda, location, Descriptive name of the sample location.
+data, locations.rda, latitude, Latitude coordinate.
+data, locations.rda, longitude, Longitude coordinate.
