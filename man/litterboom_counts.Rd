@@ -12,7 +12,7 @@ A tibble with 2784 rows and 7 variables:
 for longitude and latitude .}
 \item{brand}{Brand name of the collected item (e.g. Coca Cola).}
 \item{group}{Group name that owns the brand (e.g. Coca Cola Beverages
-South Africa}
+South Africa).}
 \item{plastic}{Type of plastic of the item. Identified plastic types are
 PET, HDPE, and PP. HDPE and PP were categorised together as HDPE/PP.}
 \item{category}{Categorisation of waste into 15 product type categories

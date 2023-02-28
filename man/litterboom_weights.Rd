@@ -11,7 +11,7 @@ A tibble with 14 rows and 3 variables:
 \item{location}{Descriptive name of the sample location. See \code{\link{locations}}
 for longitude and latitude .}
 \item{pet}{Weight (in kg) of PET items.}
-\item{hdpe_pp}{Weight (in kg) of PET items.}
+\item{hdpe_pp}{Weight (in kg) of HDPE and PP items.}
 }
 }
 \usage{
