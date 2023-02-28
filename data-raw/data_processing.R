@@ -77,4 +77,8 @@ write_csv(litterboom_counts, here::here("inst", "extdata", "litterboom_counts.cs
 write_csv(litterboom_weights, here::here("inst", "extdata", "litterboom_weights.csv"))
 write_csv(litterboom_weights, here::here("inst", "extdata", "locations.csv"))
 
+openxlsx::write.xlsx(litterboom_counts, here::here("inst", "extdata", "litterboom_counts.xlsx"))
+openxlsx::write.xlsx(litterboom_weights, here::here("inst", "extdata", "litterboom_weights.xlsx"))
+openxlsx::write.xlsx(litterboom_weights, here::here("inst", "extdata", "locations.xlsx"))
+
 
