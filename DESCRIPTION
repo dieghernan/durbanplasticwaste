@@ -21,17 +21,17 @@ Authors@R: c(
            family = "Tilley",
            email = "tilleye@ethz.ch",
            role = c("ctb"),
-           comment = c(ORCID = "0000-0002-2095-9724"))
+           comment = c(ORCID = "0000-0002-2095-9724")),
     person(given = "Marc",
            family = "Kalina",
            email = "mkalina@ethz.ch",
            role = c("ctb"),
-           comment = c(ORCID = "0000-0002-6335-3845"))
+           comment = c(ORCID = "0000-0002-6335-3845")),
     person(given = "Siphiwe",
            family = "Rakgabale",
            email = "first.last@example.com",
            role = c("ctb"),
-           comment = c(ORCID = "YOUR-ORCID-ID"))
+           comment = c(ORCID = "YOUR-ORCID-ID")),
     person(given = "First Name",
            family = "Last Name",
            email = "first.last@example.com",
