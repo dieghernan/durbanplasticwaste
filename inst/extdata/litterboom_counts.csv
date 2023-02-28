@@ -1,0 +1,2785 @@
+date,brand,group,plastic,category,location,count
+2022-09-06,Coca Cola Beverages South Africa,Coca Cola Beverages South Africa,PET,Soda,Johanna Road,43
+2022-09-06,Twist,Coca Cola Beverages South Africa,PET,Soda,Johanna Road,5
+2022-09-06,Stoney,Coca Cola Beverages South Africa,PET,Soda,Johanna Road,4
+2022-09-06,Sprite,Coca Cola Beverages South Africa,PET,Soda,Johanna Road,3
+2022-09-06,Powerade,Coca Cola Beverages South Africa,PET,Soda,Johanna Road,4
+2022-09-06,Fanta,Coca Cola Beverages South Africa,PET,Soda,Johanna Road,3
+2022-09-06,bonaqua,Coca Cola Beverages South Africa,PET,Water,Johanna Road,1
+2022-09-06,Spar-Letta,Coca Cola Beverages South Africa,PET,Water,Johanna Road,2
+2022-09-06,Valpré Spring Water,Coca Cola Beverages South Africa,PET,Water,Johanna Road,0
+2022-09-06,Schweppes,Coca Cola Beverages South Africa,PET,Soda,Johanna Road,4
+2022-09-06,Cooee,Bevco - The Beverage Company,PET,Soda,Johanna Road,22
+2022-09-06,Pepsi,Bevco - The Beverage Company,PET,Soda,Johanna Road,0
+2022-09-06,aQuellé,Ekhamanzi Springs,PET,Water,Johanna Road,9
+2022-09-06,Sunfoil,Willowton Group,PET,Sunflower Oil,Johanna Road,20
+2022-09-06,Sunshine D,Willowton Group,PET,Food Container/Packaging,Johanna Road,0
+2022-09-06,d'Lite,Willowton Group,PET,Sunflower Oil,Johanna Road,4
+2022-09-06,d'Lite,Willowton Group,HDPE/PP,Food Container/Packaging,Johanna Road,3
+2022-09-06,Smirnoff,Smirnoff,PET,Alcohol,Johanna Road,13
+2022-09-06,NOLA,RCL Foods,PET,Food Container/Packaging,Johanna Road,17
+2022-09-06,NOLA,RCL Foods,HDPE/PP,Food Container/Packaging,Johanna Road,3
+2022-09-06,YUM YUM,RCL Foods,PET,Food Container/Packaging,Johanna Road,2
+2022-09-06,YUM YUM,RCL Foods,HDPE/PP,Food Container/Packaging,Johanna Road,2
+2022-09-06,Number 1,RCL Foods,HDPE/PP,Food Container/Packaging,Johanna Road,0
+2022-09-06,PIEMAN'S,RCL Foods,PET,Food Container/Packaging,Johanna Road,0
+2022-09-06,Checker's House Brand,Checker's,PET,Sunflower Oil,Johanna Road,0
+2022-09-06,Checker's House Brand,Checker's,HDPE/PP,Food Container/Packaging,Johanna Road,1
+2022-09-06,Gentle Magic,Gentle Magic,PET,Skin/Hair Products,Johanna Road,5
+2022-09-06,Woolworths Food,Woolworths,PET,Juices,Johanna Road,0
+2022-09-06,Woolworths Food,Woolworths,HDPE/PP,Food Container/Packaging,Johanna Road,3
+2022-09-06,UnID Water,unidentifiable,PET,Water,Johanna Road,7
+2022-09-06,UnID Oils,unidentifiable,PET,Sunflower Oil,Johanna Road,17
+2022-09-06,PET,unidentifiable,PET,Container,Johanna Road,25
+2022-09-06,UnID Medical,unidentifiable,HDPE/PP,Medical Container,Johanna Road,24
+2022-09-06,DEO,DEO,HDPE/PP,Deodorant,Johanna Road,9
+2022-09-06,Containers,Containers,HDPE/PP,Container,Johanna Road,0
+2022-09-06,Buckets,Buckets,HDPE/PP,Bucket,Johanna Road,0
+2022-09-06,OTHER,OTHER,HDPE/PP,Unidentifiable,Johanna Road,95
+2022-09-06,Clover,Clover Industries LTD,PET,Juices,Johanna Road,3
+2022-09-06,Clover,Clover Industries LTD,HDPE/PP,Milk,Johanna Road,63
+2022-09-06,Tropika,Clover Industries LTD,PET,Juices,Johanna Road,0
+2022-09-06,Tropika,Clover Industries LTD,HDPE/PP,Juices,Johanna Road,0
+2022-09-06,Super M,Clover Industries LTD,HDPE,Milk,Johanna Road,0
+2022-09-06,Quali,Clover Industries LTD,PET,Juices,Johanna Road,0
+2022-09-06,Quali,Clover Industries LTD,HDPE/PP,Juices,Johanna Road,0
+2022-09-06,Aquartz,Clover Industries LTD,PET,Water,Johanna Road,0
+2022-09-06,Sip Up,Clover Industries LTD,HDPE,Milk,Johanna Road,0
+2022-09-06,Go Nuts,Clover Industries LTD,HDPE,Food Container/Packaging,Johanna Road,0
+2022-09-06,Daly's,Pioneer Foods,PET,Juices,Johanna Road,3
+2022-09-06,Ceres,Pioneer Foods,NA,Juices,Johanna Road,1
+2022-09-06,OROS,Tiger Brands,PET,Juices,Johanna Road,3
+2022-09-06,Dolly Varden,Tiger Brands,PET,Skin/Hair Products,Johanna Road,2
+2022-09-06,Dolly Varden,Tiger Brands,HDPE/PP,Skin/Hair Products,Johanna Road,0
+2022-09-06,Hall's,Tiger Brands,PET,Juices,Johanna Road,1
+2022-09-06,Energade,Tiger Brands,PET,Soda,Johanna Road,3
+2022-09-06,Ingram's (The Skin Doctor),Tiger Brands,HDPE/PP,Skin/Hair Products,Johanna Road,5
+2022-09-06,IJUBA,United National Breweries PTY LTD,HDPE/PP,Alcohol,Johanna Road,62
+2022-09-06,Knorr,Unilever,HDPE/PP,Food Container/Packaging,Johanna Road,10
+2022-09-06,dawn,Unilever,HDPE/PP,Deodorant,Johanna Road,14
+2022-09-06,Domestos,Unilever,HDPE/PP,Cleaning Product,Johanna Road,2
+2022-09-06,Dove,Unilever,HDPE/PP,Deodorant,Johanna Road,2
+2022-09-06,Handy Andy,Unilever,HDPE/PP,Cleaning Product,Johanna Road,4
+2022-09-06,Ola,Unilever,HDPE/PP,Food Container/Packaging,Johanna Road,5
+2022-09-06,Shield,Unilever,HDPE/PP,Deodorant,Johanna Road,6
+2022-09-06,Vaseline,Unilever,HDPE/PP,Skin/Hair Products,Johanna Road,21
+2022-09-06,Brut,Unilever,HDPE/PP,Deodorant,Johanna Road,4
+2022-09-06,OMO,Unilever,HDPE/PP,Cleaning Product,Johanna Road,0
+2022-09-06,Comfort,Unilever,HDPE/PP,Cleaning Product,Johanna Road,0
+2022-09-06,Sunlight,Unilever,PET,Cleaning Product,Johanna Road,1
+2022-09-06,Orange Grove,Orange Grove,PET,Juices,Johanna Road,0
+2022-09-06,Orange Grove,Orange Grove,HDPE/PP,Milk,Johanna Road,10
+2022-09-06,Flora,Siqolo Foods,HDPE/PP,Food Container/Packaging,Johanna Road,3
+2022-09-06,Rama,Siqolo Foods,HDPE/PP,Food Container/Packaging,Johanna Road,4
+2022-09-06,Stork,Siqolo Foods,HDPE/PP,Food Container/Packaging,Johanna Road,10
+2022-09-06,Rondo,Siqolo Foods,HDPE/PP,Food Container/Packaging,Johanna Road,0
+2022-09-06,Clere,Amka Products,HDPE/PP,Skin/Hair Products,Johanna Road,16
+2022-09-06,Easy Waves,Amka Products,HDPE/PP,Skin/Hair Products,Johanna Road,1
+2022-09-06,Playboy/Playgirl,Amka Products,HDPE/PP,Deodorant,Johanna Road,5
+2022-09-06,Shower to Shower,Amka Products,HDPE/PP,Skin/Hair Products,Johanna Road,5
+2022-09-06,Sta-Sof-Fro,Amka Products,HDPE/PP,Skin/Hair Products,Johanna Road,3
+2022-09-06,Stylin',Amka Products,HDPE/PP,Skin/Hair Products,Johanna Road,1
+2022-09-06,NIVEA,Beiersdorf,HDPE/PP,Skin/Hair Products,Johanna Road,16
+2022-09-06,Top Class,Kwaden Group (imana foods),HDPE/PP,Food Container/Packaging,Johanna Road,10
+2022-09-06,parmalat,Lactalis,HDPE/PP,Milk,Johanna Road,6
+2022-09-06,Mylan,Viatris,HDPE/PP,Medical Container,Johanna Road,9
+2022-09-06,NTSU,Mr Snuff,HDPE/PP,Tobacco,Johanna Road,10
+2022-09-06,Oh So Heavenly,wipro,HDPE/PP,Skin/Hair Products,Johanna Road,4
+2022-09-06,Yogi Sip,danone,HDPE/PP,Milk,Johanna Road,11
+2022-09-06,alpro,danone,HDPE/PP,Milk,Johanna Road,0
+2022-09-06,Inkomazi,danone,HDPE/PP,Milk,Johanna Road,0
+2022-09-06,NutriDay,danone,HDPE/PP,Milk,Johanna Road,0
+2022-09-06,Spring Meadow Dairy Farm,Spring Meadow Dairy Farm,PET,Milk,Johanna Road,5
+2022-09-06,NA,Spring Meadow Dairy Farm,HDPE/PP,Milk,Johanna Road,10
+2022-09-06,Crystal Valley,Crystal Valley,HDPE/PP,Milk,Johanna Road,10
+2022-09-06,MAZ,MAZ,PET,Juices,Johanna Road,2
+2022-09-06,Wild Island,Wild Island,PET,Juices,Johanna Road,4
+2022-09-06,Save Water,Save Water,PET,Water,Johanna Road,3
+2022-09-06,Pot 'o' Gold,Pot 'o' Gold,PET,Food Container/Packaging,Johanna Road,4
+2022-09-06,Diamond Perlé,Diamond Perlé,PET,Water,Johanna Road,1
+2022-09-06,Cappy,Coca Cola Beverages South Africa,PET,Juices,Johanna Road,1
+2022-09-06,Bramley,Bramley,PET,Juices,Johanna Road,2
+2022-09-06,Bramley,Bramley,HDPE/PP,Food Container/Packaging,Johanna Road,1
+2022-09-06,Still Thirsti,Still Thirsti,PET,Water,Johanna Road,1
+2022-09-06,Large Gas Containers,Miscellaneous,HDPE/PP,Container,Johanna Road,10
+2022-09-06,Jabulani,Amasi,HDPE/PP,Milk,Johanna Road,5
+2022-09-06,Gandour,OTHER,HDPE/PP,Food Container/Packaging,Johanna Road,6
+2022-09-06,AVON,OTHER,HDPE/PP,Skin/Hair Products,Johanna Road,3
+2022-09-06,Caro Light,OTHER,HDPE/PP,Skin/Hair Products,Johanna Road,3
+2022-09-06,Mitchum,OTHER,HDPE/PP,Deodorant,Johanna Road,3
+2022-09-06,Garnier,OTHER,HDPE/PP,Skin/Hair Products,Johanna Road,4
+2022-09-06,Skin Clinic,OTHER,HDPE/PP,Skin/Hair Products,Johanna Road,4
+2022-09-06,Hetero Drugs South Africa,OTHER,HDPE/PP,Medical Container,Johanna Road,7
+2022-09-06,Cipla,OTHER,HDPE/PP,Medical Container,Johanna Road,4
+2022-09-06,MPACT,OTHER,HDPE/PP,Container,Johanna Road,0
+2022-09-06,mondi,OTHER,HDPE/PP,Container,Johanna Road,0
+2022-09-06,Dettol,OTHER,PET,Skin/Hair Products,Johanna Road,0
+2022-09-06,Nestlé,OTHER,HDPE/PP,Food Container/Packaging,Johanna Road,0
+2022-09-06,Johnson's,OTHER,PET,Medical Container,Johanna Road,0
+2022-09-06,Sir Fruit,OTHER,PET,Juices,Johanna Road,0
+2022-09-06,Lucozade,OTHER,PET,Soda,Johanna Road,0
+2022-09-06,Wimpy,OTHER,HDPE/PP,Food Container/Packaging,Johanna Road,0
+2022-09-06,Check Value Sun Oil,OTHER,PET,Sunflower Oil,Johanna Road,0
+2022-09-06,Check Value Washing,OTHER,PET,Cleaning Product,Johanna Road,0
+2022-09-06,Check Value,OTHER,HDPE/PP,Food Container/Packaging,Johanna Road,0
+2022-09-06,Twizza,OTHER,PET,Soda,Johanna Road,0
+2022-09-06,Spar,OTHER,HDPE/PP,Food Container/Packaging,Johanna Road,0
+2022-09-06,We are AQUA,OTHER,PET,Water,Johanna Road,0
+2022-09-06,One-Juice,OTHER,PET,Juices,Johanna Road,0
+2022-09-06,Indlovu,OTHER,PET,Alcohol,Johanna Road,0
+2022-09-06,Safola,OTHER,PET,Sunflower Oil,Johanna Road,0
+2022-09-06,Clicks,OTHER,PET,Skin/Hair Products,Johanna Road,0
+2022-09-06,Sunola,OTHER,PET,Sunflower Oil,Johanna Road,0
+2022-09-06,Rider's Vodka,OTHER,PET,Alcohol,Johanna Road,0
+2022-09-06,Volutrip,OTHER,HDPE/PP,Medical Container,Johanna Road,0
+2022-09-06,Swiss Yoghurt,OTHER,HDPE/PP,Food Container/Packaging,Johanna Road,0
+2022-09-06,Lancewood,OTHER,HDPE/PP,Food Container/Packaging,Johanna Road,0
+2022-09-06,Pick n Pay,OTHER,HDPE/PP,Food Container/Packaging,Johanna Road,0
+2022-09-06,Dairymaid,OTHER,HDPE/PP,Milk,Johanna Road,0
+2022-09-06,Castrol,OTHER,HDPE/PP,Container,Johanna Road,0
+2022-09-06,Rainbow,OTHER,HDPE/PP,Container,Johanna Road,0
+2022-09-06,Plascon,OTHER,HDPE/PP,Bucket,Johanna Road,0
+2022-09-06,Revlon,OTHER,HDPE/PP,Skin/Hair Products,Johanna Road,0
+2022-09-06,shell,OTHER,HDPE/PP,Container,Johanna Road,0
+2022-09-06,Natural flow,OTHER,HDPE/PP,Food Container/Packaging,Johanna Road,0
+2022-09-06,Safripol,OTHER,PET,Container,Johanna Road,0
+2022-09-06,Fusion,OTHER,PET,Soda,Johanna Road,1.5
+2022-09-06,Grapetiser,OTHER,PET,Soda,Johanna Road,1.5
+2022-09-06,Brookes,OTHER,PET,Juices,Johanna Road,1.5
+2022-09-06,Supreme Foods,OTHER,PET,Food Container/Packaging,Johanna Road,1.5
+2022-09-06,Portia,OTHER,PET,Food Container/Packaging,Johanna Road,1.5
+2022-09-06,Tulip Int. Inc.,OTHER,PET,Container,Johanna Road,1.5
+2022-09-06,just,OTHER,PET,Juices,Johanna Road,1.5
+2022-09-06,Crystal,OTHER,PET,Soda,Johanna Road,1.5
+2022-09-06,Garlic Man,OTHER,PET,Food Container/Packaging,Johanna Road,1.5
+2022-09-06,B-Well,OTHER,PET,Food Container/Packaging,Johanna Road,1.5
+2022-09-06,Yum Fun,OTHER,PET,Food Container/Packaging,Johanna Road,1.5
+2022-09-06,Dew Whole Salers,OTHER,PET,Food Container/Packaging,Johanna Road,1.5
+2022-09-06,Rajmeers,OTHER,PET,Food Container/Packaging,Johanna Road,1.5
+2022-09-06,Check Mart,OTHER,PET,Food Container/Packaging,Johanna Road,1.5
+2022-09-06,Karou Charou,OTHER,PET,Food Container/Packaging,Johanna Road,1.5
+2022-09-06,Gorima's Magi,OTHER,PET,Food Container/Packaging,Johanna Road,1.5
+2022-09-06,Renew,OTHER,PET,Food Container/Packaging,Johanna Road,1.5
+2022-09-06,Hercules,OTHER,PET,Skin/Hair Products,Johanna Road,1.5
+2022-09-06,King's,OTHER,PET,Food Container/Packaging,Johanna Road,1.5
+2022-09-06,Saharaveg,OTHER,PET,Food Container/Packaging,Johanna Road,1.5
+2022-09-06,Indlovu,OTHER,PET,Alcohol,Johanna Road,1.5
+2022-09-06,Sunstar,OTHER,PET,Sunflower Oil,Johanna Road,1.5
+2022-09-06,Inkosazona,OTHER,PET,Skin/Hair Products,Johanna Road,1.5
+2022-09-06,All Wheys,OTHER,PET,Food Container/Packaging,Johanna Road,1.5
+2022-09-06,Excella,OTHER,PET,Sunflower Oil,Johanna Road,1.5
+2022-09-06,Bhubezi Herbals,OTHER,PET,Food Container/Packaging,Johanna Road,1.5
+2022-09-06,Crez,OTHER,PET,Skin/Hair Products,Johanna Road,1.5
+2022-09-06,Rider's Vodka,OTHER,PET,Alcohol,Johanna Road,1.5
+2022-09-06,Kwik Shine,OTHER,HDPE/PP,Cleaning Product,Johanna Road,1.5
+2022-09-06,Black Chic,OTHER,HDPE/PP,Skin/Hair Products,Johanna Road,1.5
+2022-09-06,Créche Guard,OTHER,HDPE/PP,Medical Container,Johanna Road,1.5
+2022-09-06,Aluvia,OTHER,HDPE/PP,Medical Container,Johanna Road,1.5
+2022-09-06,Nasca,OTHER,HDPE/PP,Bucket,Johanna Road,1.5
+2022-09-06,Polar,OTHER,HDPE/PP,Bucket,Johanna Road,1.5
+2022-09-06,Alpecin,OTHER,HDPE/PP,Skin/Hair Products,Johanna Road,1.5
+2022-09-06,Sunlight Baby,OTHER,HDPE/PP,Skin/Hair Products,Johanna Road,1.5
+2022-09-06,SO,OTHER,HDPE/PP,Unidentifiable,Johanna Road,1.5
+2022-09-06,Cocopulp,OTHER,HDPE/PP,Skin/Hair Products,Johanna Road,1.5
+2022-09-06,Daksprings dairy,OTHER,HDPE/PP,Milk,Johanna Road,1.5
+2022-09-06,Biogen,OTHER,HDPE/PP,Skin/Hair Products,Johanna Road,1.5
+2022-09-06,Sakuma,OTHER,HDPE/PP,Food Container/Packaging,Johanna Road,1.5
+2022-09-06,More Jam,OTHER,HDPE/PP,Food Container/Packaging,Johanna Road,1.5
+2022-09-06,Stylin' Dredz,OTHER,HDPE/PP,Skin/Hair Products,Johanna Road,1.5
+2022-09-06,Dark and Lovely,OTHER,HDPE/PP,skiin,Johanna Road,1.5
+2022-09-06,Wimpy,OTHER,HDPE/PP,Food Container/Packaging,Johanna Road,1.5
+2022-09-06,Umkhucululu,OTHER,HDPE/PP,Skin/Hair Products,Johanna Road,1.5
+2022-09-06,Non-Gamela,OTHER,HDPE/PP,Container,Johanna Road,1.5
+2022-09-06,Rieter,OTHER,HDPE/PP,Unidentifiable,Johanna Road,1.5
+2022-09-06,Powa,OTHER,HDPE/PP,Unidentifiable,Johanna Road,1.5
+2022-09-06,Amazing Skincare,OTHER,HDPE/PP,Skin/Hair Products,Johanna Road,1.5
+2022-09-06,ex-cla-mat!on,OTHER,HDPE/PP,Skin/Hair Products,Johanna Road,1.5
+2022-09-06,Amasi,OTHER,HDPE/PP,Milk,Johanna Road,1.5
+2022-09-06,Sadie,OTHER,HDPE/PP,Alcohol,Johanna Road,1.5
+2022-09-06,MOM,OTHER,HDPE/PP,Unidentifiable,Johanna Road,1.5
+2022-09-06,Bio Claire,OTHER,HDPE/PP,Skin/Hair Products,Johanna Road,1.5
+2022-09-06,M.C.O,OTHER,HDPE/PP,Unidentifiable,Johanna Road,1.5
+2022-09-06,White Gold,OTHER,HDPE/PP,Skin/Hair Products,Johanna Road,1.5
+2022-09-06,Lenthéric,OTHER,HDPE/PP,Skin/Hair Products,Johanna Road,1.5
+2022-09-06,Cetaphil,OTHER,HDPE/PP,Skin/Hair Products,Johanna Road,1.5
+2022-09-06,fox,OTHER,HDPE/PP,Unidentifiable,Johanna Road,1.5
+2022-09-06,B-sanitized,OTHER,HDPE/PP,Skin/Hair Products,Johanna Road,1.5
+2022-09-06,TV,OTHER,HDPE/PP,Unidentifiable,Johanna Road,1.5
+2022-09-06,Activo Vite,OTHER,HDPE/PP,Medical Container,Johanna Road,1.5
+2022-09-06,Omega Chem,OTHER,HDPE/PP,Medical Container,Johanna Road,1.5
+2022-09-06,Farm Gold,OTHER,HDPE/PP,Food Container/Packaging,Johanna Road,1.5
+2022-09-06,Enervite,OTHER,HDPE/PP,Medical Container,Johanna Road,1.5
+2022-09-06,Isoplus,OTHER,HDPE/PP,Skin/Hair Products,Johanna Road,1.5
+2022-09-06,Domestos,OTHER,HDPE/PP,Cleaning Product,Johanna Road,1.5
+2022-09-06,Rondo,OTHER,HDPE/PP,Unidentifiable,Johanna Road,1.5
+2022-09-06,Polar,OTHER,HDPE/PP,Bucket,Johanna Road,1.5
+2022-09-06,Muscle Tech,OTHER,HDPE/PP,Food Container/Packaging,Johanna Road,1.5
+2022-09-06,Restore,OTHER,HDPE/PP,Food Container/Packaging,Johanna Road,1.5
+2022-09-06,Clear Cough,OTHER,HDPE/PP,Medical Container,Johanna Road,1.5
+2022-09-06,Jik,OTHER,HDPE/PP,Cleaning Product,Johanna Road,1.5
+2022-09-06,pristine,OTHER,HDPE/PP,Container,Johanna Road,1.5
+2022-09-06,Clifton,OTHER,HDPE/PP,Skin/Hair Products,Johanna Road,1.5
+2022-09-06,Caivil,OTHER,HDPE/PP,Skin/Hair Products,Johanna Road,1.5
+2022-09-06,Dairymaid,OTHER,HDPE/PP,Milk,Johanna Road,1.5
+2022-09-06,umvusi wabantu herbs,OTHER,HDPE/PP,Medical Container,Johanna Road,1.5
+2022-09-06,eucerine,OTHER,HDPE/PP,Skin/Hair Products,Johanna Road,1.5
+2022-09-06,Kepro,OTHER,HDPE/PP,Food Container/Packaging,Johanna Road,1.5
+2022-09-06,Sheer elegance,OTHER,HDPE/PP,Skin/Hair Products,Johanna Road,1.5
+2022-09-06,Moon Drops,OTHER,HDPE/PP,Skin/Hair Products,Johanna Road,1.5
+2022-09-06,Inecto,OTHER,HDPE/PP,Skin/Hair Products,Johanna Road,1.5
+2022-09-06,Aspen,OTHER,HDPE/PP,Medical Container,Johanna Road,1.5
+2022-09-06,Imari,OTHER,HDPE/PP,Skin/Hair Products,Johanna Road,1.5
+2022-09-06,Opulence,OTHER,HDPE/PP,Medical Container,Johanna Road,1.5
+2022-09-06,Resmed,OTHER,HDPE/PP,Medical Container,Johanna Road,1.5
+2022-09-06,Vitaforce,OTHER,HDPE/PP,Medical Container,Johanna Road,1.5
+2022-09-06,Prtiam,OTHER,HDPE/PP,Unidentifiable,Johanna Road,1.5
+2022-09-06,Blue Diamond,OTHER,HDPE/PP,Milk,Johanna Road,1.5
+2022-09-06,lenovo,OTHER,HDPE/PP,Unidentifiable,Johanna Road,1.5
+2022-09-06,Pharma Chem,OTHER,HDPE/PP,Medical Container,Johanna Road,1.5
+2022-09-06,Phipp's,OTHER,HDPE/PP,Medical Container,Johanna Road,1.5
+2022-09-06,Ingonyama,OTHER,HDPE/PP,Unidentifiable,Johanna Road,1.5
+2022-09-06,Aurobindo,OTHER,HDPE/PP,Medical Container,Johanna Road,1.5
+2022-09-06,Vix,OTHER,HDPE/PP,Unidentifiable,Johanna Road,1.5
+2022-09-06,WC Ente,OTHER,HDPE/PP,Cleaning Product,Johanna Road,1.5
+2022-09-06,Macleods Pharmac.,OTHER,HDPE/PP,Medical Container,Johanna Road,1.5
+2022-09-06,Sonke Pharmac.,OTHER,HDPE/PP,Medical Container,Johanna Road,1.5
+2022-09-06,Wokali,OTHER,HDPE/PP,Skin/Hair Products,Johanna Road,1.5
+2022-09-06,Arthur Ford,OTHER,HDPE/PP,Skin/Hair Products,Johanna Road,1.5
+2022-09-07,Coca Cola Beverages South Africa,Coca Cola Beverages South Africa,PET,Soda,Golf Course,83
+2022-09-07,Twist,Coca Cola Beverages South Africa,PET,Soda,Golf Course,32
+2022-09-07,Stoney,Coca Cola Beverages South Africa,PET,Soda,Golf Course,7
+2022-09-07,Sprite,Coca Cola Beverages South Africa,PET,Soda,Golf Course,5
+2022-09-07,Powerade,Coca Cola Beverages South Africa,PET,Soda,Golf Course,10
+2022-09-07,Fanta,Coca Cola Beverages South Africa,PET,Soda,Golf Course,11
+2022-09-07,bonaqua,Coca Cola Beverages South Africa,PET,Water,Golf Course,1
+2022-09-07,Spar-Letta,Coca Cola Beverages South Africa,PET,Water,Golf Course,1
+2022-09-07,Valpré Spring Water,Coca Cola Beverages South Africa,PET,Water,Golf Course,6
+2022-09-07,Schweppes,Coca Cola Beverages South Africa,PET,Soda,Golf Course,2
+2022-09-07,Cooee,Bevco - The Beverage Company,PET,Soda,Golf Course,36
+2022-09-07,Pepsi,Bevco - The Beverage Company,PET,Soda,Golf Course,0
+2022-09-07,aQuellé,Ekhamanzi Springs,PET,Water,Golf Course,14
+2022-09-07,Sunfoil,Willowton Group,PET,Sunflower Oil,Golf Course,0
+2022-09-07,Sunshine D,Willowton Group,PET,Food Container/Packaging,Golf Course,0
+2022-09-07,d'Lite,Willowton Group,PET,Sunflower Oil,Golf Course,0
+2022-09-07,d'Lite,Willowton Group,HDPE/PP,Food Container/Packaging,Golf Course,0
+2022-09-07,Smirnoff,Smirnoff,PET,Alcohol,Golf Course,17
+2022-09-07,NOLA,RCL Foods,PET,Food Container/Packaging,Golf Course,15
+2022-09-07,NOLA,RCL Foods,HDPE/PP,Food Container/Packaging,Golf Course,0
+2022-09-07,YUM YUM,RCL Foods,PET,Food Container/Packaging,Golf Course,2
+2022-09-07,YUM YUM,RCL Foods,HDPE/PP,Food Container/Packaging,Golf Course,0
+2022-09-07,Number 1,RCL Foods,HDPE/PP,Food Container/Packaging,Golf Course,0
+2022-09-07,PIEMAN'S,RCL Foods,PET,Food Container/Packaging,Golf Course,0
+2022-09-07,Checker's House Brand,Checker's,PET,Sunflower Oil,Golf Course,0
+2022-09-07,Checker's House Brand,Checker's,HDPE/PP,Food Container/Packaging,Golf Course,0
+2022-09-07,Gentle Magic,Gentle Magic,PET,Skin/Hair Products,Golf Course,0
+2022-09-07,Woolworths Food,Woolworths,PET,Juices,Golf Course,2
+2022-09-07,Woolworths Food,Woolworths,HDPE/PP,Food Container/Packaging,Golf Course,0
+2022-09-07,UnID Water,unidentifiable,PET,Water,Golf Course,39
+2022-09-07,UnID Oils,unidentifiable,PET,Sunflower Oil,Golf Course,40
+2022-09-07,PET,unidentifiable,PET,Container,Golf Course,115
+2022-09-07,UnID Medical,unidentifiable,HDPE/PP,Medical Container,Golf Course,75
+2022-09-07,DEO,DEO,HDPE/PP,Deodorant,Golf Course,111
+2022-09-07,Containers,Containers,HDPE/PP,Container,Golf Course,0
+2022-09-07,Buckets,Buckets,HDPE/PP,Bucket,Golf Course,0
+2022-09-07,OTHER,OTHER,HDPE/PP,Unidentifiable,Golf Course,131
+2022-09-07,Clover,Clover Industries LTD,PET,Juices,Golf Course,0
+2022-09-07,Clover,Clover Industries LTD,HDPE/PP,Milk,Golf Course,16
+2022-09-07,Tropika,Clover Industries LTD,PET,Juices,Golf Course,0
+2022-09-07,Tropika,Clover Industries LTD,HDPE/PP,Juices,Golf Course,0
+2022-09-07,Super M,Clover Industries LTD,HDPE,Milk,Golf Course,4
+2022-09-07,Quali,Clover Industries LTD,PET,Juices,Golf Course,0
+2022-09-07,Quali,Clover Industries LTD,HDPE/PP,Juices,Golf Course,0
+2022-09-07,Aquartz,Clover Industries LTD,PET,Water,Golf Course,0
+2022-09-07,Sip Up,Clover Industries LTD,HDPE,Milk,Golf Course,2
+2022-09-07,Go Nuts,Clover Industries LTD,HDPE,Food Container/Packaging,Golf Course,0
+2022-09-07,Daly's,Pioneer Foods,PET,Juices,Golf Course,0
+2022-09-07,Ceres,Pioneer Foods,NA,Juices,Golf Course,0
+2022-09-07,OROS,Tiger Brands,PET,Juices,Golf Course,1
+2022-09-07,Dolly Varden,Tiger Brands,PET,Skin/Hair Products,Golf Course,0
+2022-09-07,Dolly Varden,Tiger Brands,HDPE/PP,Skin/Hair Products,Golf Course,5
+2022-09-07,Hall's,Tiger Brands,PET,Juices,Golf Course,0
+2022-09-07,Energade,Tiger Brands,PET,Soda,Golf Course,18
+2022-09-07,Ingram's (The Skin Doctor),Tiger Brands,HDPE/PP,Skin/Hair Products,Golf Course,1
+2022-09-07,IJUBA,United National Breweries PTY LTD,HDPE/PP,Alcohol,Golf Course,0
+2022-09-07,Knorr,Unilever,HDPE/PP,Food Container/Packaging,Golf Course,10
+2022-09-07,dawn,Unilever,HDPE/PP,Deodorant,Golf Course,0
+2022-09-07,Domestos,Unilever,HDPE/PP,Cleaning Product,Golf Course,0
+2022-09-07,Dove,Unilever,HDPE/PP,Deodorant,Golf Course,0
+2022-09-07,Handy Andy,Unilever,HDPE/PP,Cleaning Product,Golf Course,0
+2022-09-07,Ola,Unilever,HDPE/PP,Food Container/Packaging,Golf Course,0
+2022-09-07,Shield,Unilever,HDPE/PP,Deodorant,Golf Course,3
+2022-09-07,Vaseline,Unilever,HDPE/PP,Skin/Hair Products,Golf Course,26
+2022-09-07,Brut,Unilever,HDPE/PP,Deodorant,Golf Course,0
+2022-09-07,OMO,Unilever,HDPE/PP,Cleaning Product,Golf Course,0
+2022-09-07,Comfort,Unilever,HDPE/PP,Cleaning Product,Golf Course,0
+2022-09-07,Sunlight,Unilever,PET,Cleaning Product,Golf Course,9
+2022-09-07,Orange Grove,Orange Grove,PET,Juices,Golf Course,0
+2022-09-07,Orange Grove,Orange Grove,HDPE/PP,Milk,Golf Course,2
+2022-09-07,Flora,Siqolo Foods,HDPE/PP,Food Container/Packaging,Golf Course,0
+2022-09-07,Rama,Siqolo Foods,HDPE/PP,Food Container/Packaging,Golf Course,0
+2022-09-07,Stork,Siqolo Foods,HDPE/PP,Food Container/Packaging,Golf Course,0
+2022-09-07,Rondo,Siqolo Foods,HDPE/PP,Food Container/Packaging,Golf Course,0
+2022-09-07,Clere,Amka Products,HDPE/PP,Skin/Hair Products,Golf Course,1
+2022-09-07,Easy Waves,Amka Products,HDPE/PP,Skin/Hair Products,Golf Course,1
+2022-09-07,Playboy/Playgirl,Amka Products,HDPE/PP,Deodorant,Golf Course,4
+2022-09-07,Shower to Shower,Amka Products,HDPE/PP,Skin/Hair Products,Golf Course,0
+2022-09-07,Sta-Sof-Fro,Amka Products,HDPE/PP,Skin/Hair Products,Golf Course,0
+2022-09-07,Stylin',Amka Products,HDPE/PP,Skin/Hair Products,Golf Course,0
+2022-09-07,NIVEA,Beiersdorf,HDPE/PP,Skin/Hair Products,Golf Course,2
+2022-09-07,Top Class,Kwaden Group (imana foods),HDPE/PP,Food Container/Packaging,Golf Course,2
+2022-09-07,parmalat,Lactalis,HDPE/PP,Milk,Golf Course,2
+2022-09-07,Mylan,Viatris,HDPE/PP,Medical Container,Golf Course,0
+2022-09-07,NTSU,Mr Snuff,HDPE/PP,Tobacco,Golf Course,160
+2022-09-07,Oh So Heavenly,wipro,HDPE/PP,Skin/Hair Products,Golf Course,2
+2022-09-07,Yogi Sip,danone,HDPE/PP,Milk,Golf Course,3
+2022-09-07,alpro,danone,HDPE/PP,Milk,Golf Course,1
+2022-09-07,Inkomazi,danone,HDPE/PP,Milk,Golf Course,0
+2022-09-07,NutriDay,danone,HDPE/PP,Milk,Golf Course,0
+2022-09-07,Spring Meadow Dairy Farm,Spring Meadow Dairy Farm,PET,Milk,Golf Course,2
+2022-09-07,NA,Spring Meadow Dairy Farm,HDPE/PP,Milk,Golf Course,1
+2022-09-07,Crystal Valley,Crystal Valley,HDPE/PP,Milk,Golf Course,0
+2022-09-07,MAZ,MAZ,PET,Juices,Golf Course,0
+2022-09-07,Wild Island,Wild Island,PET,Juices,Golf Course,0
+2022-09-07,Save Water,Save Water,PET,Water,Golf Course,0
+2022-09-07,Pot 'o' Gold,Pot 'o' Gold,PET,Food Container/Packaging,Golf Course,0
+2022-09-07,Diamond Perlé,Diamond Perlé,PET,Water,Golf Course,0
+2022-09-07,Cappy,Coca Cola Beverages South Africa,PET,Juices,Golf Course,0
+2022-09-07,Bramley,Bramley,PET,Juices,Golf Course,3
+2022-09-07,Bramley,Bramley,HDPE/PP,Food Container/Packaging,Golf Course,0
+2022-09-07,Still Thirsti,Still Thirsti,PET,Water,Golf Course,0
+2022-09-07,Large Gas Containers,Miscellaneous,HDPE/PP,Container,Golf Course,0
+2022-09-07,Jabulani,Amasi,HDPE/PP,Milk,Golf Course,0
+2022-09-07,Gandour,OTHER,HDPE/PP,Food Container/Packaging,Golf Course,0
+2022-09-07,AVON,OTHER,HDPE/PP,Skin/Hair Products,Golf Course,0
+2022-09-07,Caro Light,OTHER,HDPE/PP,Skin/Hair Products,Golf Course,0
+2022-09-07,Mitchum,OTHER,HDPE/PP,Deodorant,Golf Course,0
+2022-09-07,Garnier,OTHER,HDPE/PP,Skin/Hair Products,Golf Course,0
+2022-09-07,Skin Clinic,OTHER,HDPE/PP,Skin/Hair Products,Golf Course,4
+2022-09-07,Hetero Drugs South Africa,OTHER,HDPE/PP,Medical Container,Golf Course,0
+2022-09-07,Cipla,OTHER,HDPE/PP,Medical Container,Golf Course,0
+2022-09-07,MPACT,OTHER,HDPE/PP,Container,Golf Course,5
+2022-09-07,mondi,OTHER,HDPE/PP,Container,Golf Course,4
+2022-09-07,Dettol,OTHER,PET,Skin/Hair Products,Golf Course,3
+2022-09-07,Nestlé,OTHER,HDPE/PP,Food Container/Packaging,Golf Course,1
+2022-09-07,Johnson's,OTHER,PET,Medical Container,Golf Course,2
+2022-09-07,Sir Fruit,OTHER,PET,Juices,Golf Course,1
+2022-09-07,Lucozade,OTHER,PET,Soda,Golf Course,0
+2022-09-07,Wimpy,OTHER,HDPE/PP,Food Container/Packaging,Golf Course,0
+2022-09-07,Check Value Sun Oil,OTHER,PET,Sunflower Oil,Golf Course,0
+2022-09-07,Check Value Washing,OTHER,PET,Cleaning Product,Golf Course,0
+2022-09-07,Check Value,OTHER,HDPE/PP,Food Container/Packaging,Golf Course,0
+2022-09-07,Twizza,OTHER,PET,Soda,Golf Course,1
+2022-09-07,Spar,OTHER,HDPE/PP,Food Container/Packaging,Golf Course,1
+2022-09-07,We are AQUA,OTHER,PET,Water,Golf Course,0
+2022-09-07,One-Juice,OTHER,PET,Juices,Golf Course,0
+2022-09-07,Indlovu,OTHER,PET,Alcohol,Golf Course,0
+2022-09-07,Safola,OTHER,PET,Sunflower Oil,Golf Course,0
+2022-09-07,Clicks,OTHER,PET,Skin/Hair Products,Golf Course,0
+2022-09-07,Sunola,OTHER,PET,Sunflower Oil,Golf Course,0
+2022-09-07,Rider's Vodka,OTHER,PET,Alcohol,Golf Course,0
+2022-09-07,Volutrip,OTHER,HDPE/PP,Medical Container,Golf Course,0
+2022-09-07,Swiss Yoghurt,OTHER,HDPE/PP,Food Container/Packaging,Golf Course,0
+2022-09-07,Lancewood,OTHER,HDPE/PP,Food Container/Packaging,Golf Course,0
+2022-09-07,Pick n Pay,OTHER,HDPE/PP,Food Container/Packaging,Golf Course,0
+2022-09-07,Dairymaid,OTHER,HDPE/PP,Milk,Golf Course,0
+2022-09-07,Castrol,OTHER,HDPE/PP,Container,Golf Course,0
+2022-09-07,Rainbow,OTHER,HDPE/PP,Container,Golf Course,0
+2022-09-07,Plascon,OTHER,HDPE/PP,Bucket,Golf Course,0
+2022-09-07,Revlon,OTHER,HDPE/PP,Skin/Hair Products,Golf Course,0
+2022-09-07,shell,OTHER,HDPE/PP,Container,Golf Course,0
+2022-09-07,Natural flow,OTHER,HDPE/PP,Food Container/Packaging,Golf Course,0
+2022-09-07,Safripol,OTHER,PET,Container,Golf Course,0
+2022-09-07,Smartshake,OTHER,PET,Milk,Golf Course,1.5
+2022-09-07,shalina,OTHER,PET,Medical Container,Golf Course,1.5
+2022-09-07,justine,OTHER,PET,Skin/Hair Products,Golf Course,1.5
+2022-09-07,purple,OTHER,PET,Soda,Golf Course,1.5
+2022-09-07,minnies,OTHER,PET,Food Container/Packaging,Golf Course,1.5
+2022-09-07,three ships,OTHER,PET,Alcohol,Golf Course,1.5
+2022-09-07,fruletta,OTHER,PET,Juices,Golf Course,1.5
+2022-09-07,Ubuhle,OTHER,PET,Skin/Hair Products,Golf Course,1.5
+2022-09-07,pritt,OTHER,HDPE/PP,Unidentifiable,Golf Course,1.5
+2022-09-07,soul mate,OTHER,HDPE/PP,Skin/Hair Products,Golf Course,1.5
+2022-09-07,inveroche,OTHER,HDPE/PP,Alcohol,Golf Course,1.5
+2022-09-07,inova,OTHER,HDPE/PP,Medical Container,Golf Course,1.5
+2022-09-07,right on,OTHER,HDPE/PP,Unidentifiable,Golf Course,1.5
+2022-09-07,Inecto,OTHER,HDPE/PP,Skin/Hair Products,Golf Course,1.5
+2022-09-07,vivilite,OTHER,HDPE/PP,Unidentifiable,Golf Course,1.5
+2022-09-07,Cipla,OTHER,HDPE/PP,Medical Container,Golf Course,1.5
+2022-09-07,Bio Claire,OTHER,HDPE/PP,Skin/Hair Products,Golf Course,1.5
+2022-09-07,pharma pac,OTHER,HDPE/PP,Medical Container,Golf Course,1.5
+2022-09-07,Swankie,OTHER,HDPE/PP,Skin/Hair Products,Golf Course,1.5
+2022-09-07,Gandour,OTHER,HDPE/PP,Skin/Hair Products,Golf Course,1.5
+2022-09-07,AVON,OTHER,HDPE/PP,Skin/Hair Products,Golf Course,1.5
+2022-09-07,Bostik,OTHER,HDPE/PP,Unidentifiable,Golf Course,1.5
+2022-09-07,Astrol,OTHER,HDPE/PP,Food Container/Packaging,Golf Course,1.5
+2022-09-07,the immune doctor,OTHER,HDPE/PP,Medical Container,Golf Course,1.5
+2022-09-07,hairglo,OTHER,HDPE/PP,Skin/Hair Products,Golf Course,1.5
+2022-09-07,sorbet,OTHER,HDPE/PP,Skin/Hair Products,Golf Course,1.5
+2022-09-07,blue ice,OTHER,HDPE/PP,Unidentifiable,Golf Course,1.5
+2022-09-07,jonny walker,OTHER,HDPE/PP,Alcohol,Golf Course,1.5
+2022-09-07,scala,OTHER,HDPE/PP,Medical Container,Golf Course,1.5
+2022-09-07,bco,OTHER,HDPE/PP,Medical Container,Golf Course,1.5
+2022-09-07,Jik,OTHER,HDPE/PP,Cleaning Product,Golf Course,1.5
+2022-09-07,amla oil,OTHER,HDPE/PP,Skin/Hair Products,Golf Course,1.5
+2022-09-07,Bodicare,OTHER,HDPE/PP,Food Container/Packaging,Golf Course,1.5
+2022-09-07,IMC,OTHER,HDPE/PP,Unidentifiable,Golf Course,1.5
+2022-09-07,Brunel,OTHER,HDPE/PP,Medical Container,Golf Course,1.5
+2022-09-07,Viking,OTHER,HDPE/PP,Container,Golf Course,1.5
+2022-09-07,Hunger,OTHER,HDPE/PP,Unidentifiable,Golf Course,1.5
+2022-09-07,Black Chic,OTHER,HDPE/PP,Skin/Hair Products,Golf Course,1.5
+2022-09-07,Subaru,OTHER,HDPE/PP,Container,Golf Course,1.5
+2022-09-07,Farm Gold,OTHER,HDPE/PP,Food Container/Packaging,Golf Course,1.5
+2022-09-07,Moss,OTHER,HDPE/PP,Unidentifiable,Golf Course,1.5
+2022-09-07,Austral,OTHER,HDPE/PP,Unidentifiable,Golf Course,1.5
+2022-09-07,Neolife Shake,OTHER,HDPE/PP,Food Container/Packaging,Golf Course,1.5
+2022-09-07,Mist alba,OTHER,HDPE/PP,Medical Container,Golf Course,1.5
+2022-09-15,Coca Cola Beverages South Africa,Coca Cola Beverages South Africa,PET,Soda,Beach-wood,248
+2022-09-15,Twist,Coca Cola Beverages South Africa,PET,Soda,Beach-wood,19
+2022-09-15,Stoney,Coca Cola Beverages South Africa,PET,Soda,Beach-wood,19
+2022-09-15,Sprite,Coca Cola Beverages South Africa,PET,Soda,Beach-wood,16
+2022-09-15,Powerade,Coca Cola Beverages South Africa,PET,Soda,Beach-wood,5
+2022-09-15,Fanta,Coca Cola Beverages South Africa,PET,Soda,Beach-wood,26
+2022-09-15,bonaqua,Coca Cola Beverages South Africa,PET,Water,Beach-wood,0
+2022-09-15,Spar-Letta,Coca Cola Beverages South Africa,PET,Water,Beach-wood,21
+2022-09-15,Valpré Spring Water,Coca Cola Beverages South Africa,PET,Water,Beach-wood,0
+2022-09-15,Schweppes,Coca Cola Beverages South Africa,PET,Soda,Beach-wood,0
+2022-09-15,Cooee,Bevco - The Beverage Company,PET,Soda,Beach-wood,37
+2022-09-15,Pepsi,Bevco - The Beverage Company,PET,Soda,Beach-wood,4
+2022-09-15,aQuellé,Ekhamanzi Springs,PET,Water,Beach-wood,51
+2022-09-15,Sunfoil,Willowton Group,PET,Sunflower Oil,Beach-wood,4
+2022-09-15,Sunshine D,Willowton Group,PET,Food Container/Packaging,Beach-wood,0
+2022-09-15,d'Lite,Willowton Group,PET,Sunflower Oil,Beach-wood,0
+2022-09-15,d'Lite,Willowton Group,HDPE/PP,Food Container/Packaging,Beach-wood,0
+2022-09-15,Smirnoff,Smirnoff,PET,Alcohol,Beach-wood,0
+2022-09-15,NOLA,RCL Foods,PET,Food Container/Packaging,Beach-wood,0
+2022-09-15,NOLA,RCL Foods,HDPE/PP,Food Container/Packaging,Beach-wood,0
+2022-09-15,YUM YUM,RCL Foods,PET,Food Container/Packaging,Beach-wood,0
+2022-09-15,YUM YUM,RCL Foods,HDPE/PP,Food Container/Packaging,Beach-wood,0
+2022-09-15,Number 1,RCL Foods,HDPE/PP,Food Container/Packaging,Beach-wood,0
+2022-09-15,PIEMAN'S,RCL Foods,PET,Food Container/Packaging,Beach-wood,0
+2022-09-15,Checker's House Brand,Checker's,PET,Sunflower Oil,Beach-wood,0
+2022-09-15,Checker's House Brand,Checker's,HDPE/PP,Food Container/Packaging,Beach-wood,0
+2022-09-15,Gentle Magic,Gentle Magic,PET,Skin/Hair Products,Beach-wood,0
+2022-09-15,Woolworths Food,Woolworths,PET,Juices,Beach-wood,0
+2022-09-15,Woolworths Food,Woolworths,HDPE/PP,Food Container/Packaging,Beach-wood,0
+2022-09-15,UnID Water,unidentifiable,PET,Water,Beach-wood,8
+2022-09-15,UnID Oils,unidentifiable,PET,Sunflower Oil,Beach-wood,1
+2022-09-15,PET,unidentifiable,PET,Container,Beach-wood,9
+2022-09-15,UnID Medical,unidentifiable,HDPE/PP,Medical Container,Beach-wood,0
+2022-09-15,DEO,DEO,HDPE/PP,Deodorant,Beach-wood,0
+2022-09-15,Containers,Containers,HDPE/PP,Container,Beach-wood,0
+2022-09-15,Buckets,Buckets,HDPE/PP,Bucket,Beach-wood,0
+2022-09-15,OTHER,OTHER,HDPE/PP,Unidentifiable,Beach-wood,0
+2022-09-15,Clover,Clover Industries LTD,PET,Juices,Beach-wood,12
+2022-09-15,Clover,Clover Industries LTD,HDPE/PP,Milk,Beach-wood,0
+2022-09-15,Tropika,Clover Industries LTD,PET,Juices,Beach-wood,0
+2022-09-15,Tropika,Clover Industries LTD,HDPE/PP,Juices,Beach-wood,0
+2022-09-15,Super M,Clover Industries LTD,HDPE,Milk,Beach-wood,0
+2022-09-15,Quali,Clover Industries LTD,PET,Juices,Beach-wood,0
+2022-09-15,Quali,Clover Industries LTD,HDPE/PP,Juices,Beach-wood,0
+2022-09-15,Aquartz,Clover Industries LTD,PET,Water,Beach-wood,0
+2022-09-15,Sip Up,Clover Industries LTD,HDPE,Milk,Beach-wood,0
+2022-09-15,Go Nuts,Clover Industries LTD,HDPE,Food Container/Packaging,Beach-wood,0
+2022-09-15,Daly's,Pioneer Foods,PET,Juices,Beach-wood,0
+2022-09-15,Ceres,Pioneer Foods,NA,Juices,Beach-wood,0
+2022-09-15,OROS,Tiger Brands,PET,Juices,Beach-wood,0
+2022-09-15,Dolly Varden,Tiger Brands,PET,Skin/Hair Products,Beach-wood,0
+2022-09-15,Dolly Varden,Tiger Brands,HDPE/PP,Skin/Hair Products,Beach-wood,0
+2022-09-15,Hall's,Tiger Brands,PET,Juices,Beach-wood,0
+2022-09-15,Energade,Tiger Brands,PET,Soda,Beach-wood,33
+2022-09-15,Ingram's (The Skin Doctor),Tiger Brands,HDPE/PP,Skin/Hair Products,Beach-wood,0
+2022-09-15,IJUBA,United National Breweries PTY LTD,HDPE/PP,Alcohol,Beach-wood,0
+2022-09-15,Knorr,Unilever,HDPE/PP,Food Container/Packaging,Beach-wood,0
+2022-09-15,dawn,Unilever,HDPE/PP,Deodorant,Beach-wood,0
+2022-09-15,Domestos,Unilever,HDPE/PP,Cleaning Product,Beach-wood,0
+2022-09-15,Dove,Unilever,HDPE/PP,Deodorant,Beach-wood,0
+2022-09-15,Handy Andy,Unilever,HDPE/PP,Cleaning Product,Beach-wood,0
+2022-09-15,Ola,Unilever,HDPE/PP,Food Container/Packaging,Beach-wood,0
+2022-09-15,Shield,Unilever,HDPE/PP,Deodorant,Beach-wood,0
+2022-09-15,Vaseline,Unilever,HDPE/PP,Skin/Hair Products,Beach-wood,0
+2022-09-15,Brut,Unilever,HDPE/PP,Deodorant,Beach-wood,0
+2022-09-15,OMO,Unilever,HDPE/PP,Cleaning Product,Beach-wood,0
+2022-09-15,Comfort,Unilever,HDPE/PP,Cleaning Product,Beach-wood,0
+2022-09-15,Sunlight,Unilever,PET,Cleaning Product,Beach-wood,11
+2022-09-15,Orange Grove,Orange Grove,PET,Juices,Beach-wood,0
+2022-09-15,Orange Grove,Orange Grove,HDPE/PP,Milk,Beach-wood,0
+2022-09-15,Flora,Siqolo Foods,HDPE/PP,Food Container/Packaging,Beach-wood,0
+2022-09-15,Rama,Siqolo Foods,HDPE/PP,Food Container/Packaging,Beach-wood,0
+2022-09-15,Stork,Siqolo Foods,HDPE/PP,Food Container/Packaging,Beach-wood,0
+2022-09-15,Rondo,Siqolo Foods,HDPE/PP,Food Container/Packaging,Beach-wood,0
+2022-09-15,Clere,Amka Products,HDPE/PP,Skin/Hair Products,Beach-wood,0
+2022-09-15,Easy Waves,Amka Products,HDPE/PP,Skin/Hair Products,Beach-wood,0
+2022-09-15,Playboy/Playgirl,Amka Products,HDPE/PP,Deodorant,Beach-wood,0
+2022-09-15,Shower to Shower,Amka Products,HDPE/PP,Skin/Hair Products,Beach-wood,0
+2022-09-15,Sta-Sof-Fro,Amka Products,HDPE/PP,Skin/Hair Products,Beach-wood,0
+2022-09-15,Stylin',Amka Products,HDPE/PP,Skin/Hair Products,Beach-wood,0
+2022-09-15,NIVEA,Beiersdorf,HDPE/PP,Skin/Hair Products,Beach-wood,0
+2022-09-15,Top Class,Kwaden Group (imana foods),HDPE/PP,Food Container/Packaging,Beach-wood,0
+2022-09-15,parmalat,Lactalis,HDPE/PP,Milk,Beach-wood,0
+2022-09-15,Mylan,Viatris,HDPE/PP,Medical Container,Beach-wood,0
+2022-09-15,NTSU,Mr Snuff,HDPE/PP,Tobacco,Beach-wood,0
+2022-09-15,Oh So Heavenly,wipro,HDPE/PP,Skin/Hair Products,Beach-wood,0
+2022-09-15,Yogi Sip,danone,HDPE/PP,Milk,Beach-wood,0
+2022-09-15,alpro,danone,HDPE/PP,Milk,Beach-wood,0
+2022-09-15,Inkomazi,danone,HDPE/PP,Milk,Beach-wood,0
+2022-09-15,NutriDay,danone,HDPE/PP,Milk,Beach-wood,0
+2022-09-15,Spring Meadow Dairy Farm,Spring Meadow Dairy Farm,PET,Milk,Beach-wood,0
+2022-09-15,NA,Spring Meadow Dairy Farm,HDPE/PP,Milk,Beach-wood,2
+2022-09-15,Crystal Valley,Crystal Valley,HDPE/PP,Milk,Beach-wood,0
+2022-09-15,MAZ,MAZ,PET,Juices,Beach-wood,0
+2022-09-15,Wild Island,Wild Island,PET,Juices,Beach-wood,0
+2022-09-15,Save Water,Save Water,PET,Water,Beach-wood,0
+2022-09-15,Pot 'o' Gold,Pot 'o' Gold,PET,Food Container/Packaging,Beach-wood,0
+2022-09-15,Diamond Perlé,Diamond Perlé,PET,Water,Beach-wood,0
+2022-09-15,Cappy,Coca Cola Beverages South Africa,PET,Juices,Beach-wood,2
+2022-09-15,Bramley,Bramley,PET,Juices,Beach-wood,0
+2022-09-15,Bramley,Bramley,HDPE/PP,Food Container/Packaging,Beach-wood,0
+2022-09-15,Still Thirsti,Still Thirsti,PET,Water,Beach-wood,0
+2022-09-15,Large Gas Containers,Miscellaneous,HDPE/PP,Container,Beach-wood,0
+2022-09-15,Jabulani,Amasi,HDPE/PP,Milk,Beach-wood,0
+2022-09-15,Gandour,OTHER,HDPE/PP,Food Container/Packaging,Beach-wood,0
+2022-09-15,AVON,OTHER,HDPE/PP,Skin/Hair Products,Beach-wood,0
+2022-09-15,Caro Light,OTHER,HDPE/PP,Skin/Hair Products,Beach-wood,0
+2022-09-15,Mitchum,OTHER,HDPE/PP,Deodorant,Beach-wood,0
+2022-09-15,Garnier,OTHER,HDPE/PP,Skin/Hair Products,Beach-wood,0
+2022-09-15,Skin Clinic,OTHER,HDPE/PP,Skin/Hair Products,Beach-wood,0
+2022-09-15,Hetero Drugs South Africa,OTHER,HDPE/PP,Medical Container,Beach-wood,0
+2022-09-15,Cipla,OTHER,HDPE/PP,Medical Container,Beach-wood,0
+2022-09-15,MPACT,OTHER,HDPE/PP,Container,Beach-wood,0
+2022-09-15,mondi,OTHER,HDPE/PP,Container,Beach-wood,0
+2022-09-15,Dettol,OTHER,PET,Skin/Hair Products,Beach-wood,0
+2022-09-15,Nestlé,OTHER,HDPE/PP,Food Container/Packaging,Beach-wood,0
+2022-09-15,Johnson's,OTHER,PET,Medical Container,Beach-wood,0
+2022-09-15,Sir Fruit,OTHER,PET,Juices,Beach-wood,16
+2022-09-15,Lucozade,OTHER,PET,Soda,Beach-wood,2
+2022-09-15,Wimpy,OTHER,HDPE/PP,Food Container/Packaging,Beach-wood,0
+2022-09-15,Check Value Sun Oil,OTHER,PET,Sunflower Oil,Beach-wood,0
+2022-09-15,Check Value Washing,OTHER,PET,Cleaning Product,Beach-wood,0
+2022-09-15,Check Value,OTHER,HDPE/PP,Food Container/Packaging,Beach-wood,0
+2022-09-15,Twizza,OTHER,PET,Soda,Beach-wood,0
+2022-09-15,Spar,OTHER,HDPE/PP,Food Container/Packaging,Beach-wood,1
+2022-09-15,We are AQUA,OTHER,PET,Water,Beach-wood,11
+2022-09-15,One-Juice,OTHER,PET,Juices,Beach-wood,5
+2022-09-15,Indlovu,OTHER,PET,Alcohol,Beach-wood,0
+2022-09-15,Safola,OTHER,PET,Sunflower Oil,Beach-wood,0
+2022-09-15,Clicks,OTHER,PET,Skin/Hair Products,Beach-wood,0
+2022-09-15,Sunola,OTHER,PET,Sunflower Oil,Beach-wood,0
+2022-09-15,Rider's Vodka,OTHER,PET,Alcohol,Beach-wood,0
+2022-09-15,Volutrip,OTHER,HDPE/PP,Medical Container,Beach-wood,0
+2022-09-15,Swiss Yoghurt,OTHER,HDPE/PP,Food Container/Packaging,Beach-wood,0
+2022-09-15,Lancewood,OTHER,HDPE/PP,Food Container/Packaging,Beach-wood,0
+2022-09-15,Pick n Pay,OTHER,HDPE/PP,Food Container/Packaging,Beach-wood,0
+2022-09-15,Dairymaid,OTHER,HDPE/PP,Milk,Beach-wood,0
+2022-09-15,Castrol,OTHER,HDPE/PP,Container,Beach-wood,0
+2022-09-15,Rainbow,OTHER,HDPE/PP,Container,Beach-wood,0
+2022-09-15,Plascon,OTHER,HDPE/PP,Bucket,Beach-wood,0
+2022-09-15,Revlon,OTHER,HDPE/PP,Skin/Hair Products,Beach-wood,0
+2022-09-15,shell,OTHER,HDPE/PP,Container,Beach-wood,0
+2022-09-15,Natural flow,OTHER,HDPE/PP,Food Container/Packaging,Beach-wood,0
+2022-09-15,Safripol,OTHER,PET,Container,Beach-wood,0
+2022-09-15,Helios,OTHER,PET,Sunflower Oil,Beach-wood,1.5
+2022-09-15,Jumbo Brands,OTHER,PET,Juices,Beach-wood,1.5
+2022-09-15,PnP,OTHER,PET,Food Container/Packaging,Beach-wood,1.5
+2022-09-15,Simple Truth,OTHER,PET,Food Container/Packaging,Beach-wood,1.5
+2022-09-15,Fairfield Dairy,OTHER,PET,Milk,Beach-wood,1.5
+2022-09-15,Drink Prepared Still,OTHER,PET,Water,Beach-wood,1.5
+2022-09-15,de novo,OTHER,PET,Water,Beach-wood,1.5
+2022-09-15,Pure Refresh,OTHER,PET,Water,Beach-wood,1.5
+2022-09-15,Mr. Orange,OTHER,PET,Juices,Beach-wood,1.5
+2022-09-15,Sundale,OTHER,PET,Sunflower Oil,Beach-wood,1.5
+2022-09-15,Save Mor,OTHER,PET,Water,Beach-wood,1.5
+2022-09-15,Fresh Stop,OTHER,PET,Food Container/Packaging,Beach-wood,1.5
+2022-09-15,Quick Shop & Co,OTHER,PET,Food Container/Packaging,Beach-wood,1.5
+2022-09-15,bené,OTHER,PET,Water,Beach-wood,1.5
+2022-09-15,Purified Water,OTHER,PET,Water,Beach-wood,1.5
+2022-09-15,Sun Wild Coast,OTHER,PET,Water,Beach-wood,1.5
+2022-09-15,IMPO,OTHER,PET,Skin/Hair Products,Beach-wood,1.5
+2022-09-16,Coca Cola Beverages South Africa,Coca Cola Beverages South Africa,PET,Soda,Quarry Road,62
+2022-09-16,Twist,Coca Cola Beverages South Africa,PET,Soda,Quarry Road,7
+2022-09-16,Stoney,Coca Cola Beverages South Africa,PET,Soda,Quarry Road,4
+2022-09-16,Sprite,Coca Cola Beverages South Africa,PET,Soda,Quarry Road,2
+2022-09-16,Powerade,Coca Cola Beverages South Africa,PET,Soda,Quarry Road,7
+2022-09-16,Fanta,Coca Cola Beverages South Africa,PET,Soda,Quarry Road,7
+2022-09-16,bonaqua,Coca Cola Beverages South Africa,PET,Water,Quarry Road,3
+2022-09-16,Spar-Letta,Coca Cola Beverages South Africa,PET,Water,Quarry Road,3
+2022-09-16,Valpré Spring Water,Coca Cola Beverages South Africa,PET,Water,Quarry Road,1
+2022-09-16,Schweppes,Coca Cola Beverages South Africa,PET,Soda,Quarry Road,1
+2022-09-16,Cooee,Bevco - The Beverage Company,PET,Soda,Quarry Road,20
+2022-09-16,Pepsi,Bevco - The Beverage Company,PET,Soda,Quarry Road,0
+2022-09-16,aQuellé,Ekhamanzi Springs,PET,Water,Quarry Road,20
+2022-09-16,Sunfoil,Willowton Group,PET,Sunflower Oil,Quarry Road,20
+2022-09-16,Sunshine D,Willowton Group,PET,Food Container/Packaging,Quarry Road,0
+2022-09-16,d'Lite,Willowton Group,PET,Sunflower Oil,Quarry Road,5
+2022-09-16,d'Lite,Willowton Group,HDPE/PP,Food Container/Packaging,Quarry Road,2
+2022-09-16,Smirnoff,Smirnoff,PET,Alcohol,Quarry Road,13
+2022-09-16,NOLA,RCL Foods,PET,Food Container/Packaging,Quarry Road,7
+2022-09-16,NOLA,RCL Foods,HDPE/PP,Food Container/Packaging,Quarry Road,0
+2022-09-16,YUM YUM,RCL Foods,PET,Food Container/Packaging,Quarry Road,5
+2022-09-16,YUM YUM,RCL Foods,HDPE/PP,Food Container/Packaging,Quarry Road,0
+2022-09-16,Number 1,RCL Foods,HDPE/PP,Food Container/Packaging,Quarry Road,0
+2022-09-16,PIEMAN'S,RCL Foods,PET,Food Container/Packaging,Quarry Road,0
+2022-09-16,Checker's House Brand,Checker's,PET,Sunflower Oil,Quarry Road,3
+2022-09-16,Checker's House Brand,Checker's,HDPE/PP,Food Container/Packaging,Quarry Road,2
+2022-09-16,Gentle Magic,Gentle Magic,PET,Skin/Hair Products,Quarry Road,13
+2022-09-16,Woolworths Food,Woolworths,PET,Juices,Quarry Road,2
+2022-09-16,Woolworths Food,Woolworths,HDPE/PP,Food Container/Packaging,Quarry Road,0
+2022-09-16,UnID Water,unidentifiable,PET,Water,Quarry Road,11
+2022-09-16,UnID Oils,unidentifiable,PET,Sunflower Oil,Quarry Road,22
+2022-09-16,PET,unidentifiable,PET,Container,Quarry Road,25
+2022-09-16,UnID Medical,unidentifiable,HDPE/PP,Medical Container,Quarry Road,14
+2022-09-16,DEO,DEO,HDPE/PP,Deodorant,Quarry Road,2
+2022-09-16,Containers,Containers,HDPE/PP,Container,Quarry Road,0
+2022-09-16,Buckets,Buckets,HDPE/PP,Bucket,Quarry Road,0
+2022-09-16,OTHER,OTHER,HDPE/PP,Unidentifiable,Quarry Road,46
+2022-09-16,Clover,Clover Industries LTD,PET,Juices,Quarry Road,2
+2022-09-16,Clover,Clover Industries LTD,HDPE/PP,Milk,Quarry Road,32
+2022-09-16,Tropika,Clover Industries LTD,PET,Juices,Quarry Road,0
+2022-09-16,Tropika,Clover Industries LTD,HDPE/PP,Juices,Quarry Road,0
+2022-09-16,Super M,Clover Industries LTD,HDPE,Milk,Quarry Road,0
+2022-09-16,Quali,Clover Industries LTD,PET,Juices,Quarry Road,0
+2022-09-16,Quali,Clover Industries LTD,HDPE/PP,Juices,Quarry Road,0
+2022-09-16,Aquartz,Clover Industries LTD,PET,Water,Quarry Road,0
+2022-09-16,Sip Up,Clover Industries LTD,HDPE,Milk,Quarry Road,0
+2022-09-16,Go Nuts,Clover Industries LTD,HDPE,Food Container/Packaging,Quarry Road,0
+2022-09-16,Daly's,Pioneer Foods,PET,Juices,Quarry Road,1
+2022-09-16,Ceres,Pioneer Foods,NA,Juices,Quarry Road,0
+2022-09-16,OROS,Tiger Brands,PET,Juices,Quarry Road,3
+2022-09-16,Dolly Varden,Tiger Brands,PET,Skin/Hair Products,Quarry Road,1
+2022-09-16,Dolly Varden,Tiger Brands,HDPE/PP,Skin/Hair Products,Quarry Road,0
+2022-09-16,Hall's,Tiger Brands,PET,Juices,Quarry Road,0
+2022-09-16,Energade,Tiger Brands,PET,Soda,Quarry Road,8
+2022-09-16,Ingram's (The Skin Doctor),Tiger Brands,HDPE/PP,Skin/Hair Products,Quarry Road,1
+2022-09-16,IJUBA,United National Breweries PTY LTD,HDPE/PP,Alcohol,Quarry Road,14
+2022-09-16,Knorr,Unilever,HDPE/PP,Food Container/Packaging,Quarry Road,6
+2022-09-16,dawn,Unilever,HDPE/PP,Deodorant,Quarry Road,3
+2022-09-16,Domestos,Unilever,HDPE/PP,Cleaning Product,Quarry Road,2
+2022-09-16,Dove,Unilever,HDPE/PP,Deodorant,Quarry Road,2
+2022-09-16,Handy Andy,Unilever,HDPE/PP,Cleaning Product,Quarry Road,3
+2022-09-16,Ola,Unilever,HDPE/PP,Food Container/Packaging,Quarry Road,2
+2022-09-16,Shield,Unilever,HDPE/PP,Deodorant,Quarry Road,1
+2022-09-16,Vaseline,Unilever,HDPE/PP,Skin/Hair Products,Quarry Road,12
+2022-09-16,Brut,Unilever,HDPE/PP,Deodorant,Quarry Road,0
+2022-09-16,OMO,Unilever,HDPE/PP,Cleaning Product,Quarry Road,2
+2022-09-16,Comfort,Unilever,HDPE/PP,Cleaning Product,Quarry Road,2
+2022-09-16,Sunlight,Unilever,PET,Cleaning Product,Quarry Road,3
+2022-09-16,Orange Grove,Orange Grove,PET,Juices,Quarry Road,0
+2022-09-16,Orange Grove,Orange Grove,HDPE/PP,Milk,Quarry Road,8
+2022-09-16,Flora,Siqolo Foods,HDPE/PP,Food Container/Packaging,Quarry Road,0
+2022-09-16,Rama,Siqolo Foods,HDPE/PP,Food Container/Packaging,Quarry Road,0
+2022-09-16,Stork,Siqolo Foods,HDPE/PP,Food Container/Packaging,Quarry Road,3
+2022-09-16,Rondo,Siqolo Foods,HDPE/PP,Food Container/Packaging,Quarry Road,0
+2022-09-16,Clere,Amka Products,HDPE/PP,Skin/Hair Products,Quarry Road,7
+2022-09-16,Easy Waves,Amka Products,HDPE/PP,Skin/Hair Products,Quarry Road,0
+2022-09-16,Playboy/Playgirl,Amka Products,HDPE/PP,Deodorant,Quarry Road,1
+2022-09-16,Shower to Shower,Amka Products,HDPE/PP,Skin/Hair Products,Quarry Road,1
+2022-09-16,Sta-Sof-Fro,Amka Products,HDPE/PP,Skin/Hair Products,Quarry Road,3
+2022-09-16,Stylin',Amka Products,HDPE/PP,Skin/Hair Products,Quarry Road,0
+2022-09-16,NIVEA,Beiersdorf,HDPE/PP,Skin/Hair Products,Quarry Road,4
+2022-09-16,Top Class,Kwaden Group (imana foods),HDPE/PP,Food Container/Packaging,Quarry Road,3
+2022-09-16,parmalat,Lactalis,HDPE/PP,Milk,Quarry Road,0
+2022-09-16,Mylan,Viatris,HDPE/PP,Medical Container,Quarry Road,0
+2022-09-16,NTSU,Mr Snuff,HDPE/PP,Tobacco,Quarry Road,8
+2022-09-16,Oh So Heavenly,wipro,HDPE/PP,Skin/Hair Products,Quarry Road,1
+2022-09-16,Yogi Sip,danone,HDPE/PP,Milk,Quarry Road,3
+2022-09-16,alpro,danone,HDPE/PP,Milk,Quarry Road,0
+2022-09-16,Inkomazi,danone,HDPE/PP,Milk,Quarry Road,2
+2022-09-16,NutriDay,danone,HDPE/PP,Milk,Quarry Road,2
+2022-09-16,Spring Meadow Dairy Farm,Spring Meadow Dairy Farm,PET,Milk,Quarry Road,0
+2022-09-16,NA,Spring Meadow Dairy Farm,HDPE/PP,Milk,Quarry Road,2
+2022-09-16,Crystal Valley,Crystal Valley,HDPE/PP,Milk,Quarry Road,4
+2022-09-16,MAZ,MAZ,PET,Juices,Quarry Road,3
+2022-09-16,Wild Island,Wild Island,PET,Juices,Quarry Road,0
+2022-09-16,Save Water,Save Water,PET,Water,Quarry Road,0
+2022-09-16,Pot 'o' Gold,Pot 'o' Gold,PET,Food Container/Packaging,Quarry Road,0
+2022-09-16,Diamond Perlé,Diamond Perlé,PET,Water,Quarry Road,2
+2022-09-16,Cappy,Coca Cola Beverages South Africa,PET,Juices,Quarry Road,1
+2022-09-16,Bramley,Bramley,PET,Juices,Quarry Road,3
+2022-09-16,Bramley,Bramley,HDPE/PP,Food Container/Packaging,Quarry Road,0
+2022-09-16,Still Thirsti,Still Thirsti,PET,Water,Quarry Road,0
+2022-09-16,Large Gas Containers,Miscellaneous,HDPE/PP,Container,Quarry Road,0
+2022-09-16,Jabulani,Amasi,HDPE/PP,Milk,Quarry Road,3
+2022-09-16,Gandour,OTHER,HDPE/PP,Food Container/Packaging,Quarry Road,0
+2022-09-16,AVON,OTHER,HDPE/PP,Skin/Hair Products,Quarry Road,0
+2022-09-16,Caro Light,OTHER,HDPE/PP,Skin/Hair Products,Quarry Road,3
+2022-09-16,Mitchum,OTHER,HDPE/PP,Deodorant,Quarry Road,0
+2022-09-16,Garnier,OTHER,HDPE/PP,Skin/Hair Products,Quarry Road,0
+2022-09-16,Skin Clinic,OTHER,HDPE/PP,Skin/Hair Products,Quarry Road,0
+2022-09-16,Hetero Drugs South Africa,OTHER,HDPE/PP,Medical Container,Quarry Road,0
+2022-09-16,Cipla,OTHER,HDPE/PP,Medical Container,Quarry Road,0
+2022-09-16,MPACT,OTHER,HDPE/PP,Container,Quarry Road,0
+2022-09-16,mondi,OTHER,HDPE/PP,Container,Quarry Road,0
+2022-09-16,Dettol,OTHER,PET,Skin/Hair Products,Quarry Road,0
+2022-09-16,Nestlé,OTHER,HDPE/PP,Food Container/Packaging,Quarry Road,0
+2022-09-16,Johnson's,OTHER,PET,Medical Container,Quarry Road,1
+2022-09-16,Sir Fruit,OTHER,PET,Juices,Quarry Road,0
+2022-09-16,Lucozade,OTHER,PET,Soda,Quarry Road,2
+2022-09-16,Wimpy,OTHER,HDPE/PP,Food Container/Packaging,Quarry Road,1
+2022-09-16,Check Value Sun Oil,OTHER,PET,Sunflower Oil,Quarry Road,0
+2022-09-16,Check Value Washing,OTHER,PET,Cleaning Product,Quarry Road,0
+2022-09-16,Check Value,OTHER,HDPE/PP,Food Container/Packaging,Quarry Road,2
+2022-09-16,Twizza,OTHER,PET,Soda,Quarry Road,0
+2022-09-16,Spar,OTHER,HDPE/PP,Food Container/Packaging,Quarry Road,2
+2022-09-16,We are AQUA,OTHER,PET,Water,Quarry Road,0
+2022-09-16,One-Juice,OTHER,PET,Juices,Quarry Road,0
+2022-09-16,Indlovu,OTHER,PET,Alcohol,Quarry Road,4
+2022-09-16,Safola,OTHER,PET,Sunflower Oil,Quarry Road,4
+2022-09-16,Clicks,OTHER,PET,Skin/Hair Products,Quarry Road,0
+2022-09-16,Sunola,OTHER,PET,Sunflower Oil,Quarry Road,2
+2022-09-16,Rider's Vodka,OTHER,PET,Alcohol,Quarry Road,4
+2022-09-16,Volutrip,OTHER,HDPE/PP,Medical Container,Quarry Road,4
+2022-09-16,Swiss Yoghurt,OTHER,HDPE/PP,Food Container/Packaging,Quarry Road,26
+2022-09-16,Lancewood,OTHER,HDPE/PP,Food Container/Packaging,Quarry Road,0
+2022-09-16,Pick n Pay,OTHER,HDPE/PP,Food Container/Packaging,Quarry Road,0
+2022-09-16,Dairymaid,OTHER,HDPE/PP,Milk,Quarry Road,0
+2022-09-16,Castrol,OTHER,HDPE/PP,Container,Quarry Road,0
+2022-09-16,Rainbow,OTHER,HDPE/PP,Container,Quarry Road,0
+2022-09-16,Plascon,OTHER,HDPE/PP,Bucket,Quarry Road,0
+2022-09-16,Revlon,OTHER,HDPE/PP,Skin/Hair Products,Quarry Road,0
+2022-09-16,shell,OTHER,HDPE/PP,Container,Quarry Road,0
+2022-09-16,Natural flow,OTHER,HDPE/PP,Food Container/Packaging,Quarry Road,0
+2022-09-16,Safripol,OTHER,PET,Container,Quarry Road,0
+2022-09-16,Fusion,OTHER,PET,Soda,Quarry Road,1.5
+2022-09-16,Refreshhh,OTHER,PET,Soda,Quarry Road,1.5
+2022-09-16,Ideal,OTHER,PET,Food Container/Packaging,Quarry Road,1.5
+2022-09-16,H2O amangi,OTHER,PET,Water,Quarry Road,1.5
+2022-09-16,Brookes,OTHER,PET,Juices,Quarry Road,1.5
+2022-09-16,Mr. Sheen,OTHER,PET,Cleaning Product,Quarry Road,1.5
+2022-09-16,Natural Spring Water,OTHER,PET,Water,Quarry Road,1.5
+2022-09-16,Savlon,OTHER,PET,Skin/Hair Products,Quarry Road,1.5
+2022-09-16,Simple Truth,OTHER,PET,Food Container/Packaging,Quarry Road,1.5
+2022-09-16,food lover's,OTHER,PET,Food Container/Packaging,Quarry Road,1.5
+2022-09-16,"Still water, it's not made in China",OTHER,PET,Water,Quarry Road,1.5
+2022-09-16,just,OTHER,PET,Juices,Quarry Road,1.5
+2022-09-16,Nature's Buzz,OTHER,PET,Food Container/Packaging,Quarry Road,1.5
+2022-09-16,Prisna Aqua,OTHER,PET,Water,Quarry Road,1.5
+2022-09-16,Liqui Fruit,OTHER,PET,Juices,Quarry Road,1.5
+2022-09-16,Amina's,OTHER,PET,Food Container/Packaging,Quarry Road,1.5
+2022-09-16,Pure Refresh,OTHER,PET,Water,Quarry Road,1.5
+2022-09-16,Appletiser,OTHER,PET,Juices,Quarry Road,1.5
+2022-09-16,Robertsons,OTHER,PET,Food Container/Packaging,Quarry Road,1.5
+2022-09-16,Hercules,OTHER,PET,Skin/Hair Products,Quarry Road,1.5
+2022-09-16,Ubuhle,OTHER,PET,Skin/Hair Products,Quarry Road,1.5
+2022-09-16,Qina Siwasho Senali,OTHER,PET,Food Container/Packaging,Quarry Road,1.5
+2022-09-16,Inyongo,OTHER,PET,Skin/Hair Products,Quarry Road,1.5
+2022-09-16,aquanow,OTHER,PET,Water,Quarry Road,1.5
+2022-09-16,Tim Jan,OTHER,PET,Soda,Quarry Road,1.5
+2022-09-16,Dettol,OTHER,PET,Cleaning Product,Quarry Road,1.5
+2022-09-16,Good Stuff,OTHER,PET,Skin/Hair Products,Quarry Road,1.5
+2022-09-16,Quality,OTHER,PET,Food Container/Packaging,Quarry Road,1.5
+2022-09-16,Listerine,OTHER,PET,Skin/Hair Products,Quarry Road,1.5
+2022-09-16,Sunstar,OTHER,PET,Sunflower Oil,Quarry Road,1.5
+2022-09-16,Sunglo,OTHER,PET,Container,Quarry Road,1.5
+2022-09-16,Newden Powa,OTHER,PET,Cleaning Product,Quarry Road,1.5
+2022-09-16,telepoint,OTHER,PET,Cleaning Product,Quarry Road,1.5
+2022-09-16,Inecto,OTHER,PET,Skin/Hair Products,Quarry Road,1.5
+2022-09-16,GLLD,OTHER,HDPE/PP,Unidentifiable,Quarry Road,1.5
+2022-09-16,Lancewood,OTHER,HDPE/PP,Food Container/Packaging,Quarry Road,1.5
+2022-09-16,Splush Supreme,OTHER,HDPE/PP,Cleaning Product,Quarry Road,1.5
+2022-09-16,Famous Brands,OTHER,HDPE/PP,Food Container/Packaging,Quarry Road,1.5
+2022-09-16,Toyota,OTHER,HDPE/PP,Container,Quarry Road,1.5
+2022-09-16,Ultra Lube,OTHER,HDPE/PP,Container,Quarry Road,1.5
+2022-09-16,Engen,OTHER,HDPE/PP,Container,Quarry Road,1.5
+2022-09-16,Personal Touch,OTHER,HDPE/PP,Cleaning Product,Quarry Road,1.5
+2022-09-16,Barrs Pharmaceutical inc.,OTHER,HDPE/PP,Medical Container,Quarry Road,1.5
+2022-09-16,Klenz,OTHER,HDPE/PP,Medical Container,Quarry Road,1.5
+2022-09-16,Dairibord,OTHER,HDPE/PP,Milk,Quarry Road,1.5
+2022-09-16,Big Reg,OTHER,HDPE/PP,Unidentifiable,Quarry Road,1.5
+2022-09-16,Extra Clair,OTHER,HDPE/PP,Skin/Hair Products,Quarry Road,1.5
+2022-09-16,Aspen,OTHER,HDPE/PP,Medical Container,Quarry Road,1.5
+2022-09-16,Protect,OTHER,HDPE/PP,Unidentifiable,Quarry Road,1.5
+2022-09-16,Dairymaid,OTHER,HDPE/PP,Milk,Quarry Road,1.5
+2022-09-16,OMO,OTHER,HDPE/PP,Cleaning Product,Quarry Road,1.5
+2022-09-16,Sukuma,OTHER,HDPE/PP,Food Container/Packaging,Quarry Road,1.5
+2022-09-16,Comfort,OTHER,HDPE/PP,Cleaning Product,Quarry Road,1.5
+2022-09-16,Just for baby,OTHER,HDPE/PP,Skin/Hair Products,Quarry Road,1.5
+2022-09-16,Mama's,OTHER,HDPE/PP,Skin/Hair Products,Quarry Road,1.5
+2022-09-16,White Gold,OTHER,HDPE/PP,Skin/Hair Products,Quarry Road,1.5
+2022-09-16,fresh mark,OTHER,HDPE/PP,Food Container/Packaging,Quarry Road,1.5
+2022-09-16,Marola Collections,OTHER,HDPE/PP,Alcohol,Quarry Road,1.5
+2022-09-16,Perfect White,OTHER,HDPE/PP,Skin/Hair Products,Quarry Road,1.5
+2022-09-16,Mercedes Benz,OTHER,HDPE/PP,Container,Quarry Road,1.5
+2022-09-16,Tal: The professional choice,OTHER,HDPE/PP,Container,Quarry Road,1.5
+2022-09-16,ever bond,OTHER,HDPE/PP,Unidentifiable,Quarry Road,1.5
+2022-09-16,gill,OTHER,HDPE/PP,Skin/Hair Products,Quarry Road,1.5
+2022-09-16,Reitzer,OTHER,HDPE/PP,Skin/Hair Products,Quarry Road,1.5
+2022-09-16,epimax,OTHER,HDPE/PP,Skin/Hair Products,Quarry Road,1.5
+2022-09-16,nutritionals nature science,OTHER,HDPE/PP,Medical Container,Quarry Road,1.5
+2022-09-16,Brut,OTHER,HDPE/PP,Deodorant,Quarry Road,1.5
+2022-09-16,sanofi avertis south africa,OTHER,HDPE/PP,Medical Container,Quarry Road,1.5
+2022-09-16,Tin roof,OTHER,HDPE/PP,Food Container/Packaging,Quarry Road,1.5
+2022-09-16,nutri rich,OTHER,HDPE/PP,Food Container/Packaging,Quarry Road,1.5
+2022-09-16,imana,OTHER,HDPE/PP,Food Container/Packaging,Quarry Road,1.5
+2022-09-16,medal,OTHER,HDPE/PP,Unidentifiable,Quarry Road,1.5
+2022-09-16,denmar,OTHER,HDPE/PP,Medical Container,Quarry Road,1.5
+2022-09-16,eveready,OTHER,HDPE/PP,Unidentifiable,Quarry Road,1.5
+2022-09-16,sanex,OTHER,HDPE/PP,Skin/Hair Products,Quarry Road,1.5
+2022-09-16,Restore,OTHER,HDPE/PP,Food Container/Packaging,Quarry Road,1.5
+2022-09-16,abbvie,OTHER,HDPE/PP,Medical Container,Quarry Road,1.5
+2022-09-16,Bodicare,OTHER,HDPE/PP,Food Container/Packaging,Quarry Road,1.5
+2022-09-16,phytomed,OTHER,HDPE/PP,Medical Container,Quarry Road,1.5
+2022-09-16,blossom,OTHER,HDPE/PP,Food Container/Packaging,Quarry Road,1.5
+2022-09-16,cerebos,OTHER,HDPE/PP,Food Container/Packaging,Quarry Road,1.5
+2022-09-16,chip n dip,OTHER,HDPE/PP,Food Container/Packaging,Quarry Road,1.5
+2022-09-16,lux,OTHER,HDPE/PP,Skin/Hair Products,Quarry Road,1.5
+2022-09-16,epiderm,OTHER,HDPE/PP,Skin/Hair Products,Quarry Road,1.5
+2022-09-16,divine bodies,OTHER,HDPE/PP,Skin/Hair Products,Quarry Road,1.5
+2022-09-16,axe,OTHER,HDPE/PP,Deodorant,Quarry Road,1.5
+2022-09-16,Rainbow,OTHER,HDPE/PP,Food Container/Packaging,Quarry Road,1.5
+2022-09-16,fresobin,OTHER,HDPE/PP,Milk,Quarry Road,1.5
+2022-09-16,dex natural,OTHER,HDPE/PP,Skin/Hair Products,Quarry Road,1.5
+2022-09-16,TCB,OTHER,HDPE/PP,Skin/Hair Products,Quarry Road,1.5
+2022-09-16,pro cosmic,OTHER,HDPE/PP,Unidentifiable,Quarry Road,1.5
+2022-09-16,pulvex,OTHER,HDPE/PP,Medical Container,Quarry Road,1.5
+2022-09-16,safe fresh perfume,OTHER,HDPE/PP,Skin/Hair Products,Quarry Road,1.5
+2022-09-16,Hetero Drugs South Africa,OTHER,HDPE/PP,Medical Container,Quarry Road,1.5
+2022-09-16,Aurobindo,OTHER,HDPE/PP,Medical Container,Quarry Road,1.5
+2022-09-16,omni gold,OTHER,HDPE/PP,Skin/Hair Products,Quarry Road,1.5
+2022-09-16,vick's,OTHER,HDPE/PP,Medical Container,Quarry Road,1.5
+2022-09-28,Coca Cola Beverages South Africa,Coca Cola Beverages South Africa,PET,Soda,Johanna Road,285
+2022-09-28,Twist,Coca Cola Beverages South Africa,PET,Soda,Johanna Road,59
+2022-09-28,Stoney,Coca Cola Beverages South Africa,PET,Soda,Johanna Road,27
+2022-09-28,Sprite,Coca Cola Beverages South Africa,PET,Soda,Johanna Road,24
+2022-09-28,Powerade,Coca Cola Beverages South Africa,PET,Soda,Johanna Road,29
+2022-09-28,Fanta,Coca Cola Beverages South Africa,PET,Soda,Johanna Road,34
+2022-09-28,bonaqua,Coca Cola Beverages South Africa,PET,Water,Johanna Road,4
+2022-09-28,Spar-Letta,Coca Cola Beverages South Africa,PET,Water,Johanna Road,33
+2022-09-28,Valpré Spring Water,Coca Cola Beverages South Africa,PET,Water,Johanna Road,21
+2022-09-28,Schweppes,Coca Cola Beverages South Africa,PET,Soda,Johanna Road,19
+2022-09-28,Cooee,Bevco - The Beverage Company,PET,Soda,Johanna Road,103
+2022-09-28,Pepsi,Bevco - The Beverage Company,PET,Soda,Johanna Road,2
+2022-09-28,aQuellé,Ekhamanzi Springs,PET,Water,Johanna Road,43
+2022-09-28,Sunfoil,Willowton Group,PET,Sunflower Oil,Johanna Road,4
+2022-09-28,Sunshine D,Willowton Group,PET,Food Container/Packaging,Johanna Road,0
+2022-09-28,d'Lite,Willowton Group,PET,Sunflower Oil,Johanna Road,0
+2022-09-28,d'Lite,Willowton Group,HDPE/PP,Food Container/Packaging,Johanna Road,0
+2022-09-28,Smirnoff,Smirnoff,PET,Alcohol,Johanna Road,0
+2022-09-28,NOLA,RCL Foods,PET,Food Container/Packaging,Johanna Road,1
+2022-09-28,NOLA,RCL Foods,HDPE/PP,Food Container/Packaging,Johanna Road,0
+2022-09-28,YUM YUM,RCL Foods,PET,Food Container/Packaging,Johanna Road,0
+2022-09-28,YUM YUM,RCL Foods,HDPE/PP,Food Container/Packaging,Johanna Road,0
+2022-09-28,Number 1,RCL Foods,HDPE/PP,Food Container/Packaging,Johanna Road,1
+2022-09-28,PIEMAN'S,RCL Foods,PET,Food Container/Packaging,Johanna Road,0
+2022-09-28,Checker's House Brand,Checker's,PET,Sunflower Oil,Johanna Road,0
+2022-09-28,Checker's House Brand,Checker's,HDPE/PP,Food Container/Packaging,Johanna Road,1
+2022-09-28,Gentle Magic,Gentle Magic,PET,Skin/Hair Products,Johanna Road,0
+2022-09-28,Woolworths Food,Woolworths,PET,Juices,Johanna Road,3
+2022-09-28,Woolworths Food,Woolworths,HDPE/PP,Food Container/Packaging,Johanna Road,0
+2022-09-28,UnID Water,unidentifiable,PET,Water,Johanna Road,34
+2022-09-28,UnID Oils,unidentifiable,PET,Sunflower Oil,Johanna Road,32
+2022-09-28,PET,unidentifiable,PET,Container,Johanna Road,48
+2022-09-28,UnID Medical,unidentifiable,HDPE/PP,Medical Container,Johanna Road,1
+2022-09-28,DEO,DEO,HDPE/PP,Deodorant,Johanna Road,1
+2022-09-28,Containers,Containers,HDPE/PP,Container,Johanna Road,0
+2022-09-28,Buckets,Buckets,HDPE/PP,Bucket,Johanna Road,0
+2022-09-28,OTHER,OTHER,HDPE/PP,Unidentifiable,Johanna Road,40
+2022-09-28,Clover,Clover Industries LTD,PET,Juices,Johanna Road,4
+2022-09-28,Clover,Clover Industries LTD,HDPE/PP,Milk,Johanna Road,31
+2022-09-28,Tropika,Clover Industries LTD,PET,Juices,Johanna Road,7
+2022-09-28,Tropika,Clover Industries LTD,HDPE/PP,Juices,Johanna Road,4
+2022-09-28,Super M,Clover Industries LTD,HDPE,Milk,Johanna Road,0
+2022-09-28,Quali,Clover Industries LTD,PET,Juices,Johanna Road,0
+2022-09-28,Quali,Clover Industries LTD,HDPE/PP,Juices,Johanna Road,0
+2022-09-28,Aquartz,Clover Industries LTD,PET,Water,Johanna Road,0
+2022-09-28,Sip Up,Clover Industries LTD,HDPE,Milk,Johanna Road,0
+2022-09-28,Go Nuts,Clover Industries LTD,HDPE,Food Container/Packaging,Johanna Road,0
+2022-09-28,Daly's,Pioneer Foods,PET,Juices,Johanna Road,3
+2022-09-28,Ceres,Pioneer Foods,NA,Juices,Johanna Road,0
+2022-09-28,OROS,Tiger Brands,PET,Juices,Johanna Road,0
+2022-09-28,Dolly Varden,Tiger Brands,PET,Skin/Hair Products,Johanna Road,0
+2022-09-28,Dolly Varden,Tiger Brands,HDPE/PP,Skin/Hair Products,Johanna Road,0
+2022-09-28,Hall's,Tiger Brands,PET,Juices,Johanna Road,1
+2022-09-28,Energade,Tiger Brands,PET,Soda,Johanna Road,14
+2022-09-28,Ingram's (The Skin Doctor),Tiger Brands,HDPE/PP,Skin/Hair Products,Johanna Road,0
+2022-09-28,IJUBA,United National Breweries PTY LTD,HDPE/PP,Alcohol,Johanna Road,755
+2022-09-28,Knorr,Unilever,HDPE/PP,Food Container/Packaging,Johanna Road,0
+2022-09-28,dawn,Unilever,HDPE/PP,Deodorant,Johanna Road,1
+2022-09-28,Domestos,Unilever,HDPE/PP,Cleaning Product,Johanna Road,0
+2022-09-28,Dove,Unilever,HDPE/PP,Deodorant,Johanna Road,0
+2022-09-28,Handy Andy,Unilever,HDPE/PP,Cleaning Product,Johanna Road,0
+2022-09-28,Ola,Unilever,HDPE/PP,Food Container/Packaging,Johanna Road,0
+2022-09-28,Shield,Unilever,HDPE/PP,Deodorant,Johanna Road,0
+2022-09-28,Vaseline,Unilever,HDPE/PP,Skin/Hair Products,Johanna Road,0
+2022-09-28,Brut,Unilever,HDPE/PP,Deodorant,Johanna Road,0
+2022-09-28,OMO,Unilever,HDPE/PP,Cleaning Product,Johanna Road,0
+2022-09-28,Comfort,Unilever,HDPE/PP,Cleaning Product,Johanna Road,0
+2022-09-28,Sunlight,Unilever,PET,Cleaning Product,Johanna Road,5
+2022-09-28,Orange Grove,Orange Grove,PET,Juices,Johanna Road,0
+2022-09-28,Orange Grove,Orange Grove,HDPE/PP,Milk,Johanna Road,9
+2022-09-28,Flora,Siqolo Foods,HDPE/PP,Food Container/Packaging,Johanna Road,0
+2022-09-28,Rama,Siqolo Foods,HDPE/PP,Food Container/Packaging,Johanna Road,0
+2022-09-28,Stork,Siqolo Foods,HDPE/PP,Food Container/Packaging,Johanna Road,0
+2022-09-28,Rondo,Siqolo Foods,HDPE/PP,Food Container/Packaging,Johanna Road,3
+2022-09-28,Clere,Amka Products,HDPE/PP,Skin/Hair Products,Johanna Road,1
+2022-09-28,Easy Waves,Amka Products,HDPE/PP,Skin/Hair Products,Johanna Road,1
+2022-09-28,Playboy/Playgirl,Amka Products,HDPE/PP,Deodorant,Johanna Road,0
+2022-09-28,Shower to Shower,Amka Products,HDPE/PP,Skin/Hair Products,Johanna Road,2
+2022-09-28,Sta-Sof-Fro,Amka Products,HDPE/PP,Skin/Hair Products,Johanna Road,0
+2022-09-28,Stylin',Amka Products,HDPE/PP,Skin/Hair Products,Johanna Road,0
+2022-09-28,NIVEA,Beiersdorf,HDPE/PP,Skin/Hair Products,Johanna Road,3
+2022-09-28,Top Class,Kwaden Group (imana foods),HDPE/PP,Food Container/Packaging,Johanna Road,3
+2022-09-28,parmalat,Lactalis,HDPE/PP,Milk,Johanna Road,1
+2022-09-28,Mylan,Viatris,HDPE/PP,Medical Container,Johanna Road,0
+2022-09-28,NTSU,Mr Snuff,HDPE/PP,Tobacco,Johanna Road,0
+2022-09-28,Oh So Heavenly,wipro,HDPE/PP,Skin/Hair Products,Johanna Road,0
+2022-09-28,Yogi Sip,danone,HDPE/PP,Milk,Johanna Road,2
+2022-09-28,alpro,danone,HDPE/PP,Milk,Johanna Road,0
+2022-09-28,Inkomazi,danone,HDPE/PP,Milk,Johanna Road,2
+2022-09-28,NutriDay,danone,HDPE/PP,Milk,Johanna Road,0
+2022-09-28,Spring Meadow Dairy Farm,Spring Meadow Dairy Farm,PET,Milk,Johanna Road,0
+2022-09-28,NA,Spring Meadow Dairy Farm,HDPE/PP,Milk,Johanna Road,21
+2022-09-28,Crystal Valley,Crystal Valley,HDPE/PP,Milk,Johanna Road,6
+2022-09-28,MAZ,MAZ,PET,Juices,Johanna Road,0
+2022-09-28,Wild Island,Wild Island,PET,Juices,Johanna Road,1
+2022-09-28,Save Water,Save Water,PET,Water,Johanna Road,0
+2022-09-28,Pot 'o' Gold,Pot 'o' Gold,PET,Food Container/Packaging,Johanna Road,0
+2022-09-28,Diamond Perlé,Diamond Perlé,PET,Water,Johanna Road,2
+2022-09-28,Cappy,Coca Cola Beverages South Africa,PET,Juices,Johanna Road,3
+2022-09-28,Bramley,Bramley,PET,Juices,Johanna Road,0
+2022-09-28,Bramley,Bramley,HDPE/PP,Food Container/Packaging,Johanna Road,0
+2022-09-28,Still Thirsti,Still Thirsti,PET,Water,Johanna Road,2
+2022-09-28,Large Gas Containers,Miscellaneous,HDPE/PP,Container,Johanna Road,0
+2022-09-28,Jabulani,Amasi,HDPE/PP,Milk,Johanna Road,27
+2022-09-28,Gandour,OTHER,HDPE/PP,Food Container/Packaging,Johanna Road,0
+2022-09-28,AVON,OTHER,HDPE/PP,Skin/Hair Products,Johanna Road,0
+2022-09-28,Caro Light,OTHER,HDPE/PP,Skin/Hair Products,Johanna Road,1
+2022-09-28,Mitchum,OTHER,HDPE/PP,Deodorant,Johanna Road,0
+2022-09-28,Garnier,OTHER,HDPE/PP,Skin/Hair Products,Johanna Road,0
+2022-09-28,Skin Clinic,OTHER,HDPE/PP,Skin/Hair Products,Johanna Road,0
+2022-09-28,Hetero Drugs South Africa,OTHER,HDPE/PP,Medical Container,Johanna Road,0
+2022-09-28,Cipla,OTHER,HDPE/PP,Medical Container,Johanna Road,0
+2022-09-28,MPACT,OTHER,HDPE/PP,Container,Johanna Road,0
+2022-09-28,mondi,OTHER,HDPE/PP,Container,Johanna Road,0
+2022-09-28,Dettol,OTHER,PET,Skin/Hair Products,Johanna Road,0
+2022-09-28,Nestlé,OTHER,HDPE/PP,Food Container/Packaging,Johanna Road,0
+2022-09-28,Johnson's,OTHER,PET,Medical Container,Johanna Road,0
+2022-09-28,Sir Fruit,OTHER,PET,Juices,Johanna Road,0
+2022-09-28,Lucozade,OTHER,PET,Soda,Johanna Road,5
+2022-09-28,Wimpy,OTHER,HDPE/PP,Food Container/Packaging,Johanna Road,2
+2022-09-28,Check Value Sun Oil,OTHER,PET,Sunflower Oil,Johanna Road,0
+2022-09-28,Check Value Washing,OTHER,PET,Cleaning Product,Johanna Road,0
+2022-09-28,Check Value,OTHER,HDPE/PP,Food Container/Packaging,Johanna Road,0
+2022-09-28,Twizza,OTHER,PET,Soda,Johanna Road,3
+2022-09-28,Spar,OTHER,HDPE/PP,Food Container/Packaging,Johanna Road,0
+2022-09-28,We are AQUA,OTHER,PET,Water,Johanna Road,0
+2022-09-28,One-Juice,OTHER,PET,Juices,Johanna Road,0
+2022-09-28,Indlovu,OTHER,PET,Alcohol,Johanna Road,0
+2022-09-28,Safola,OTHER,PET,Sunflower Oil,Johanna Road,0
+2022-09-28,Clicks,OTHER,PET,Skin/Hair Products,Johanna Road,2
+2022-09-28,Sunola,OTHER,PET,Sunflower Oil,Johanna Road,0
+2022-09-28,Rider's Vodka,OTHER,PET,Alcohol,Johanna Road,0
+2022-09-28,Volutrip,OTHER,HDPE/PP,Medical Container,Johanna Road,0
+2022-09-28,Swiss Yoghurt,OTHER,HDPE/PP,Food Container/Packaging,Johanna Road,0
+2022-09-28,Lancewood,OTHER,HDPE/PP,Food Container/Packaging,Johanna Road,0
+2022-09-28,Pick n Pay,OTHER,HDPE/PP,Food Container/Packaging,Johanna Road,0
+2022-09-28,Dairymaid,OTHER,HDPE/PP,Milk,Johanna Road,0
+2022-09-28,Castrol,OTHER,HDPE/PP,Container,Johanna Road,0
+2022-09-28,Rainbow,OTHER,HDPE/PP,Container,Johanna Road,0
+2022-09-28,Plascon,OTHER,HDPE/PP,Bucket,Johanna Road,0
+2022-09-28,Revlon,OTHER,HDPE/PP,Skin/Hair Products,Johanna Road,0
+2022-09-28,shell,OTHER,HDPE/PP,Container,Johanna Road,0
+2022-09-28,Natural flow,OTHER,HDPE/PP,Food Container/Packaging,Johanna Road,0
+2022-09-28,Safripol,OTHER,PET,Container,Johanna Road,1.5
+2022-09-28,Aleo,OTHER,PET,Juices,Johanna Road,1.5
+2022-09-28,Glaceau,OTHER,PET,Soda,Johanna Road,1.5
+2022-09-28,Refreshhh,OTHER,PET,Soda,Johanna Road,1.5
+2022-09-28,purena,OTHER,PET,Food Container/Packaging,Johanna Road,1.5
+2022-09-28,purle power,OTHER,PET,Cleaning Product,Johanna Road,1.5
+2022-09-28,7 up,OTHER,PET,Soda,Johanna Road,1.5
+2022-09-28,sabila,OTHER,PET,Skin/Hair Products,Johanna Road,1.5
+2022-09-28,iceboletu,OTHER,PET,Medical Container,Johanna Road,1.5
+2022-09-28,fruletta,OTHER,PET,Juices,Johanna Road,1.5
+2022-09-28,jwayelani,OTHER,PET,Food Container/Packaging,Johanna Road,1.5
+2022-09-28,Mama's,OTHER,PET,Food Container/Packaging,Johanna Road,1.5
+2022-09-28,rascals,OTHER,PET,Food Container/Packaging,Johanna Road,1.5
+2022-09-28,Purified Water,OTHER,PET,Water,Johanna Road,1.5
+2022-09-28,venga,OTHER,HDPE/PP,Food Container/Packaging,Johanna Road,1.5
+2022-09-28,Revlon,OTHER,HDPE/PP,Skin/Hair Products,Johanna Road,1.5
+2022-09-28,mr sheen,OTHER,HDPE/PP,Cleaning Product,Johanna Road,1.5
+2022-09-28,Klenz,OTHER,HDPE/PP,Medical Container,Johanna Road,1.5
+2022-09-28,dumakude,OTHER,HDPE/PP,Unidentifiable,Johanna Road,1.5
+2022-09-28,Castrol,OTHER,HDPE/PP,Container,Johanna Road,1.5
+2022-09-28,umshanelo product impilo,OTHER,HDPE/PP,Unidentifiable,Johanna Road,1.5
+2022-09-28,goldi,OTHER,HDPE/PP,Food Container/Packaging,Johanna Road,1.5
+2022-09-28,petronas,OTHER,HDPE/PP,Container,Johanna Road,1.5
+2022-09-28,dermabac,OTHER,HDPE/PP,Medical Container,Johanna Road,1.5
+2022-09-28,Ultra Lube,OTHER,HDPE/PP,Container,Johanna Road,1.5
+2022-09-28,evox,OTHER,HDPE/PP,Food Container/Packaging,Johanna Road,1.5
+2022-09-28,black velvet,OTHER,HDPE/PP,Skin/Hair Products,Johanna Road,1.5
+2022-09-28,initial,OTHER,HDPE/PP,Skin/Hair Products,Johanna Road,1.5
+2022-09-28,Ritebrand,OTHER,HDPE/PP,Food Container/Packaging,Johanna Road,1.5
+2022-09-28,Dairy Moo,OTHER,HDPE/PP,Milk,Johanna Road,1.5
+2022-09-28,Lenthéric,OTHER,HDPE/PP,Deodorant,Johanna Road,1.5
+2022-09-28,Caltex,OTHER,HDPE/PP,Container,Johanna Road,1.5
+2022-09-28,Body Crème,OTHER,HDPE/PP,Skin/Hair Products,Johanna Road,1.5
+2022-09-29,Coca Cola Beverages South Africa,Coca Cola Beverages South Africa,PET,Soda,Johanna Road,405
+2022-09-29,Twist,Coca Cola Beverages South Africa,PET,Soda,Johanna Road,89
+2022-09-29,Stoney,Coca Cola Beverages South Africa,PET,Soda,Johanna Road,56
+2022-09-29,Sprite,Coca Cola Beverages South Africa,PET,Soda,Johanna Road,40
+2022-09-29,Powerade,Coca Cola Beverages South Africa,PET,Soda,Johanna Road,45
+2022-09-29,Fanta,Coca Cola Beverages South Africa,PET,Soda,Johanna Road,61
+2022-09-29,bonaqua,Coca Cola Beverages South Africa,PET,Water,Johanna Road,5
+2022-09-29,Spar-Letta,Coca Cola Beverages South Africa,PET,Water,Johanna Road,54
+2022-09-29,Valpré Spring Water,Coca Cola Beverages South Africa,PET,Water,Johanna Road,21
+2022-09-29,Schweppes,Coca Cola Beverages South Africa,PET,Soda,Johanna Road,18
+2022-09-29,Cooee,Bevco - The Beverage Company,PET,Soda,Johanna Road,168
+2022-09-29,Pepsi,Bevco - The Beverage Company,PET,Soda,Johanna Road,2
+2022-09-29,aQuellé,Ekhamanzi Springs,PET,Water,Johanna Road,63
+2022-09-29,Sunfoil,Willowton Group,PET,Sunflower Oil,Johanna Road,10
+2022-09-29,Sunshine D,Willowton Group,PET,Food Container/Packaging,Johanna Road,0
+2022-09-29,d'Lite,Willowton Group,PET,Sunflower Oil,Johanna Road,1
+2022-09-29,d'Lite,Willowton Group,HDPE/PP,Food Container/Packaging,Johanna Road,0
+2022-09-29,Smirnoff,Smirnoff,PET,Alcohol,Johanna Road,2
+2022-09-29,NOLA,RCL Foods,PET,Food Container/Packaging,Johanna Road,0
+2022-09-29,NOLA,RCL Foods,HDPE/PP,Food Container/Packaging,Johanna Road,0
+2022-09-29,YUM YUM,RCL Foods,PET,Food Container/Packaging,Johanna Road,0
+2022-09-29,YUM YUM,RCL Foods,HDPE/PP,Food Container/Packaging,Johanna Road,0
+2022-09-29,Number 1,RCL Foods,HDPE/PP,Food Container/Packaging,Johanna Road,0
+2022-09-29,PIEMAN'S,RCL Foods,PET,Food Container/Packaging,Johanna Road,0
+2022-09-29,Checker's House Brand,Checker's,PET,Sunflower Oil,Johanna Road,0
+2022-09-29,Checker's House Brand,Checker's,HDPE/PP,Food Container/Packaging,Johanna Road,0
+2022-09-29,Gentle Magic,Gentle Magic,PET,Skin/Hair Products,Johanna Road,0
+2022-09-29,Woolworths Food,Woolworths,PET,Juices,Johanna Road,2
+2022-09-29,Woolworths Food,Woolworths,HDPE/PP,Food Container/Packaging,Johanna Road,0
+2022-09-29,UnID Water,unidentifiable,PET,Water,Johanna Road,37
+2022-09-29,UnID Oils,unidentifiable,PET,Sunflower Oil,Johanna Road,63
+2022-09-29,PET,unidentifiable,PET,Container,Johanna Road,90
+2022-09-29,UnID Medical,unidentifiable,HDPE/PP,Medical Container,Johanna Road,0
+2022-09-29,DEO,DEO,HDPE/PP,Deodorant,Johanna Road,0
+2022-09-29,Containers,Containers,HDPE/PP,Container,Johanna Road,0
+2022-09-29,Buckets,Buckets,HDPE/PP,Bucket,Johanna Road,0
+2022-09-29,OTHER,OTHER,HDPE/PP,Unidentifiable,Johanna Road,0
+2022-09-29,Clover,Clover Industries LTD,PET,Juices,Johanna Road,1
+2022-09-29,Clover,Clover Industries LTD,HDPE/PP,Milk,Johanna Road,1
+2022-09-29,Tropika,Clover Industries LTD,PET,Juices,Johanna Road,24
+2022-09-29,Tropika,Clover Industries LTD,HDPE/PP,Juices,Johanna Road,0
+2022-09-29,Super M,Clover Industries LTD,HDPE,Milk,Johanna Road,0
+2022-09-29,Quali,Clover Industries LTD,PET,Juices,Johanna Road,0
+2022-09-29,Quali,Clover Industries LTD,HDPE/PP,Juices,Johanna Road,0
+2022-09-29,Aquartz,Clover Industries LTD,PET,Water,Johanna Road,0
+2022-09-29,Sip Up,Clover Industries LTD,HDPE,Milk,Johanna Road,0
+2022-09-29,Go Nuts,Clover Industries LTD,HDPE,Food Container/Packaging,Johanna Road,0
+2022-09-29,Daly's,Pioneer Foods,PET,Juices,Johanna Road,6
+2022-09-29,Ceres,Pioneer Foods,NA,Juices,Johanna Road,1
+2022-09-29,OROS,Tiger Brands,PET,Juices,Johanna Road,5
+2022-09-29,Dolly Varden,Tiger Brands,PET,Skin/Hair Products,Johanna Road,0
+2022-09-29,Dolly Varden,Tiger Brands,HDPE/PP,Skin/Hair Products,Johanna Road,0
+2022-09-29,Hall's,Tiger Brands,PET,Juices,Johanna Road,1
+2022-09-29,Energade,Tiger Brands,PET,Soda,Johanna Road,23
+2022-09-29,Ingram's (The Skin Doctor),Tiger Brands,HDPE/PP,Skin/Hair Products,Johanna Road,0
+2022-09-29,IJUBA,United National Breweries PTY LTD,HDPE/PP,Alcohol,Johanna Road,19
+2022-09-29,Knorr,Unilever,HDPE/PP,Food Container/Packaging,Johanna Road,0
+2022-09-29,dawn,Unilever,HDPE/PP,Deodorant,Johanna Road,0
+2022-09-29,Domestos,Unilever,HDPE/PP,Cleaning Product,Johanna Road,0
+2022-09-29,Dove,Unilever,HDPE/PP,Deodorant,Johanna Road,0
+2022-09-29,Handy Andy,Unilever,HDPE/PP,Cleaning Product,Johanna Road,0
+2022-09-29,Ola,Unilever,HDPE/PP,Food Container/Packaging,Johanna Road,0
+2022-09-29,Shield,Unilever,HDPE/PP,Deodorant,Johanna Road,0
+2022-09-29,Vaseline,Unilever,HDPE/PP,Skin/Hair Products,Johanna Road,1
+2022-09-29,Brut,Unilever,HDPE/PP,Deodorant,Johanna Road,0
+2022-09-29,OMO,Unilever,HDPE/PP,Cleaning Product,Johanna Road,0
+2022-09-29,Comfort,Unilever,HDPE/PP,Cleaning Product,Johanna Road,0
+2022-09-29,Sunlight,Unilever,PET,Cleaning Product,Johanna Road,10
+2022-09-29,Orange Grove,Orange Grove,PET,Juices,Johanna Road,1
+2022-09-29,Orange Grove,Orange Grove,HDPE/PP,Milk,Johanna Road,0
+2022-09-29,Flora,Siqolo Foods,HDPE/PP,Food Container/Packaging,Johanna Road,0
+2022-09-29,Rama,Siqolo Foods,HDPE/PP,Food Container/Packaging,Johanna Road,0
+2022-09-29,Stork,Siqolo Foods,HDPE/PP,Food Container/Packaging,Johanna Road,0
+2022-09-29,Rondo,Siqolo Foods,HDPE/PP,Food Container/Packaging,Johanna Road,0
+2022-09-29,Clere,Amka Products,HDPE/PP,Skin/Hair Products,Johanna Road,0
+2022-09-29,Easy Waves,Amka Products,HDPE/PP,Skin/Hair Products,Johanna Road,0
+2022-09-29,Playboy/Playgirl,Amka Products,HDPE/PP,Deodorant,Johanna Road,0
+2022-09-29,Shower to Shower,Amka Products,HDPE/PP,Skin/Hair Products,Johanna Road,0
+2022-09-29,Sta-Sof-Fro,Amka Products,HDPE/PP,Skin/Hair Products,Johanna Road,0
+2022-09-29,Stylin',Amka Products,HDPE/PP,Skin/Hair Products,Johanna Road,0
+2022-09-29,NIVEA,Beiersdorf,HDPE/PP,Skin/Hair Products,Johanna Road,0
+2022-09-29,Top Class,Kwaden Group (imana foods),HDPE/PP,Food Container/Packaging,Johanna Road,0
+2022-09-29,parmalat,Lactalis,HDPE/PP,Milk,Johanna Road,0
+2022-09-29,Mylan,Viatris,HDPE/PP,Medical Container,Johanna Road,0
+2022-09-29,NTSU,Mr Snuff,HDPE/PP,Tobacco,Johanna Road,0
+2022-09-29,Oh So Heavenly,wipro,HDPE/PP,Skin/Hair Products,Johanna Road,0
+2022-09-29,Yogi Sip,danone,HDPE/PP,Milk,Johanna Road,0
+2022-09-29,alpro,danone,HDPE/PP,Milk,Johanna Road,0
+2022-09-29,Inkomazi,danone,HDPE/PP,Milk,Johanna Road,0
+2022-09-29,NutriDay,danone,HDPE/PP,Milk,Johanna Road,0
+2022-09-29,Spring Meadow Dairy Farm,Spring Meadow Dairy Farm,PET,Milk,Johanna Road,1
+2022-09-29,NA,Spring Meadow Dairy Farm,HDPE/PP,Milk,Johanna Road,1
+2022-09-29,Crystal Valley,Crystal Valley,HDPE/PP,Milk,Johanna Road,0
+2022-09-29,MAZ,MAZ,PET,Juices,Johanna Road,0
+2022-09-29,Wild Island,Wild Island,PET,Juices,Johanna Road,1
+2022-09-29,Save Water,Save Water,PET,Water,Johanna Road,0
+2022-09-29,Pot 'o' Gold,Pot 'o' Gold,PET,Food Container/Packaging,Johanna Road,0
+2022-09-29,Diamond Perlé,Diamond Perlé,PET,Water,Johanna Road,13
+2022-09-29,Cappy,Coca Cola Beverages South Africa,PET,Juices,Johanna Road,0
+2022-09-29,Bramley,Bramley,PET,Juices,Johanna Road,0
+2022-09-29,Bramley,Bramley,HDPE/PP,Food Container/Packaging,Johanna Road,0
+2022-09-29,Still Thirsti,Still Thirsti,PET,Water,Johanna Road,1
+2022-09-29,Large Gas Containers,Miscellaneous,HDPE/PP,Container,Johanna Road,0
+2022-09-29,Jabulani,Amasi,HDPE/PP,Milk,Johanna Road,0
+2022-09-29,Gandour,OTHER,HDPE/PP,Food Container/Packaging,Johanna Road,0
+2022-09-29,AVON,OTHER,HDPE/PP,Skin/Hair Products,Johanna Road,0
+2022-09-29,Caro Light,OTHER,HDPE/PP,Skin/Hair Products,Johanna Road,0
+2022-09-29,Mitchum,OTHER,HDPE/PP,Deodorant,Johanna Road,0
+2022-09-29,Garnier,OTHER,HDPE/PP,Skin/Hair Products,Johanna Road,0
+2022-09-29,Skin Clinic,OTHER,HDPE/PP,Skin/Hair Products,Johanna Road,0
+2022-09-29,Hetero Drugs South Africa,OTHER,HDPE/PP,Medical Container,Johanna Road,0
+2022-09-29,Cipla,OTHER,HDPE/PP,Medical Container,Johanna Road,0
+2022-09-29,MPACT,OTHER,HDPE/PP,Container,Johanna Road,0
+2022-09-29,mondi,OTHER,HDPE/PP,Container,Johanna Road,0
+2022-09-29,Dettol,OTHER,PET,Skin/Hair Products,Johanna Road,0
+2022-09-29,Nestlé,OTHER,HDPE/PP,Food Container/Packaging,Johanna Road,0
+2022-09-29,Johnson's,OTHER,PET,Medical Container,Johanna Road,0
+2022-09-29,Sir Fruit,OTHER,PET,Juices,Johanna Road,1
+2022-09-29,Lucozade,OTHER,PET,Soda,Johanna Road,4
+2022-09-29,Wimpy,OTHER,HDPE/PP,Food Container/Packaging,Johanna Road,0
+2022-09-29,Check Value Sun Oil,OTHER,PET,Sunflower Oil,Johanna Road,1
+2022-09-29,Check Value Washing,OTHER,PET,Cleaning Product,Johanna Road,1
+2022-09-29,Check Value,OTHER,HDPE/PP,Food Container/Packaging,Johanna Road,0
+2022-09-29,Twizza,OTHER,PET,Soda,Johanna Road,8
+2022-09-29,Spar,OTHER,HDPE/PP,Food Container/Packaging,Johanna Road,2
+2022-09-29,We are AQUA,OTHER,PET,Water,Johanna Road,0
+2022-09-29,One-Juice,OTHER,PET,Juices,Johanna Road,0
+2022-09-29,Indlovu,OTHER,PET,Alcohol,Johanna Road,0
+2022-09-29,Safola,OTHER,PET,Sunflower Oil,Johanna Road,0
+2022-09-29,Clicks,OTHER,PET,Skin/Hair Products,Johanna Road,0
+2022-09-29,Sunola,OTHER,PET,Sunflower Oil,Johanna Road,0
+2022-09-29,Rider's Vodka,OTHER,PET,Alcohol,Johanna Road,0
+2022-09-29,Volutrip,OTHER,HDPE/PP,Medical Container,Johanna Road,0
+2022-09-29,Swiss Yoghurt,OTHER,HDPE/PP,Food Container/Packaging,Johanna Road,0
+2022-09-29,Lancewood,OTHER,HDPE/PP,Food Container/Packaging,Johanna Road,0
+2022-09-29,Pick n Pay,OTHER,HDPE/PP,Food Container/Packaging,Johanna Road,0
+2022-09-29,Dairymaid,OTHER,HDPE/PP,Milk,Johanna Road,0
+2022-09-29,Castrol,OTHER,HDPE/PP,Container,Johanna Road,0
+2022-09-29,Rainbow,OTHER,HDPE/PP,Container,Johanna Road,0
+2022-09-29,Plascon,OTHER,HDPE/PP,Bucket,Johanna Road,0
+2022-09-29,Revlon,OTHER,HDPE/PP,Skin/Hair Products,Johanna Road,0
+2022-09-29,shell,OTHER,HDPE/PP,Container,Johanna Road,0
+2022-09-29,Natural flow,OTHER,HDPE/PP,Food Container/Packaging,Johanna Road,0
+2022-09-29,Safripol,OTHER,PET,Container,Johanna Road,1.5
+2022-09-29,Kingsley,OTHER,PET,Soda,Johanna Road,1.5
+2022-09-29,Mr. Orange,OTHER,PET,Juices,Johanna Road,1.5
+2022-09-29,Hydro,OTHER,PET,Water,Johanna Road,1.5
+2022-09-29,Natures Premium,OTHER,PET,Water,Johanna Road,1.5
+2022-09-29,Appletiser,OTHER,PET,Soda,Johanna Road,1.5
+2022-09-29,Quick Shop & Co,OTHER,PET,Food Container/Packaging,Johanna Road,1.5
+2022-09-29,OBC Oil,OTHER,PET,Sunflower Oil,Johanna Road,1.5
+2022-09-29,B-Well,OTHER,PET,Sunflower Oil,Johanna Road,1.5
+2022-09-29,de novo,OTHER,PET,Water,Johanna Road,1.5
+2022-09-29,Cambridge Food,OTHER,PET,Sunflower Oil,Johanna Road,1.5
+2022-09-29,Fusion,OTHER,PET,Soda,Johanna Road,1.5
+2022-09-29,rsv coachers,OTHER,PET,Water,Johanna Road,1.5
+2022-09-29,Mama's,OTHER,PET,Food Container/Packaging,Johanna Road,1.5
+2022-09-29,oasis,OTHER,PET,Water,Johanna Road,1.5
+2022-09-29,kosi bay water,OTHER,PET,Water,Johanna Road,1.5
+2022-09-29,mountain dew,OTHER,PET,Soda,Johanna Road,1.5
+2022-09-29,vibei,OTHER,PET,Unidentifiable,Johanna Road,1.5
+2022-09-29,everlife,OTHER,PET,Unidentifiable,Johanna Road,1.5
+2022-09-29,verve,OTHER,PET,Water,Johanna Road,1.5
+2022-09-29,pure water,OTHER,PET,Water,Johanna Road,1.5
+2022-09-29,Refreshhh,OTHER,PET,Soda,Johanna Road,1.5
+2022-09-29,just water,OTHER,PET,Water,Johanna Road,1.5
+2022-10-04,Coca Cola Beverages South Africa,Coca Cola Beverages South Africa,PET,Soda,Kwa-mashu,552
+2022-10-04,Twist,Coca Cola Beverages South Africa,PET,Soda,Kwa-mashu,56
+2022-10-04,Stoney,Coca Cola Beverages South Africa,PET,Soda,Kwa-mashu,55
+2022-10-04,Sprite,Coca Cola Beverages South Africa,PET,Soda,Kwa-mashu,26
+2022-10-04,Powerade,Coca Cola Beverages South Africa,PET,Soda,Kwa-mashu,5
+2022-10-04,Fanta,Coca Cola Beverages South Africa,PET,Soda,Kwa-mashu,71
+2022-10-04,bonaqua,Coca Cola Beverages South Africa,PET,Water,Kwa-mashu,9
+2022-10-04,Spar-Letta,Coca Cola Beverages South Africa,PET,Water,Kwa-mashu,97
+2022-10-04,Valpré Spring Water,Coca Cola Beverages South Africa,PET,Water,Kwa-mashu,15
+2022-10-04,Schweppes,Coca Cola Beverages South Africa,PET,Soda,Kwa-mashu,14
+2022-10-04,Cooee,Bevco - The Beverage Company,PET,Soda,Kwa-mashu,128
+2022-10-04,Pepsi,Bevco - The Beverage Company,PET,Soda,Kwa-mashu,4
+2022-10-04,aQuellé,Ekhamanzi Springs,PET,Water,Kwa-mashu,15
+2022-10-04,Sunfoil,Willowton Group,PET,Sunflower Oil,Kwa-mashu,0
+2022-10-04,Sunshine D,Willowton Group,PET,Food Container/Packaging,Kwa-mashu,0
+2022-10-04,d'Lite,Willowton Group,PET,Sunflower Oil,Kwa-mashu,0
+2022-10-04,d'Lite,Willowton Group,HDPE/PP,Food Container/Packaging,Kwa-mashu,0
+2022-10-04,Smirnoff,Smirnoff,PET,Alcohol,Kwa-mashu,2
+2022-10-04,NOLA,RCL Foods,PET,Food Container/Packaging,Kwa-mashu,0
+2022-10-04,NOLA,RCL Foods,HDPE/PP,Food Container/Packaging,Kwa-mashu,0
+2022-10-04,YUM YUM,RCL Foods,PET,Food Container/Packaging,Kwa-mashu,0
+2022-10-04,YUM YUM,RCL Foods,HDPE/PP,Food Container/Packaging,Kwa-mashu,0
+2022-10-04,Number 1,RCL Foods,HDPE/PP,Food Container/Packaging,Kwa-mashu,0
+2022-10-04,PIEMAN'S,RCL Foods,PET,Food Container/Packaging,Kwa-mashu,0
+2022-10-04,Checker's House Brand,Checker's,PET,Sunflower Oil,Kwa-mashu,2
+2022-10-04,Checker's House Brand,Checker's,HDPE/PP,Food Container/Packaging,Kwa-mashu,0
+2022-10-04,Gentle Magic,Gentle Magic,PET,Skin/Hair Products,Kwa-mashu,0
+2022-10-04,Woolworths Food,Woolworths,PET,Juices,Kwa-mashu,5
+2022-10-04,Woolworths Food,Woolworths,HDPE/PP,Food Container/Packaging,Kwa-mashu,7
+2022-10-04,UnID Water,unidentifiable,PET,Water,Kwa-mashu,6
+2022-10-04,UnID Oils,unidentifiable,PET,Sunflower Oil,Kwa-mashu,3
+2022-10-04,PET,unidentifiable,PET,Container,Kwa-mashu,20
+2022-10-04,UnID Medical,unidentifiable,HDPE/PP,Medical Container,Kwa-mashu,0
+2022-10-04,DEO,DEO,HDPE/PP,Deodorant,Kwa-mashu,0
+2022-10-04,Containers,Containers,HDPE/PP,Container,Kwa-mashu,0
+2022-10-04,Buckets,Buckets,HDPE/PP,Bucket,Kwa-mashu,0
+2022-10-04,OTHER,OTHER,HDPE/PP,Unidentifiable,Kwa-mashu,29
+2022-10-04,Clover,Clover Industries LTD,PET,Juices,Kwa-mashu,0
+2022-10-04,Clover,Clover Industries LTD,HDPE/PP,Milk,Kwa-mashu,80
+2022-10-04,Tropika,Clover Industries LTD,PET,Juices,Kwa-mashu,2
+2022-10-04,Tropika,Clover Industries LTD,HDPE/PP,Juices,Kwa-mashu,19
+2022-10-04,Super M,Clover Industries LTD,HDPE,Milk,Kwa-mashu,0
+2022-10-04,Quali,Clover Industries LTD,PET,Juices,Kwa-mashu,0
+2022-10-04,Quali,Clover Industries LTD,HDPE/PP,Juices,Kwa-mashu,0
+2022-10-04,Aquartz,Clover Industries LTD,PET,Water,Kwa-mashu,0
+2022-10-04,Sip Up,Clover Industries LTD,HDPE,Milk,Kwa-mashu,0
+2022-10-04,Go Nuts,Clover Industries LTD,HDPE,Food Container/Packaging,Kwa-mashu,0
+2022-10-04,Daly's,Pioneer Foods,PET,Juices,Kwa-mashu,0
+2022-10-04,Ceres,Pioneer Foods,NA,Juices,Kwa-mashu,0
+2022-10-04,OROS,Tiger Brands,PET,Juices,Kwa-mashu,1
+2022-10-04,Dolly Varden,Tiger Brands,PET,Skin/Hair Products,Kwa-mashu,0
+2022-10-04,Dolly Varden,Tiger Brands,HDPE/PP,Skin/Hair Products,Kwa-mashu,0
+2022-10-04,Hall's,Tiger Brands,PET,Juices,Kwa-mashu,0
+2022-10-04,Energade,Tiger Brands,PET,Soda,Kwa-mashu,14
+2022-10-04,Ingram's (The Skin Doctor),Tiger Brands,HDPE/PP,Skin/Hair Products,Kwa-mashu,0
+2022-10-04,IJUBA,United National Breweries PTY LTD,HDPE/PP,Alcohol,Kwa-mashu,56
+2022-10-04,Knorr,Unilever,HDPE/PP,Food Container/Packaging,Kwa-mashu,0
+2022-10-04,dawn,Unilever,HDPE/PP,Deodorant,Kwa-mashu,0
+2022-10-04,Domestos,Unilever,HDPE/PP,Cleaning Product,Kwa-mashu,0
+2022-10-04,Dove,Unilever,HDPE/PP,Deodorant,Kwa-mashu,0
+2022-10-04,Handy Andy,Unilever,HDPE/PP,Cleaning Product,Kwa-mashu,0
+2022-10-04,Ola,Unilever,HDPE/PP,Food Container/Packaging,Kwa-mashu,0
+2022-10-04,Shield,Unilever,HDPE/PP,Deodorant,Kwa-mashu,0
+2022-10-04,Vaseline,Unilever,HDPE/PP,Skin/Hair Products,Kwa-mashu,0
+2022-10-04,Brut,Unilever,HDPE/PP,Deodorant,Kwa-mashu,0
+2022-10-04,OMO,Unilever,HDPE/PP,Cleaning Product,Kwa-mashu,0
+2022-10-04,Comfort,Unilever,HDPE/PP,Cleaning Product,Kwa-mashu,0
+2022-10-04,Sunlight,Unilever,PET,Cleaning Product,Kwa-mashu,1
+2022-10-04,Orange Grove,Orange Grove,PET,Juices,Kwa-mashu,1
+2022-10-04,Orange Grove,Orange Grove,HDPE/PP,Milk,Kwa-mashu,34
+2022-10-04,Flora,Siqolo Foods,HDPE/PP,Food Container/Packaging,Kwa-mashu,0
+2022-10-04,Rama,Siqolo Foods,HDPE/PP,Food Container/Packaging,Kwa-mashu,0
+2022-10-04,Stork,Siqolo Foods,HDPE/PP,Food Container/Packaging,Kwa-mashu,2
+2022-10-04,Rondo,Siqolo Foods,HDPE/PP,Food Container/Packaging,Kwa-mashu,0
+2022-10-04,Clere,Amka Products,HDPE/PP,Skin/Hair Products,Kwa-mashu,0
+2022-10-04,Easy Waves,Amka Products,HDPE/PP,Skin/Hair Products,Kwa-mashu,2
+2022-10-04,Playboy/Playgirl,Amka Products,HDPE/PP,Deodorant,Kwa-mashu,0
+2022-10-04,Shower to Shower,Amka Products,HDPE/PP,Skin/Hair Products,Kwa-mashu,0
+2022-10-04,Sta-Sof-Fro,Amka Products,HDPE/PP,Skin/Hair Products,Kwa-mashu,0
+2022-10-04,Stylin',Amka Products,HDPE/PP,Skin/Hair Products,Kwa-mashu,0
+2022-10-04,NIVEA,Beiersdorf,HDPE/PP,Skin/Hair Products,Kwa-mashu,0
+2022-10-04,Top Class,Kwaden Group (imana foods),HDPE/PP,Food Container/Packaging,Kwa-mashu,1
+2022-10-04,parmalat,Lactalis,HDPE/PP,Milk,Kwa-mashu,10
+2022-10-04,Mylan,Viatris,HDPE/PP,Medical Container,Kwa-mashu,0
+2022-10-04,NTSU,Mr Snuff,HDPE/PP,Tobacco,Kwa-mashu,0
+2022-10-04,Oh So Heavenly,wipro,HDPE/PP,Skin/Hair Products,Kwa-mashu,0
+2022-10-04,Yogi Sip,danone,HDPE/PP,Milk,Kwa-mashu,9
+2022-10-04,alpro,danone,HDPE/PP,Milk,Kwa-mashu,0
+2022-10-04,Inkomazi,danone,HDPE/PP,Milk,Kwa-mashu,3
+2022-10-04,NutriDay,danone,HDPE/PP,Milk,Kwa-mashu,1
+2022-10-04,Spring Meadow Dairy Farm,Spring Meadow Dairy Farm,PET,Milk,Kwa-mashu,0
+2022-10-04,NA,Spring Meadow Dairy Farm,HDPE/PP,Milk,Kwa-mashu,20
+2022-10-04,Crystal Valley,Crystal Valley,HDPE/PP,Milk,Kwa-mashu,35
+2022-10-04,MAZ,MAZ,PET,Juices,Kwa-mashu,0
+2022-10-04,Wild Island,Wild Island,PET,Juices,Kwa-mashu,1
+2022-10-04,Save Water,Save Water,PET,Water,Kwa-mashu,0
+2022-10-04,Pot 'o' Gold,Pot 'o' Gold,PET,Food Container/Packaging,Kwa-mashu,0
+2022-10-04,Diamond Perlé,Diamond Perlé,PET,Water,Kwa-mashu,0
+2022-10-04,Cappy,Coca Cola Beverages South Africa,PET,Juices,Kwa-mashu,2
+2022-10-04,Bramley,Bramley,PET,Juices,Kwa-mashu,0
+2022-10-04,Bramley,Bramley,HDPE/PP,Food Container/Packaging,Kwa-mashu,0
+2022-10-04,Still Thirsti,Still Thirsti,PET,Water,Kwa-mashu,11
+2022-10-04,Large Gas Containers,Miscellaneous,HDPE/PP,Container,Kwa-mashu,0
+2022-10-04,Jabulani,Amasi,HDPE/PP,Milk,Kwa-mashu,84
+2022-10-04,Gandour,OTHER,HDPE/PP,Food Container/Packaging,Kwa-mashu,0
+2022-10-04,AVON,OTHER,HDPE/PP,Skin/Hair Products,Kwa-mashu,0
+2022-10-04,Caro Light,OTHER,HDPE/PP,Skin/Hair Products,Kwa-mashu,0
+2022-10-04,Mitchum,OTHER,HDPE/PP,Deodorant,Kwa-mashu,0
+2022-10-04,Garnier,OTHER,HDPE/PP,Skin/Hair Products,Kwa-mashu,0
+2022-10-04,Skin Clinic,OTHER,HDPE/PP,Skin/Hair Products,Kwa-mashu,0
+2022-10-04,Hetero Drugs South Africa,OTHER,HDPE/PP,Medical Container,Kwa-mashu,0
+2022-10-04,Cipla,OTHER,HDPE/PP,Medical Container,Kwa-mashu,0
+2022-10-04,MPACT,OTHER,HDPE/PP,Container,Kwa-mashu,0
+2022-10-04,mondi,OTHER,HDPE/PP,Container,Kwa-mashu,0
+2022-10-04,Dettol,OTHER,PET,Skin/Hair Products,Kwa-mashu,0
+2022-10-04,Nestlé,OTHER,HDPE/PP,Food Container/Packaging,Kwa-mashu,1
+2022-10-04,Johnson's,OTHER,PET,Medical Container,Kwa-mashu,0
+2022-10-04,Sir Fruit,OTHER,PET,Juices,Kwa-mashu,1
+2022-10-04,Lucozade,OTHER,PET,Soda,Kwa-mashu,1
+2022-10-04,Wimpy,OTHER,HDPE/PP,Food Container/Packaging,Kwa-mashu,0
+2022-10-04,Check Value Sun Oil,OTHER,PET,Sunflower Oil,Kwa-mashu,0
+2022-10-04,Check Value Washing,OTHER,PET,Cleaning Product,Kwa-mashu,0
+2022-10-04,Check Value,OTHER,HDPE/PP,Food Container/Packaging,Kwa-mashu,5
+2022-10-04,Twizza,OTHER,PET,Soda,Kwa-mashu,11
+2022-10-04,Spar,OTHER,HDPE/PP,Food Container/Packaging,Kwa-mashu,22
+2022-10-04,We are AQUA,OTHER,PET,Water,Kwa-mashu,2
+2022-10-04,One-Juice,OTHER,PET,Juices,Kwa-mashu,0
+2022-10-04,Indlovu,OTHER,PET,Alcohol,Kwa-mashu,0
+2022-10-04,Safola,OTHER,PET,Sunflower Oil,Kwa-mashu,0
+2022-10-04,Clicks,OTHER,PET,Skin/Hair Products,Kwa-mashu,1
+2022-10-04,Sunola,OTHER,PET,Sunflower Oil,Kwa-mashu,0
+2022-10-04,Rider's Vodka,OTHER,PET,Alcohol,Kwa-mashu,0
+2022-10-04,Volutrip,OTHER,HDPE/PP,Medical Container,Kwa-mashu,0
+2022-10-04,Swiss Yoghurt,OTHER,HDPE/PP,Food Container/Packaging,Kwa-mashu,0
+2022-10-04,Lancewood,OTHER,HDPE/PP,Food Container/Packaging,Kwa-mashu,0
+2022-10-04,Pick n Pay,OTHER,HDPE/PP,Food Container/Packaging,Kwa-mashu,2
+2022-10-04,Dairymaid,OTHER,HDPE/PP,Milk,Kwa-mashu,0
+2022-10-04,Castrol,OTHER,HDPE/PP,Container,Kwa-mashu,0
+2022-10-04,Rainbow,OTHER,HDPE/PP,Container,Kwa-mashu,0
+2022-10-04,Plascon,OTHER,HDPE/PP,Bucket,Kwa-mashu,0
+2022-10-04,Revlon,OTHER,HDPE/PP,Skin/Hair Products,Kwa-mashu,0
+2022-10-04,shell,OTHER,HDPE/PP,Container,Kwa-mashu,0
+2022-10-04,Natural flow,OTHER,HDPE/PP,Food Container/Packaging,Kwa-mashu,0
+2022-10-04,Safripol,OTHER,PET,Container,Kwa-mashu,1.5
+2022-10-04,Nature's Valley,OTHER,PET,Water,Kwa-mashu,1.5
+2022-10-04,Pick n Pay,OTHER,PET,Water,Kwa-mashu,1.5
+2022-10-04,Absolutely Perfect Water,OTHER,PET,Water,Kwa-mashu,1.5
+2022-10-04,de novo,OTHER,PET,Water,Kwa-mashu,1.5
+2022-10-04,ro3 oasis,OTHER,PET,Water,Kwa-mashu,1.5
+2022-10-04,field shill water,OTHER,PET,Water,Kwa-mashu,1.5
+2022-10-04,B-Well,OTHER,PET,Sunflower Oil,Kwa-mashu,1.5
+2022-10-04,wellington's,OTHER,PET,Food Container/Packaging,Kwa-mashu,1.5
+2022-10-04,mr juice,OTHER,PET,Juices,Kwa-mashu,1.5
+2022-10-04,mountain dew,OTHER,PET,Soda,Kwa-mashu,1.5
+2022-10-04,soda t,OTHER,PET,Soda,Kwa-mashu,1.5
+2022-10-04,food lover's,OTHER,PET,Food Container/Packaging,Kwa-mashu,1.5
+2022-10-04,lipton,OTHER,PET,Soda,Kwa-mashu,1.5
+2022-10-04,Appletiser,OTHER,PET,Juices,Kwa-mashu,1.5
+2022-10-04,Fusion,OTHER,PET,Soda,Kwa-mashu,1.5
+2022-10-04,Eastern Highlands,OTHER,PET,Water,Kwa-mashu,1.5
+2022-10-04,Garlic Man,OTHER,PET,Food Container/Packaging,Kwa-mashu,1.5
+2022-10-04,kaoai,OTHER,PET,Food Container/Packaging,Kwa-mashu,1.5
+2022-10-04,indezi rivers,OTHER,PET,Water,Kwa-mashu,1.5
+2022-10-04,Kingsley,OTHER,PET,Soda,Kwa-mashu,1.5
+2022-10-04,Jik,OTHER,HDPE/PP,Cleaning Product,Kwa-mashu,1.5
+2022-10-04,mountain view,OTHER,HDPE/PP,Alcohol,Kwa-mashu,1.5
+2022-10-04,boxer,OTHER,HDPE/PP,Unidentifiable,Kwa-mashu,1.5
+2022-10-10,Coca Cola Beverages South Africa,Coca Cola Beverages South Africa,PET,Soda,Johanna Road,116
+2022-10-10,Twist,Coca Cola Beverages South Africa,PET,Soda,Johanna Road,24
+2022-10-10,Stoney,Coca Cola Beverages South Africa,PET,Soda,Johanna Road,4
+2022-10-10,Sprite,Coca Cola Beverages South Africa,PET,Soda,Johanna Road,8
+2022-10-10,Powerade,Coca Cola Beverages South Africa,PET,Soda,Johanna Road,4
+2022-10-10,Fanta,Coca Cola Beverages South Africa,PET,Soda,Johanna Road,5
+2022-10-10,bonaqua,Coca Cola Beverages South Africa,PET,Water,Johanna Road,2
+2022-10-10,Spar-Letta,Coca Cola Beverages South Africa,PET,Water,Johanna Road,13
+2022-10-10,Valpré Spring Water,Coca Cola Beverages South Africa,PET,Water,Johanna Road,0
+2022-10-10,Schweppes,Coca Cola Beverages South Africa,PET,Soda,Johanna Road,5
+2022-10-10,Cooee,Bevco - The Beverage Company,PET,Soda,Johanna Road,43
+2022-10-10,Pepsi,Bevco - The Beverage Company,PET,Soda,Johanna Road,0
+2022-10-10,aQuellé,Ekhamanzi Springs,PET,Water,Johanna Road,8
+2022-10-10,Sunfoil,Willowton Group,PET,Sunflower Oil,Johanna Road,9
+2022-10-10,Sunshine D,Willowton Group,PET,Food Container/Packaging,Johanna Road,0
+2022-10-10,d'Lite,Willowton Group,PET,Sunflower Oil,Johanna Road,0
+2022-10-10,d'Lite,Willowton Group,HDPE/PP,Food Container/Packaging,Johanna Road,0
+2022-10-10,Smirnoff,Smirnoff,PET,Alcohol,Johanna Road,3
+2022-10-10,NOLA,RCL Foods,PET,Food Container/Packaging,Johanna Road,0
+2022-10-10,NOLA,RCL Foods,HDPE/PP,Food Container/Packaging,Johanna Road,0
+2022-10-10,YUM YUM,RCL Foods,PET,Food Container/Packaging,Johanna Road,0
+2022-10-10,YUM YUM,RCL Foods,HDPE/PP,Food Container/Packaging,Johanna Road,1
+2022-10-10,Number 1,RCL Foods,HDPE/PP,Food Container/Packaging,Johanna Road,0
+2022-10-10,PIEMAN'S,RCL Foods,PET,Food Container/Packaging,Johanna Road,0
+2022-10-10,Checker's House Brand,Checker's,PET,Sunflower Oil,Johanna Road,0
+2022-10-10,Checker's House Brand,Checker's,HDPE/PP,Food Container/Packaging,Johanna Road,0
+2022-10-10,Gentle Magic,Gentle Magic,PET,Skin/Hair Products,Johanna Road,0
+2022-10-10,Woolworths Food,Woolworths,PET,Juices,Johanna Road,0
+2022-10-10,Woolworths Food,Woolworths,HDPE/PP,Food Container/Packaging,Johanna Road,1
+2022-10-10,UnID Water,unidentifiable,PET,Water,Johanna Road,2
+2022-10-10,UnID Oils,unidentifiable,PET,Sunflower Oil,Johanna Road,3
+2022-10-10,PET,unidentifiable,PET,Container,Johanna Road,6
+2022-10-10,UnID Medical,unidentifiable,HDPE/PP,Medical Container,Johanna Road,5
+2022-10-10,DEO,DEO,HDPE/PP,Deodorant,Johanna Road,7
+2022-10-10,Containers,Containers,HDPE/PP,Container,Johanna Road,0
+2022-10-10,Buckets,Buckets,HDPE/PP,Bucket,Johanna Road,0
+2022-10-10,OTHER,OTHER,HDPE/PP,Unidentifiable,Johanna Road,44
+2022-10-10,Clover,Clover Industries LTD,PET,Juices,Johanna Road,0
+2022-10-10,Clover,Clover Industries LTD,HDPE/PP,Milk,Johanna Road,14
+2022-10-10,Tropika,Clover Industries LTD,PET,Juices,Johanna Road,2
+2022-10-10,Tropika,Clover Industries LTD,HDPE/PP,Juices,Johanna Road,1
+2022-10-10,Super M,Clover Industries LTD,HDPE,Milk,Johanna Road,2
+2022-10-10,Quali,Clover Industries LTD,PET,Juices,Johanna Road,0
+2022-10-10,Quali,Clover Industries LTD,HDPE/PP,Juices,Johanna Road,0
+2022-10-10,Aquartz,Clover Industries LTD,PET,Water,Johanna Road,0
+2022-10-10,Sip Up,Clover Industries LTD,HDPE,Milk,Johanna Road,0
+2022-10-10,Go Nuts,Clover Industries LTD,HDPE,Food Container/Packaging,Johanna Road,0
+2022-10-10,Daly's,Pioneer Foods,PET,Juices,Johanna Road,0
+2022-10-10,Ceres,Pioneer Foods,NA,Juices,Johanna Road,0
+2022-10-10,OROS,Tiger Brands,PET,Juices,Johanna Road,10
+2022-10-10,Dolly Varden,Tiger Brands,PET,Skin/Hair Products,Johanna Road,0
+2022-10-10,Dolly Varden,Tiger Brands,HDPE/PP,Skin/Hair Products,Johanna Road,0
+2022-10-10,Hall's,Tiger Brands,PET,Juices,Johanna Road,0
+2022-10-10,Energade,Tiger Brands,PET,Soda,Johanna Road,2
+2022-10-10,Ingram's (The Skin Doctor),Tiger Brands,HDPE/PP,Skin/Hair Products,Johanna Road,1
+2022-10-10,IJUBA,United National Breweries PTY LTD,HDPE/PP,Alcohol,Johanna Road,149
+2022-10-10,Knorr,Unilever,HDPE/PP,Food Container/Packaging,Johanna Road,1
+2022-10-10,dawn,Unilever,HDPE/PP,Deodorant,Johanna Road,0
+2022-10-10,Domestos,Unilever,HDPE/PP,Cleaning Product,Johanna Road,0
+2022-10-10,Dove,Unilever,HDPE/PP,Deodorant,Johanna Road,0
+2022-10-10,Handy Andy,Unilever,HDPE/PP,Cleaning Product,Johanna Road,0
+2022-10-10,Ola,Unilever,HDPE/PP,Food Container/Packaging,Johanna Road,1
+2022-10-10,Shield,Unilever,HDPE/PP,Deodorant,Johanna Road,2
+2022-10-10,Vaseline,Unilever,HDPE/PP,Skin/Hair Products,Johanna Road,0
+2022-10-10,Brut,Unilever,HDPE/PP,Deodorant,Johanna Road,0
+2022-10-10,OMO,Unilever,HDPE/PP,Cleaning Product,Johanna Road,0
+2022-10-10,Comfort,Unilever,HDPE/PP,Cleaning Product,Johanna Road,2
+2022-10-10,Sunlight,Unilever,PET,Cleaning Product,Johanna Road,1
+2022-10-10,Orange Grove,Orange Grove,PET,Juices,Johanna Road,0
+2022-10-10,Orange Grove,Orange Grove,HDPE/PP,Milk,Johanna Road,4
+2022-10-10,Flora,Siqolo Foods,HDPE/PP,Food Container/Packaging,Johanna Road,1
+2022-10-10,Rama,Siqolo Foods,HDPE/PP,Food Container/Packaging,Johanna Road,2
+2022-10-10,Stork,Siqolo Foods,HDPE/PP,Food Container/Packaging,Johanna Road,2
+2022-10-10,Rondo,Siqolo Foods,HDPE/PP,Food Container/Packaging,Johanna Road,0
+2022-10-10,Clere,Amka Products,HDPE/PP,Skin/Hair Products,Johanna Road,0
+2022-10-10,Easy Waves,Amka Products,HDPE/PP,Skin/Hair Products,Johanna Road,0
+2022-10-10,Playboy/Playgirl,Amka Products,HDPE/PP,Deodorant,Johanna Road,1
+2022-10-10,Shower to Shower,Amka Products,HDPE/PP,Skin/Hair Products,Johanna Road,0
+2022-10-10,Sta-Sof-Fro,Amka Products,HDPE/PP,Skin/Hair Products,Johanna Road,0
+2022-10-10,Stylin',Amka Products,HDPE/PP,Skin/Hair Products,Johanna Road,0
+2022-10-10,NIVEA,Beiersdorf,HDPE/PP,Skin/Hair Products,Johanna Road,3
+2022-10-10,Top Class,Kwaden Group (imana foods),HDPE/PP,Food Container/Packaging,Johanna Road,2
+2022-10-10,parmalat,Lactalis,HDPE/PP,Milk,Johanna Road,8
+2022-10-10,Mylan,Viatris,HDPE/PP,Medical Container,Johanna Road,0
+2022-10-10,NTSU,Mr Snuff,HDPE/PP,Tobacco,Johanna Road,0
+2022-10-10,Oh So Heavenly,wipro,HDPE/PP,Skin/Hair Products,Johanna Road,1
+2022-10-10,Yogi Sip,danone,HDPE/PP,Milk,Johanna Road,5
+2022-10-10,alpro,danone,HDPE/PP,Milk,Johanna Road,0
+2022-10-10,Inkomazi,danone,HDPE/PP,Milk,Johanna Road,0
+2022-10-10,NutriDay,danone,HDPE/PP,Milk,Johanna Road,2
+2022-10-10,Spring Meadow Dairy Farm,Spring Meadow Dairy Farm,PET,Milk,Johanna Road,0
+2022-10-10,NA,Spring Meadow Dairy Farm,HDPE/PP,Milk,Johanna Road,9
+2022-10-10,Crystal Valley,Crystal Valley,HDPE/PP,Milk,Johanna Road,3
+2022-10-10,MAZ,MAZ,PET,Juices,Johanna Road,0
+2022-10-10,Wild Island,Wild Island,PET,Juices,Johanna Road,1
+2022-10-10,Save Water,Save Water,PET,Water,Johanna Road,0
+2022-10-10,Pot 'o' Gold,Pot 'o' Gold,PET,Food Container/Packaging,Johanna Road,0
+2022-10-10,Diamond Perlé,Diamond Perlé,PET,Water,Johanna Road,2
+2022-10-10,Cappy,Coca Cola Beverages South Africa,PET,Juices,Johanna Road,1
+2022-10-10,Bramley,Bramley,PET,Juices,Johanna Road,0
+2022-10-10,Bramley,Bramley,HDPE/PP,Food Container/Packaging,Johanna Road,0
+2022-10-10,Still Thirsti,Still Thirsti,PET,Water,Johanna Road,0
+2022-10-10,Large Gas Containers,Miscellaneous,HDPE/PP,Container,Johanna Road,0
+2022-10-10,Jabulani,Amasi,HDPE/PP,Milk,Johanna Road,7
+2022-10-10,Gandour,OTHER,HDPE/PP,Food Container/Packaging,Johanna Road,0
+2022-10-10,AVON,OTHER,HDPE/PP,Skin/Hair Products,Johanna Road,0
+2022-10-10,Caro Light,OTHER,HDPE/PP,Skin/Hair Products,Johanna Road,0
+2022-10-10,Mitchum,OTHER,HDPE/PP,Deodorant,Johanna Road,0
+2022-10-10,Garnier,OTHER,HDPE/PP,Skin/Hair Products,Johanna Road,0
+2022-10-10,Skin Clinic,OTHER,HDPE/PP,Skin/Hair Products,Johanna Road,0
+2022-10-10,Hetero Drugs South Africa,OTHER,HDPE/PP,Medical Container,Johanna Road,0
+2022-10-10,Cipla,OTHER,HDPE/PP,Medical Container,Johanna Road,0
+2022-10-10,MPACT,OTHER,HDPE/PP,Container,Johanna Road,0
+2022-10-10,mondi,OTHER,HDPE/PP,Container,Johanna Road,0
+2022-10-10,Dettol,OTHER,PET,Skin/Hair Products,Johanna Road,0
+2022-10-10,Nestlé,OTHER,HDPE/PP,Food Container/Packaging,Johanna Road,1
+2022-10-10,Johnson's,OTHER,PET,Medical Container,Johanna Road,0
+2022-10-10,Sir Fruit,OTHER,PET,Juices,Johanna Road,0
+2022-10-10,Lucozade,OTHER,PET,Soda,Johanna Road,0
+2022-10-10,Wimpy,OTHER,HDPE/PP,Food Container/Packaging,Johanna Road,0
+2022-10-10,Check Value Sun Oil,OTHER,PET,Sunflower Oil,Johanna Road,0
+2022-10-10,Check Value Washing,OTHER,PET,Cleaning Product,Johanna Road,0
+2022-10-10,Check Value,OTHER,HDPE/PP,Food Container/Packaging,Johanna Road,1
+2022-10-10,Twizza,OTHER,PET,Soda,Johanna Road,1
+2022-10-10,Spar,OTHER,HDPE/PP,Food Container/Packaging,Johanna Road,5
+2022-10-10,We are AQUA,OTHER,PET,Water,Johanna Road,0
+2022-10-10,One-Juice,OTHER,PET,Juices,Johanna Road,0
+2022-10-10,Indlovu,OTHER,PET,Alcohol,Johanna Road,0
+2022-10-10,Safola,OTHER,PET,Sunflower Oil,Johanna Road,0
+2022-10-10,Clicks,OTHER,PET,Skin/Hair Products,Johanna Road,0
+2022-10-10,Sunola,OTHER,PET,Sunflower Oil,Johanna Road,1
+2022-10-10,Rider's Vodka,OTHER,PET,Alcohol,Johanna Road,0
+2022-10-10,Volutrip,OTHER,HDPE/PP,Medical Container,Johanna Road,0
+2022-10-10,Swiss Yoghurt,OTHER,HDPE/PP,Food Container/Packaging,Johanna Road,0
+2022-10-10,Lancewood,OTHER,HDPE/PP,Food Container/Packaging,Johanna Road,2
+2022-10-10,Pick n Pay,OTHER,HDPE/PP,Food Container/Packaging,Johanna Road,0
+2022-10-10,Dairymaid,OTHER,HDPE/PP,Milk,Johanna Road,0
+2022-10-10,Castrol,OTHER,HDPE/PP,Container,Johanna Road,0
+2022-10-10,Rainbow,OTHER,HDPE/PP,Container,Johanna Road,0
+2022-10-10,Plascon,OTHER,HDPE/PP,Bucket,Johanna Road,0
+2022-10-10,Revlon,OTHER,HDPE/PP,Skin/Hair Products,Johanna Road,0
+2022-10-10,shell,OTHER,HDPE/PP,Container,Johanna Road,0
+2022-10-10,Natural flow,OTHER,HDPE/PP,Food Container/Packaging,Johanna Road,0
+2022-10-10,Safripol,OTHER,PET,Container,Johanna Road,0
+2022-10-10,Refreshhh,OTHER,PET,Soda,Johanna Road,1.5
+2022-10-10,Ritebrand,OTHER,PET,Sunflower Oil,Johanna Road,1.5
+2022-10-10,Mama's,OTHER,PET,Food Container/Packaging,Johanna Road,1.5
+2022-10-10,Quality,OTHER,PET,Food Container/Packaging,Johanna Road,1.5
+2022-10-10,Happy family,OTHER,PET,Sunflower Oil,Johanna Road,1.5
+2022-10-10,Elvin,OTHER,PET,Juices,Johanna Road,1.5
+2022-10-10,All Gold,OTHER,HDPE/PP,Food Container/Packaging,Johanna Road,1.5
+2022-10-10,Rainbow,OTHER,HDPE/PP,Container,Johanna Road,1.5
+2022-10-10,gold sports nutrition,OTHER,HDPE/PP,Food Container/Packaging,Johanna Road,1.5
+2022-10-10,alcolin,OTHER,HDPE/PP,Bucket,Johanna Road,1.5
+2022-10-10,beauty factory,OTHER,HDPE/PP,Skin/Hair Products,Johanna Road,1.5
+2022-10-10,Excella,OTHER,HDPE/PP,Sunflower Oil,Johanna Road,1.5
+2022-10-10,oh so tasty,OTHER,HDPE/PP,Food Container/Packaging,Johanna Road,1.5
+2022-10-10,Brut,OTHER,HDPE/PP,Deodorant,Johanna Road,1.5
+2022-10-10,reitzer health care,OTHER,HDPE/PP,Skin/Hair Products,Johanna Road,1.5
+2022-10-10,Reckitt Benckiser,OTHER,HDPE/PP,Cleaning Product,Johanna Road,1.5
+2022-10-10,Renew,OTHER,HDPE/PP,Skin/Hair Products,Johanna Road,1.5
+2022-10-10,colgate,OTHER,HDPE/PP,Skin/Hair Products,Johanna Road,1.5
+2022-10-10,Lancewood,OTHER,HDPE/PP,Food Container/Packaging,Johanna Road,1.5
+2022-10-10,goody,OTHER,HDPE/PP,Food Container/Packaging,Johanna Road,1.5
+2022-10-10,sistema,OTHER,HDPE/PP,Container,Johanna Road,1.5
+2022-10-10,goldi chicken,OTHER,HDPE/PP,Food Container/Packaging,Johanna Road,1.5
+2022-10-10,soft sheen case,OTHER,HDPE/PP,Container,Johanna Road,1.5
+2022-10-10,sadio,OTHER,HDPE/PP,Skin/Hair Products,Johanna Road,1.5
+2022-10-10,unilever comfort,OTHER,HDPE/PP,Cleaning Product,Johanna Road,1.5
+2022-10-10,unilever knorrox,OTHER,HDPE/PP,Cleaning Product,Johanna Road,1.5
+2022-10-10,Polar,OTHER,HDPE/PP,Bucket,Johanna Road,1.5
+2022-10-14,Coca Cola Beverages South Africa,Coca Cola Beverages South Africa,PET,Soda,Greenhub,0
+2022-10-14,Twist,Coca Cola Beverages South Africa,PET,Soda,Greenhub,0
+2022-10-14,Stoney,Coca Cola Beverages South Africa,PET,Soda,Greenhub,0
+2022-10-14,Sprite,Coca Cola Beverages South Africa,PET,Soda,Greenhub,0
+2022-10-14,Powerade,Coca Cola Beverages South Africa,PET,Soda,Greenhub,0
+2022-10-14,Fanta,Coca Cola Beverages South Africa,PET,Soda,Greenhub,0
+2022-10-14,bonaqua,Coca Cola Beverages South Africa,PET,Water,Greenhub,0
+2022-10-14,Spar-Letta,Coca Cola Beverages South Africa,PET,Water,Greenhub,0
+2022-10-14,Valpré Spring Water,Coca Cola Beverages South Africa,PET,Water,Greenhub,0
+2022-10-14,Schweppes,Coca Cola Beverages South Africa,PET,Soda,Greenhub,0
+2022-10-14,Cooee,Bevco - The Beverage Company,PET,Soda,Greenhub,0
+2022-10-14,Pepsi,Bevco - The Beverage Company,PET,Soda,Greenhub,0
+2022-10-14,aQuellé,Ekhamanzi Springs,PET,Water,Greenhub,0
+2022-10-14,Sunfoil,Willowton Group,PET,Sunflower Oil,Greenhub,0
+2022-10-14,Sunshine D,Willowton Group,PET,Food Container/Packaging,Greenhub,2
+2022-10-14,d'Lite,Willowton Group,PET,Sunflower Oil,Greenhub,0
+2022-10-14,d'Lite,Willowton Group,HDPE/PP,Food Container/Packaging,Greenhub,10
+2022-10-14,Smirnoff,Smirnoff,PET,Alcohol,Greenhub,0
+2022-10-14,NOLA,RCL Foods,PET,Food Container/Packaging,Greenhub,0
+2022-10-14,NOLA,RCL Foods,HDPE/PP,Food Container/Packaging,Greenhub,3
+2022-10-14,YUM YUM,RCL Foods,PET,Food Container/Packaging,Greenhub,0
+2022-10-14,YUM YUM,RCL Foods,HDPE/PP,Food Container/Packaging,Greenhub,2
+2022-10-14,Number 1,RCL Foods,HDPE/PP,Food Container/Packaging,Greenhub,0
+2022-10-14,PIEMAN'S,RCL Foods,PET,Food Container/Packaging,Greenhub,0
+2022-10-14,Checker's House Brand,Checker's,PET,Sunflower Oil,Greenhub,0
+2022-10-14,Checker's House Brand,Checker's,HDPE/PP,Food Container/Packaging,Greenhub,1
+2022-10-14,Gentle Magic,Gentle Magic,PET,Skin/Hair Products,Greenhub,2
+2022-10-14,Woolworths Food,Woolworths,PET,Juices,Greenhub,0
+2022-10-14,Woolworths Food,Woolworths,HDPE/PP,Food Container/Packaging,Greenhub,9
+2022-10-14,UnID Water,unidentifiable,PET,Water,Greenhub,0
+2022-10-14,UnID Oils,unidentifiable,PET,Sunflower Oil,Greenhub,0
+2022-10-14,PET,unidentifiable,PET,Container,Greenhub,0
+2022-10-14,UnID Medical,unidentifiable,HDPE/PP,Medical Container,Greenhub,66
+2022-10-14,DEO,DEO,HDPE/PP,Deodorant,Greenhub,35
+2022-10-14,Containers,Containers,HDPE/PP,Container,Greenhub,0
+2022-10-14,Buckets,Buckets,HDPE/PP,Bucket,Greenhub,0
+2022-10-14,OTHER,OTHER,HDPE/PP,Unidentifiable,Greenhub,183
+2022-10-14,Clover,Clover Industries LTD,PET,Juices,Greenhub,0
+2022-10-14,Clover,Clover Industries LTD,HDPE/PP,Milk,Greenhub,102
+2022-10-14,Tropika,Clover Industries LTD,PET,Juices,Greenhub,0
+2022-10-14,Tropika,Clover Industries LTD,HDPE/PP,Juices,Greenhub,8
+2022-10-14,Super M,Clover Industries LTD,HDPE,Milk,Greenhub,4
+2022-10-14,Quali,Clover Industries LTD,PET,Juices,Greenhub,0
+2022-10-14,Quali,Clover Industries LTD,HDPE/PP,Juices,Greenhub,0
+2022-10-14,Aquartz,Clover Industries LTD,PET,Water,Greenhub,0
+2022-10-14,Sip Up,Clover Industries LTD,HDPE,Milk,Greenhub,0
+2022-10-14,Go Nuts,Clover Industries LTD,HDPE,Food Container/Packaging,Greenhub,0
+2022-10-14,Daly's,Pioneer Foods,PET,Juices,Greenhub,0
+2022-10-14,Ceres,Pioneer Foods,NA,Juices,Greenhub,0
+2022-10-14,OROS,Tiger Brands,PET,Juices,Greenhub,0
+2022-10-14,Dolly Varden,Tiger Brands,PET,Skin/Hair Products,Greenhub,0
+2022-10-14,Dolly Varden,Tiger Brands,HDPE/PP,Skin/Hair Products,Greenhub,0
+2022-10-14,Hall's,Tiger Brands,PET,Juices,Greenhub,0
+2022-10-14,Energade,Tiger Brands,PET,Soda,Greenhub,0
+2022-10-14,Ingram's (The Skin Doctor),Tiger Brands,HDPE/PP,Skin/Hair Products,Greenhub,14
+2022-10-14,IJUBA,United National Breweries PTY LTD,HDPE/PP,Alcohol,Greenhub,708
+2022-10-14,Knorr,Unilever,HDPE/PP,Food Container/Packaging,Greenhub,10
+2022-10-14,dawn,Unilever,HDPE/PP,Deodorant,Greenhub,11
+2022-10-14,Domestos,Unilever,HDPE/PP,Cleaning Product,Greenhub,1
+2022-10-14,Dove,Unilever,HDPE/PP,Deodorant,Greenhub,1
+2022-10-14,Handy Andy,Unilever,HDPE/PP,Cleaning Product,Greenhub,11
+2022-10-14,Ola,Unilever,HDPE/PP,Food Container/Packaging,Greenhub,13
+2022-10-14,Shield,Unilever,HDPE/PP,Deodorant,Greenhub,14
+2022-10-14,Vaseline,Unilever,HDPE/PP,Skin/Hair Products,Greenhub,11
+2022-10-14,Brut,Unilever,HDPE/PP,Deodorant,Greenhub,3
+2022-10-14,OMO,Unilever,HDPE/PP,Cleaning Product,Greenhub,4
+2022-10-14,Comfort,Unilever,HDPE/PP,Cleaning Product,Greenhub,3
+2022-10-14,Sunlight,Unilever,PET,Cleaning Product,Greenhub,1
+2022-10-14,Orange Grove,Orange Grove,PET,Juices,Greenhub,0
+2022-10-14,Orange Grove,Orange Grove,HDPE/PP,Milk,Greenhub,36
+2022-10-14,Flora,Siqolo Foods,HDPE/PP,Food Container/Packaging,Greenhub,16
+2022-10-14,Rama,Siqolo Foods,HDPE/PP,Food Container/Packaging,Greenhub,9
+2022-10-14,Stork,Siqolo Foods,HDPE/PP,Food Container/Packaging,Greenhub,14
+2022-10-14,Rondo,Siqolo Foods,HDPE/PP,Food Container/Packaging,Greenhub,3
+2022-10-14,Clere,Amka Products,HDPE/PP,Skin/Hair Products,Greenhub,11
+2022-10-14,Easy Waves,Amka Products,HDPE/PP,Skin/Hair Products,Greenhub,5
+2022-10-14,Playboy/Playgirl,Amka Products,HDPE/PP,Deodorant,Greenhub,4
+2022-10-14,Shower to Shower,Amka Products,HDPE/PP,Skin/Hair Products,Greenhub,9
+2022-10-14,Sta-Sof-Fro,Amka Products,HDPE/PP,Skin/Hair Products,Greenhub,4
+2022-10-14,Stylin',Amka Products,HDPE/PP,Skin/Hair Products,Greenhub,0
+2022-10-14,NIVEA,Beiersdorf,HDPE/PP,Skin/Hair Products,Greenhub,22
+2022-10-14,Top Class,Kwaden Group (imana foods),HDPE/PP,Food Container/Packaging,Greenhub,16
+2022-10-14,parmalat,Lactalis,HDPE/PP,Milk,Greenhub,20
+2022-10-14,Mylan,Viatris,HDPE/PP,Medical Container,Greenhub,0
+2022-10-14,NTSU,Mr Snuff,HDPE/PP,Tobacco,Greenhub,7
+2022-10-14,Oh So Heavenly,wipro,HDPE/PP,Skin/Hair Products,Greenhub,3
+2022-10-14,Yogi Sip,danone,HDPE/PP,Milk,Greenhub,13
+2022-10-14,alpro,danone,HDPE/PP,Milk,Greenhub,0
+2022-10-14,Inkomazi,danone,HDPE/PP,Milk,Greenhub,2
+2022-10-14,NutriDay,danone,HDPE/PP,Milk,Greenhub,7
+2022-10-14,Spring Meadow Dairy Farm,Spring Meadow Dairy Farm,PET,Milk,Greenhub,0
+2022-10-14,NA,Spring Meadow Dairy Farm,HDPE/PP,Milk,Greenhub,39
+2022-10-14,Crystal Valley,Crystal Valley,HDPE/PP,Milk,Greenhub,22
+2022-10-14,MAZ,MAZ,PET,Juices,Greenhub,0
+2022-10-14,Wild Island,Wild Island,PET,Juices,Greenhub,0
+2022-10-14,Save Water,Save Water,PET,Water,Greenhub,0
+2022-10-14,Pot 'o' Gold,Pot 'o' Gold,PET,Food Container/Packaging,Greenhub,0
+2022-10-14,Diamond Perlé,Diamond Perlé,PET,Water,Greenhub,0
+2022-10-14,Cappy,Coca Cola Beverages South Africa,PET,Juices,Greenhub,0
+2022-10-14,Bramley,Bramley,PET,Juices,Greenhub,0
+2022-10-14,Bramley,Bramley,HDPE/PP,Food Container/Packaging,Greenhub,2
+2022-10-14,Still Thirsti,Still Thirsti,PET,Water,Greenhub,0
+2022-10-14,Large Gas Containers,Miscellaneous,HDPE/PP,Container,Greenhub,0
+2022-10-14,Jabulani,Amasi,HDPE/PP,Milk,Greenhub,73
+2022-10-14,Gandour,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,0
+2022-10-14,AVON,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,0
+2022-10-14,Caro Light,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,2
+2022-10-14,Mitchum,OTHER,HDPE/PP,Deodorant,Greenhub,0
+2022-10-14,Garnier,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,0
+2022-10-14,Skin Clinic,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,0
+2022-10-14,Hetero Drugs South Africa,OTHER,HDPE/PP,Medical Container,Greenhub,0
+2022-10-14,Cipla,OTHER,HDPE/PP,Medical Container,Greenhub,0
+2022-10-14,MPACT,OTHER,HDPE/PP,Container,Greenhub,0
+2022-10-14,mondi,OTHER,HDPE/PP,Container,Greenhub,0
+2022-10-14,Dettol,OTHER,PET,Skin/Hair Products,Greenhub,0
+2022-10-14,Nestlé,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,1
+2022-10-14,Johnson's,OTHER,PET,Medical Container,Greenhub,0
+2022-10-14,Sir Fruit,OTHER,PET,Juices,Greenhub,0
+2022-10-14,Lucozade,OTHER,PET,Soda,Greenhub,0
+2022-10-14,Wimpy,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,1
+2022-10-14,Check Value Sun Oil,OTHER,PET,Sunflower Oil,Greenhub,0
+2022-10-14,Check Value Washing,OTHER,PET,Cleaning Product,Greenhub,0
+2022-10-14,Check Value,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,8
+2022-10-14,Twizza,OTHER,PET,Soda,Greenhub,0
+2022-10-14,Spar,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,1
+2022-10-14,We are AQUA,OTHER,PET,Water,Greenhub,0
+2022-10-14,One-Juice,OTHER,PET,Juices,Greenhub,0
+2022-10-14,Indlovu,OTHER,PET,Alcohol,Greenhub,0
+2022-10-14,Safola,OTHER,PET,Sunflower Oil,Greenhub,0
+2022-10-14,Clicks,OTHER,PET,Skin/Hair Products,Greenhub,0
+2022-10-14,Sunola,OTHER,PET,Sunflower Oil,Greenhub,0
+2022-10-14,Rider's Vodka,OTHER,PET,Alcohol,Greenhub,0
+2022-10-14,Volutrip,OTHER,HDPE/PP,Medical Container,Greenhub,0
+2022-10-14,Swiss Yoghurt,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,0
+2022-10-14,Lancewood,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,3
+2022-10-14,Pick n Pay,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,2
+2022-10-14,Dairymaid,OTHER,HDPE/PP,Milk,Greenhub,4
+2022-10-14,Castrol,OTHER,HDPE/PP,Container,Greenhub,6
+2022-10-14,Rainbow,OTHER,HDPE/PP,Container,Greenhub,3
+2022-10-14,Plascon,OTHER,HDPE/PP,Bucket,Greenhub,3
+2022-10-14,Revlon,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,3
+2022-10-14,shell,OTHER,HDPE/PP,Container,Greenhub,2
+2022-10-14,Natural flow,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,5
+2022-10-14,Safripol,OTHER,PET,Container,Greenhub,0
+2022-10-14,Cambridge Food,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,1.5
+2022-10-14,Braun,OTHER,HDPE/PP,Container,Greenhub,1.5
+2022-10-14,Dairy Moo,OTHER,HDPE/PP,Milk,Greenhub,1.5
+2022-10-14,Caltex,OTHER,HDPE/PP,Container,Greenhub,1.5
+2022-10-14,Nawaaz Manjra,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,1.5
+2022-10-14,Body Crème,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,1.5
+2022-10-14,Lenthéric,OTHER,HDPE/PP,Deodorant,Greenhub,1.5
+2022-10-14,Nongxamela,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,1.5
+2022-10-14,Nasca,OTHER,HDPE/PP,Bucket,Greenhub,1.5
+2022-10-14,Caivil,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,1.5
+2022-10-14,Umkhucululu,OTHER,HDPE/PP,Medical Container,Greenhub,1.5
+2022-10-14,Sheer elegance,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,1.5
+2022-10-14,Muscle Tech,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,1.5
+2022-10-14,damatol,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,1.5
+2022-10-14,powa fix,OTHER,HDPE/PP,Bucket,Greenhub,1.5
+2022-10-14,Bramley,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,1.5
+2022-10-14,Alpecin,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,1.5
+2022-10-14,Mitchum Invisible,OTHER,HDPE/PP,Deodorant,Greenhub,1.5
+2022-10-14,More Jam,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,1.5
+2022-10-14,Stylin' Dredz,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,1.5
+2022-10-14,Isoplus,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,1.5
+2022-10-14,Sadie,OTHER,HDPE/PP,Alcohol,Greenhub,1.5
+2022-10-14,stihl,OTHER,HDPE/PP,Bucket,Greenhub,1.5
+2022-10-14,ama sipsip,OTHER,HDPE/PP,Milk,Greenhub,1.5
+2022-10-14,petronas,OTHER,HDPE/PP,Container,Greenhub,1.5
+2022-10-14,Toyota,OTHER,HDPE/PP,Container,Greenhub,1.5
+2022-10-14,goody,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,1.5
+2022-10-14,Ritebrand,OTHER,HDPE/PP,Sunflower Oil,Greenhub,1.5
+2022-10-14,Amazing Skincare,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,1.5
+2022-10-14,bio-clear,OTHER,HDPE/PP,Bucket,Greenhub,1.5
+2022-10-14,vick's,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,1.5
+2022-10-14,wc ente,OTHER,HDPE/PP,Cleaning Product,Greenhub,1.5
+2022-10-14,evol,OTHER,HDPE/PP,Unidentifiable,Greenhub,1.5
+2022-10-14,MOM,OTHER,HDPE/PP,Unidentifiable,Greenhub,1.5
+2022-10-14,pristine,OTHER,HDPE/PP,Container,Greenhub,1.5
+2022-10-14,Clear Cough,OTHER,HDPE/PP,Medical Container,Greenhub,1.5
+2022-10-14,Activo Vite,OTHER,HDPE/PP,Medical Container,Greenhub,1.5
+2022-10-14,Kepro,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,1.5
+2022-10-14,Sukuma,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,1.5
+2022-10-14,Cetaphil,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,1.5
+2022-10-14,Cocopulp,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,1.5
+2022-10-14,ubisi,OTHER,HDPE/PP,Unidentifiable,Greenhub,1.5
+2022-10-14,masculin,OTHER,HDPE/PP,Deodorant,Greenhub,1.5
+2022-10-14,Black Chic,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,1.5
+2022-10-14,bio-gen,OTHER,HDPE/PP,Medical Container,Greenhub,1.5
+2022-10-14,mco,OTHER,HDPE/PP,Unidentifiable,Greenhub,1.5
+2022-10-14,royale,OTHER,HDPE/PP,Container,Greenhub,1.5
+2022-10-14,organics,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,1.5
+2022-10-14,Bodicare,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,1.5
+2022-10-14,lifebuoy,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,1.5
+2022-10-14,head n shoulders,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,1.5
+2022-10-14,champion,OTHER,HDPE/PP,Unidentifiable,Greenhub,1.5
+2022-10-14,duran,OTHER,HDPE/PP,Container,Greenhub,1.5
+2022-10-14,jersey cow,OTHER,HDPE/PP,Milk,Greenhub,1.5
+2022-10-14,liqui maly,OTHER,HDPE/PP,Container,Greenhub,1.5
+2022-10-14,ariel,OTHER,HDPE/PP,Cleaning Product,Greenhub,1.5
+2022-10-14,bmw,OTHER,HDPE/PP,Container,Greenhub,1.5
+2022-10-14,hth,OTHER,HDPE/PP,Cleaning Product,Greenhub,1.5
+2022-10-14,honey dew,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,1.5
+2022-10-14,nuts about cooking,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,1.5
+2022-10-14,palm olive,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,1.5
+2022-10-14,supa,OTHER,HDPE/PP,Container,Greenhub,1.5
+2022-10-14,chemlog,OTHER,HDPE/PP,Medical Container,Greenhub,1.5
+2022-10-14,status,OTHER,HDPE/PP,Unidentifiable,Greenhub,1.5
+2022-10-14,Reitzer,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,1.5
+2022-10-14,cerebos,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,1.5
+2022-10-14,dulux,OTHER,HDPE/PP,Bucket,Greenhub,1.5
+2022-10-14,oak spring's dairy,OTHER,HDPE/PP,Milk,Greenhub,1.5
+2022-10-14,president,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,1.5
+2022-10-14,sika,OTHER,HDPE/PP,Container,Greenhub,1.5
+2022-10-14,nature nourishment,OTHER,HDPE/PP,Medical Container,Greenhub,1.5
+2022-10-14,all clear,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,1.5
+2022-10-14,perfect,OTHER,HDPE/PP,Unidentifiable,Greenhub,1.5
+2022-10-14,bennetts,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,1.5
+2022-10-14,black cat,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,1.5
+2022-10-14,vitasure,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,1.5
+2022-10-14,immune booster,OTHER,HDPE/PP,Medical Container,Greenhub,1.5
+2022-10-14,venga,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,1.5
+2022-10-14,black velvet,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,1.5
+2022-10-14,evox,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,1.5
+2022-10-14,Polar,OTHER,HDPE/PP,Container,Greenhub,1.5
+2022-10-14,ex-cla-mat!on,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,1.5
+2022-10-14,Blue Diamond,OTHER,HDPE/PP,Milk,Greenhub,1.5
+2022-10-14,Garnier,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,1.5
+2022-10-14,Arthur Ford,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,1.5
+2022-10-17,Coca Cola Beverages South Africa,Coca Cola Beverages South Africa,PET,Soda,Greenhub,135
+2022-10-17,Twist,Coca Cola Beverages South Africa,PET,Soda,Greenhub,34
+2022-10-17,Stoney,Coca Cola Beverages South Africa,PET,Soda,Greenhub,17
+2022-10-17,Sprite,Coca Cola Beverages South Africa,PET,Soda,Greenhub,13
+2022-10-17,Powerade,Coca Cola Beverages South Africa,PET,Soda,Greenhub,16
+2022-10-17,Fanta,Coca Cola Beverages South Africa,PET,Soda,Greenhub,17
+2022-10-17,bonaqua,Coca Cola Beverages South Africa,PET,Water,Greenhub,8
+2022-10-17,Spar-Letta,Coca Cola Beverages South Africa,PET,Water,Greenhub,33
+2022-10-17,Valpré Spring Water,Coca Cola Beverages South Africa,PET,Water,Greenhub,10
+2022-10-17,Schweppes,Coca Cola Beverages South Africa,PET,Soda,Greenhub,8
+2022-10-17,Cooee,Bevco - The Beverage Company,PET,Soda,Greenhub,75
+2022-10-17,Pepsi,Bevco - The Beverage Company,PET,Soda,Greenhub,0
+2022-10-17,aQuellé,Ekhamanzi Springs,PET,Water,Greenhub,24
+2022-10-17,Sunfoil,Willowton Group,PET,Sunflower Oil,Greenhub,2
+2022-10-17,Sunshine D,Willowton Group,PET,Food Container/Packaging,Greenhub,2
+2022-10-17,d'Lite,Willowton Group,PET,Sunflower Oil,Greenhub,0
+2022-10-17,d'Lite,Willowton Group,HDPE/PP,Food Container/Packaging,Greenhub,2
+2022-10-17,Smirnoff,Smirnoff,PET,Alcohol,Greenhub,11
+2022-10-17,NOLA,RCL Foods,PET,Food Container/Packaging,Greenhub,8
+2022-10-17,NOLA,RCL Foods,HDPE/PP,Food Container/Packaging,Greenhub,0
+2022-10-17,YUM YUM,RCL Foods,PET,Food Container/Packaging,Greenhub,2
+2022-10-17,YUM YUM,RCL Foods,HDPE/PP,Food Container/Packaging,Greenhub,1
+2022-10-17,Number 1,RCL Foods,HDPE/PP,Food Container/Packaging,Greenhub,0
+2022-10-17,PIEMAN'S,RCL Foods,PET,Food Container/Packaging,Greenhub,0
+2022-10-17,Checker's House Brand,Checker's,PET,Sunflower Oil,Greenhub,0
+2022-10-17,Checker's House Brand,Checker's,HDPE/PP,Food Container/Packaging,Greenhub,1
+2022-10-17,Gentle Magic,Gentle Magic,PET,Skin/Hair Products,Greenhub,1
+2022-10-17,Woolworths Food,Woolworths,PET,Juices,Greenhub,5
+2022-10-17,Woolworths Food,Woolworths,HDPE/PP,Food Container/Packaging,Greenhub,0
+2022-10-17,UnID Water,unidentifiable,PET,Water,Greenhub,5
+2022-10-17,UnID Oils,unidentifiable,PET,Sunflower Oil,Greenhub,46
+2022-10-17,PET,unidentifiable,PET,Container,Greenhub,34
+2022-10-17,UnID Medical,unidentifiable,HDPE/PP,Medical Container,Greenhub,46
+2022-10-17,DEO,DEO,HDPE/PP,Deodorant,Greenhub,17
+2022-10-17,Containers,Containers,HDPE/PP,Container,Greenhub,0
+2022-10-17,Buckets,Buckets,HDPE/PP,Bucket,Greenhub,0
+2022-10-17,OTHER,OTHER,HDPE/PP,Unidentifiable,Greenhub,133
+2022-10-17,Clover,Clover Industries LTD,PET,Juices,Greenhub,6
+2022-10-17,Clover,Clover Industries LTD,HDPE/PP,Milk,Greenhub,64
+2022-10-17,Tropika,Clover Industries LTD,PET,Juices,Greenhub,7
+2022-10-17,Tropika,Clover Industries LTD,HDPE/PP,Juices,Greenhub,4
+2022-10-17,Super M,Clover Industries LTD,HDPE,Milk,Greenhub,5
+2022-10-17,Quali,Clover Industries LTD,PET,Juices,Greenhub,0
+2022-10-17,Quali,Clover Industries LTD,HDPE/PP,Juices,Greenhub,0
+2022-10-17,Aquartz,Clover Industries LTD,PET,Water,Greenhub,0
+2022-10-17,Sip Up,Clover Industries LTD,HDPE,Milk,Greenhub,0
+2022-10-17,Go Nuts,Clover Industries LTD,HDPE,Food Container/Packaging,Greenhub,0
+2022-10-17,Daly's,Pioneer Foods,PET,Juices,Greenhub,2
+2022-10-17,Ceres,Pioneer Foods,NA,Juices,Greenhub,0
+2022-10-17,OROS,Tiger Brands,PET,Juices,Greenhub,4
+2022-10-17,Dolly Varden,Tiger Brands,PET,Skin/Hair Products,Greenhub,0
+2022-10-17,Dolly Varden,Tiger Brands,HDPE/PP,Skin/Hair Products,Greenhub,0
+2022-10-17,Hall's,Tiger Brands,PET,Juices,Greenhub,0
+2022-10-17,Energade,Tiger Brands,PET,Soda,Greenhub,9
+2022-10-17,Ingram's (The Skin Doctor),Tiger Brands,HDPE/PP,Skin/Hair Products,Greenhub,5
+2022-10-17,IJUBA,United National Breweries PTY LTD,HDPE/PP,Alcohol,Greenhub,176
+2022-10-17,Knorr,Unilever,HDPE/PP,Food Container/Packaging,Greenhub,3
+2022-10-17,dawn,Unilever,HDPE/PP,Deodorant,Greenhub,6
+2022-10-17,Domestos,Unilever,HDPE/PP,Cleaning Product,Greenhub,13
+2022-10-17,Dove,Unilever,HDPE/PP,Deodorant,Greenhub,0
+2022-10-17,Handy Andy,Unilever,HDPE/PP,Cleaning Product,Greenhub,5
+2022-10-17,Ola,Unilever,HDPE/PP,Food Container/Packaging,Greenhub,4
+2022-10-17,Shield,Unilever,HDPE/PP,Deodorant,Greenhub,12
+2022-10-17,Vaseline,Unilever,HDPE/PP,Skin/Hair Products,Greenhub,10
+2022-10-17,Brut,Unilever,HDPE/PP,Deodorant,Greenhub,2
+2022-10-17,OMO,Unilever,HDPE/PP,Cleaning Product,Greenhub,2
+2022-10-17,Comfort,Unilever,HDPE/PP,Cleaning Product,Greenhub,0
+2022-10-17,Sunlight,Unilever,PET,Cleaning Product,Greenhub,4
+2022-10-17,Orange Grove,Orange Grove,PET,Juices,Greenhub,0
+2022-10-17,Orange Grove,Orange Grove,HDPE/PP,Milk,Greenhub,21
+2022-10-17,Flora,Siqolo Foods,HDPE/PP,Food Container/Packaging,Greenhub,13
+2022-10-17,Rama,Siqolo Foods,HDPE/PP,Food Container/Packaging,Greenhub,6
+2022-10-17,Stork,Siqolo Foods,HDPE/PP,Food Container/Packaging,Greenhub,12
+2022-10-17,Rondo,Siqolo Foods,HDPE/PP,Food Container/Packaging,Greenhub,3
+2022-10-17,Clere,Amka Products,HDPE/PP,Skin/Hair Products,Greenhub,13
+2022-10-17,Easy Waves,Amka Products,HDPE/PP,Skin/Hair Products,Greenhub,1
+2022-10-17,Playboy/Playgirl,Amka Products,HDPE/PP,Deodorant,Greenhub,4
+2022-10-17,Shower to Shower,Amka Products,HDPE/PP,Skin/Hair Products,Greenhub,2
+2022-10-17,Sta-Sof-Fro,Amka Products,HDPE/PP,Skin/Hair Products,Greenhub,0
+2022-10-17,Stylin',Amka Products,HDPE/PP,Skin/Hair Products,Greenhub,0
+2022-10-17,NIVEA,Beiersdorf,HDPE/PP,Skin/Hair Products,Greenhub,16
+2022-10-17,Top Class,Kwaden Group (imana foods),HDPE/PP,Food Container/Packaging,Greenhub,2
+2022-10-17,parmalat,Lactalis,HDPE/PP,Milk,Greenhub,8
+2022-10-17,Mylan,Viatris,HDPE/PP,Medical Container,Greenhub,0
+2022-10-17,NTSU,Mr Snuff,HDPE/PP,Tobacco,Greenhub,0
+2022-10-17,Oh So Heavenly,wipro,HDPE/PP,Skin/Hair Products,Greenhub,0
+2022-10-17,Yogi Sip,danone,HDPE/PP,Milk,Greenhub,2
+2022-10-17,alpro,danone,HDPE/PP,Milk,Greenhub,0
+2022-10-17,Inkomazi,danone,HDPE/PP,Milk,Greenhub,17
+2022-10-17,NutriDay,danone,HDPE/PP,Milk,Greenhub,5
+2022-10-17,Spring Meadow Dairy Farm,Spring Meadow Dairy Farm,PET,Milk,Greenhub,1
+2022-10-17,NA,Spring Meadow Dairy Farm,HDPE/PP,Milk,Greenhub,17
+2022-10-17,Crystal Valley,Crystal Valley,HDPE/PP,Milk,Greenhub,15
+2022-10-17,MAZ,MAZ,PET,Juices,Greenhub,1
+2022-10-17,Wild Island,Wild Island,PET,Juices,Greenhub,0
+2022-10-17,Save Water,Save Water,PET,Water,Greenhub,0
+2022-10-17,Pot 'o' Gold,Pot 'o' Gold,PET,Food Container/Packaging,Greenhub,0
+2022-10-17,Diamond Perlé,Diamond Perlé,PET,Water,Greenhub,3
+2022-10-17,Cappy,Coca Cola Beverages South Africa,PET,Juices,Greenhub,0
+2022-10-17,Bramley,Bramley,PET,Juices,Greenhub,0
+2022-10-17,Bramley,Bramley,HDPE/PP,Food Container/Packaging,Greenhub,1
+2022-10-17,Still Thirsti,Still Thirsti,PET,Water,Greenhub,3
+2022-10-17,Large Gas Containers,Miscellaneous,HDPE/PP,Container,Greenhub,0
+2022-10-17,Jabulani,Amasi,HDPE/PP,Milk,Greenhub,26
+2022-10-17,Gandour,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,0
+2022-10-17,AVON,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,1
+2022-10-17,Caro Light,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,1
+2022-10-17,Mitchum,OTHER,HDPE/PP,Deodorant,Greenhub,0
+2022-10-17,Garnier,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,0
+2022-10-17,Skin Clinic,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,1
+2022-10-17,Hetero Drugs South Africa,OTHER,HDPE/PP,Medical Container,Greenhub,0
+2022-10-17,Cipla,OTHER,HDPE/PP,Medical Container,Greenhub,0
+2022-10-17,MPACT,OTHER,HDPE/PP,Container,Greenhub,0
+2022-10-17,mondi,OTHER,HDPE/PP,Container,Greenhub,0
+2022-10-17,Dettol,OTHER,PET,Skin/Hair Products,Greenhub,0
+2022-10-17,Nestlé,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,0
+2022-10-17,Johnson's,OTHER,PET,Medical Container,Greenhub,0
+2022-10-17,Sir Fruit,OTHER,PET,Juices,Greenhub,0
+2022-10-17,Lucozade,OTHER,PET,Soda,Greenhub,1
+2022-10-17,Wimpy,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,1
+2022-10-17,Check Value Sun Oil,OTHER,PET,Sunflower Oil,Greenhub,0
+2022-10-17,Check Value Washing,OTHER,PET,Cleaning Product,Greenhub,0
+2022-10-17,Check Value,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,0
+2022-10-17,Twizza,OTHER,PET,Soda,Greenhub,1
+2022-10-17,Spar,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,6
+2022-10-17,We are AQUA,OTHER,PET,Water,Greenhub,0
+2022-10-17,One-Juice,OTHER,PET,Juices,Greenhub,0
+2022-10-17,Indlovu,OTHER,PET,Alcohol,Greenhub,0
+2022-10-17,Safola,OTHER,PET,Sunflower Oil,Greenhub,0
+2022-10-17,Clicks,OTHER,PET,Skin/Hair Products,Greenhub,1
+2022-10-17,Sunola,OTHER,PET,Sunflower Oil,Greenhub,0
+2022-10-17,Rider's Vodka,OTHER,PET,Alcohol,Greenhub,0
+2022-10-17,Volutrip,OTHER,HDPE/PP,Medical Container,Greenhub,0
+2022-10-17,Swiss Yoghurt,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,0
+2022-10-17,Lancewood,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,5
+2022-10-17,Pick n Pay,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,2
+2022-10-17,Dairymaid,OTHER,HDPE/PP,Milk,Greenhub,5
+2022-10-17,Castrol,OTHER,HDPE/PP,Container,Greenhub,6
+2022-10-17,Rainbow,OTHER,HDPE/PP,Container,Greenhub,3
+2022-10-17,Plascon,OTHER,HDPE/PP,Bucket,Greenhub,0
+2022-10-17,Revlon,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,0
+2022-10-17,shell,OTHER,HDPE/PP,Container,Greenhub,6
+2022-10-17,Natural flow,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,0
+2022-10-17,Safripol,OTHER,PET,Container,Greenhub,0
+2022-10-17,B-Well,OTHER,PET,Food Container/Packaging,Greenhub,1.5
+2022-10-17,ek still water,OTHER,PET,Water,Greenhub,1.5
+2022-10-17,sanfirst,OTHER,PET,Unidentifiable,Greenhub,1.5
+2022-10-17,flava,OTHER,PET,Food Container/Packaging,Greenhub,1.5
+2022-10-17,halios,OTHER,PET,Unidentifiable,Greenhub,1.5
+2022-10-17,Fairfield Dairy,OTHER,PET,Milk,Greenhub,1.5
+2022-10-17,ai spring water,OTHER,PET,Water,Greenhub,1.5
+2022-10-17,juice guys,OTHER,PET,Juices,Greenhub,1.5
+2022-10-17,Appletiser,OTHER,PET,Juices,Greenhub,1.5
+2022-10-17,fruit on,OTHER,PET,Juices,Greenhub,1.5
+2022-10-17,nv natures valley,OTHER,PET,Food Container/Packaging,Greenhub,1.5
+2022-10-17,wellington's,OTHER,PET,Food Container/Packaging,Greenhub,1.5
+2022-10-17,gonima's,OTHER,PET,Unidentifiable,Greenhub,1.5
+2022-10-17,Mama's,OTHER,PET,Food Container/Packaging,Greenhub,1.5
+2022-10-17,Kingsley,OTHER,PET,Soda,Greenhub,1.5
+2022-10-17,enerG,OTHER,PET,Food Container/Packaging,Greenhub,1.5
+2022-10-17,jumbo,OTHER,PET,Food Container/Packaging,Greenhub,1.5
+2022-10-17,milton,OTHER,HDPE/PP,Cleaning Product,Greenhub,1.5
+2022-10-17,wellvita,OTHER,HDPE/PP,Medical Container,Greenhub,1.5
+2022-10-17,jersey cow,OTHER,HDPE/PP,Milk,Greenhub,1.5
+2022-10-17,spoon fulls,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,1.5
+2022-10-17,benga,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,1.5
+2022-10-17,usn,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,1.5
+2022-10-17,Polar,OTHER,HDPE/PP,Bucket,Greenhub,1.5
+2022-10-17,yardley,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,1.5
+2022-10-17,medistar,OTHER,HDPE/PP,Medical Container,Greenhub,1.5
+2022-10-17,l'oréal,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,1.5
+2022-10-17,Ritebrand,OTHER,HDPE/PP,Sunflower Oil,Greenhub,1.5
+2022-10-17,Number 1,OTHER,HDPE/PP,Unidentifiable,Greenhub,1.5
+2022-10-17,Mr. Sheen,OTHER,HDPE/PP,Cleaning Product,Greenhub,1.5
+2022-10-17,petronas,OTHER,HDPE/PP,Container,Greenhub,1.5
+2022-10-17,Bodicare,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,1.5
+2022-10-17,Mama's,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,1.5
+2022-10-17,farm house,OTHER,HDPE/PP,Unidentifiable,Greenhub,1.5
+2022-10-17,wc ente,OTHER,HDPE/PP,Cleaning Product,Greenhub,1.5
+2022-10-17,Toyota,OTHER,HDPE/PP,Container,Greenhub,1.5
+2022-10-17,umshanelo,OTHER,HDPE/PP,Unidentifiable,Greenhub,1.5
+2022-10-17,glyco lenan,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,1.5
+2022-10-17,goldi chicken,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,1.5
+2022-10-17,dumakude,OTHER,HDPE/PP,Unidentifiable,Greenhub,1.5
+2022-10-17,sof 'n' free,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,1.5
+2022-10-17,KFC,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,1.5
+2022-10-17,home ice cream,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,1.5
+2022-10-17,product impilo,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,1.5
+2022-10-17,black cat,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,1.5
+2022-10-17,riva,OTHER,HDPE/PP,Unidentifiable,Greenhub,1.5
+2022-10-17,far end dairy,OTHER,HDPE/PP,Milk,Greenhub,1.5
+2022-10-17,royale,OTHER,HDPE/PP,Container,Greenhub,1.5
+2022-10-17,fair value,OTHER,HDPE/PP,Unidentifiable,Greenhub,1.5
+2022-10-17,jungle,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,1.5
+2022-10-17,bio-oil,OTHER,HDPE/PP,Sunflower Oil,Greenhub,1.5
+2022-10-17,lms,OTHER,HDPE/PP,Unidentifiable,Greenhub,1.5
+2022-10-17,Jik,OTHER,HDPE/PP,Cleaning Product,Greenhub,1.5
+2022-10-17,miracle mom,OTHER,HDPE/PP,Cleaning Product,Greenhub,1.5
+2022-10-17,medihelp,OTHER,HDPE/PP,Medical Container,Greenhub,1.5
+2022-10-17,Farm Gold,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,1.5
+2022-10-17,ace,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,1.5
+2022-10-17,honey dew,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,1.5
+2022-10-17,just for kids,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,1.5
+2022-10-17,american parlor,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,1.5
+2022-10-17,perfect choice,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,1.5
+2022-10-17,waterberg,OTHER,HDPE/PP,Alcohol,Greenhub,1.5
+2022-10-17,diamond guard,OTHER,HDPE/PP,Cleaning Product,Greenhub,1.5
+2022-10-17,Klenz,OTHER,HDPE/PP,Medical Container,Greenhub,1.5
+2022-10-17,mentos,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,1.5
+2022-10-17,dairybelle,OTHER,HDPE/PP,Milk,Greenhub,1.5
+2022-10-17,revive,OTHER,HDPE/PP,Unidentifiable,Greenhub,1.5
+2022-10-17,rivage,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,1.5
+2022-10-17,love her madly,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,1.5
+2022-10-17,de novo,OTHER,HDPE/PP,Water,Greenhub,1.5
+2022-10-17,fossan,OTHER,HDPE/PP,Unidentifiable,Greenhub,1.5
+2022-10-17,carotone,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,1.5
+2022-10-17,motions,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,1.5
+2022-10-17,no name,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,1.5
+2022-10-17,blue dirt,OTHER,HDPE/PP,Container,Greenhub,1.5
+2022-10-17,effer flu,OTHER,HDPE/PP,Medical Container,Greenhub,1.5
+2022-10-17,ingqayizivele,OTHER,HDPE/PP,Unidentifiable,Greenhub,1.5
+2022-10-17,ubhoho,OTHER,HDPE/PP,Unidentifiable,Greenhub,1.5
+2022-10-17,seven,OTHER,HDPE/PP,Unidentifiable,Greenhub,1.5
+2022-10-19,Coca Cola Beverages South Africa,Coca Cola Beverages South Africa,PET,Soda,Greenhub,2
+2022-10-19,Twist,Coca Cola Beverages South Africa,PET,Soda,Greenhub,0
+2022-10-19,Stoney,Coca Cola Beverages South Africa,PET,Soda,Greenhub,0
+2022-10-19,Sprite,Coca Cola Beverages South Africa,PET,Soda,Greenhub,0
+2022-10-19,Powerade,Coca Cola Beverages South Africa,PET,Soda,Greenhub,0
+2022-10-19,Fanta,Coca Cola Beverages South Africa,PET,Soda,Greenhub,1
+2022-10-19,bonaqua,Coca Cola Beverages South Africa,PET,Water,Greenhub,0
+2022-10-19,Spar-Letta,Coca Cola Beverages South Africa,PET,Water,Greenhub,0
+2022-10-19,Valpré Spring Water,Coca Cola Beverages South Africa,PET,Water,Greenhub,0
+2022-10-19,Schweppes,Coca Cola Beverages South Africa,PET,Soda,Greenhub,0
+2022-10-19,Cooee,Bevco - The Beverage Company,PET,Soda,Greenhub,0
+2022-10-19,Pepsi,Bevco - The Beverage Company,PET,Soda,Greenhub,0
+2022-10-19,aQuellé,Ekhamanzi Springs,PET,Water,Greenhub,0
+2022-10-19,Sunfoil,Willowton Group,PET,Sunflower Oil,Greenhub,0
+2022-10-19,Sunshine D,Willowton Group,PET,Food Container/Packaging,Greenhub,0
+2022-10-19,d'Lite,Willowton Group,PET,Sunflower Oil,Greenhub,0
+2022-10-19,d'Lite,Willowton Group,HDPE/PP,Food Container/Packaging,Greenhub,2
+2022-10-19,Smirnoff,Smirnoff,PET,Alcohol,Greenhub,1
+2022-10-19,NOLA,RCL Foods,PET,Food Container/Packaging,Greenhub,0
+2022-10-19,NOLA,RCL Foods,HDPE/PP,Food Container/Packaging,Greenhub,0
+2022-10-19,YUM YUM,RCL Foods,PET,Food Container/Packaging,Greenhub,0
+2022-10-19,YUM YUM,RCL Foods,HDPE/PP,Food Container/Packaging,Greenhub,0
+2022-10-19,Number 1,RCL Foods,HDPE/PP,Food Container/Packaging,Greenhub,0
+2022-10-19,PIEMAN'S,RCL Foods,PET,Food Container/Packaging,Greenhub,0
+2022-10-19,Checker's House Brand,Checker's,PET,Sunflower Oil,Greenhub,0
+2022-10-19,Checker's House Brand,Checker's,HDPE/PP,Food Container/Packaging,Greenhub,0
+2022-10-19,Gentle Magic,Gentle Magic,PET,Skin/Hair Products,Greenhub,0
+2022-10-19,Woolworths Food,Woolworths,PET,Juices,Greenhub,1
+2022-10-19,Woolworths Food,Woolworths,HDPE/PP,Food Container/Packaging,Greenhub,0
+2022-10-19,UnID Water,unidentifiable,PET,Water,Greenhub,0
+2022-10-19,UnID Oils,unidentifiable,PET,Sunflower Oil,Greenhub,0
+2022-10-19,PET,unidentifiable,PET,Container,Greenhub,1
+2022-10-19,UnID Medical,unidentifiable,HDPE/PP,Medical Container,Greenhub,8
+2022-10-19,DEO,DEO,HDPE/PP,Deodorant,Greenhub,8
+2022-10-19,Containers,Containers,HDPE/PP,Container,Greenhub,22
+2022-10-19,Buckets,Buckets,HDPE/PP,Bucket,Greenhub,42
+2022-10-19,OTHER,OTHER,HDPE/PP,Unidentifiable,Greenhub,86
+2022-10-19,Clover,Clover Industries LTD,PET,Juices,Greenhub,0
+2022-10-19,Clover,Clover Industries LTD,HDPE/PP,Milk,Greenhub,17
+2022-10-19,Tropika,Clover Industries LTD,PET,Juices,Greenhub,0
+2022-10-19,Tropika,Clover Industries LTD,HDPE/PP,Juices,Greenhub,0
+2022-10-19,Super M,Clover Industries LTD,HDPE,Milk,Greenhub,0
+2022-10-19,Quali,Clover Industries LTD,PET,Juices,Greenhub,0
+2022-10-19,Quali,Clover Industries LTD,HDPE/PP,Juices,Greenhub,0
+2022-10-19,Aquartz,Clover Industries LTD,PET,Water,Greenhub,0
+2022-10-19,Sip Up,Clover Industries LTD,HDPE,Milk,Greenhub,0
+2022-10-19,Go Nuts,Clover Industries LTD,HDPE,Food Container/Packaging,Greenhub,0
+2022-10-19,Daly's,Pioneer Foods,PET,Juices,Greenhub,0
+2022-10-19,Ceres,Pioneer Foods,NA,Juices,Greenhub,0
+2022-10-19,OROS,Tiger Brands,PET,Juices,Greenhub,0
+2022-10-19,Dolly Varden,Tiger Brands,PET,Skin/Hair Products,Greenhub,0
+2022-10-19,Dolly Varden,Tiger Brands,HDPE/PP,Skin/Hair Products,Greenhub,0
+2022-10-19,Hall's,Tiger Brands,PET,Juices,Greenhub,0
+2022-10-19,Energade,Tiger Brands,PET,Soda,Greenhub,1
+2022-10-19,Ingram's (The Skin Doctor),Tiger Brands,HDPE/PP,Skin/Hair Products,Greenhub,0
+2022-10-19,IJUBA,United National Breweries PTY LTD,HDPE/PP,Alcohol,Greenhub,6
+2022-10-19,Knorr,Unilever,HDPE/PP,Food Container/Packaging,Greenhub,1
+2022-10-19,dawn,Unilever,HDPE/PP,Deodorant,Greenhub,2
+2022-10-19,Domestos,Unilever,HDPE/PP,Cleaning Product,Greenhub,3
+2022-10-19,Dove,Unilever,HDPE/PP,Deodorant,Greenhub,0
+2022-10-19,Handy Andy,Unilever,HDPE/PP,Cleaning Product,Greenhub,1
+2022-10-19,Ola,Unilever,HDPE/PP,Food Container/Packaging,Greenhub,1
+2022-10-19,Shield,Unilever,HDPE/PP,Deodorant,Greenhub,0
+2022-10-19,Vaseline,Unilever,HDPE/PP,Skin/Hair Products,Greenhub,5
+2022-10-19,Brut,Unilever,HDPE/PP,Deodorant,Greenhub,0
+2022-10-19,OMO,Unilever,HDPE/PP,Cleaning Product,Greenhub,2
+2022-10-19,Comfort,Unilever,HDPE/PP,Cleaning Product,Greenhub,0
+2022-10-19,Sunlight,Unilever,PET,Cleaning Product,Greenhub,0
+2022-10-19,Orange Grove,Orange Grove,PET,Juices,Greenhub,0
+2022-10-19,Orange Grove,Orange Grove,HDPE/PP,Milk,Greenhub,10
+2022-10-19,Flora,Siqolo Foods,HDPE/PP,Food Container/Packaging,Greenhub,3
+2022-10-19,Rama,Siqolo Foods,HDPE/PP,Food Container/Packaging,Greenhub,1
+2022-10-19,Stork,Siqolo Foods,HDPE/PP,Food Container/Packaging,Greenhub,3
+2022-10-19,Rondo,Siqolo Foods,HDPE/PP,Food Container/Packaging,Greenhub,0
+2022-10-19,Clere,Amka Products,HDPE/PP,Skin/Hair Products,Greenhub,0
+2022-10-19,Easy Waves,Amka Products,HDPE/PP,Skin/Hair Products,Greenhub,1
+2022-10-19,Playboy/Playgirl,Amka Products,HDPE/PP,Deodorant,Greenhub,1
+2022-10-19,Shower to Shower,Amka Products,HDPE/PP,Skin/Hair Products,Greenhub,0
+2022-10-19,Sta-Sof-Fro,Amka Products,HDPE/PP,Skin/Hair Products,Greenhub,0
+2022-10-19,Stylin',Amka Products,HDPE/PP,Skin/Hair Products,Greenhub,0
+2022-10-19,NIVEA,Beiersdorf,HDPE/PP,Skin/Hair Products,Greenhub,1
+2022-10-19,Top Class,Kwaden Group (imana foods),HDPE/PP,Food Container/Packaging,Greenhub,0
+2022-10-19,parmalat,Lactalis,HDPE/PP,Milk,Greenhub,1
+2022-10-19,Mylan,Viatris,HDPE/PP,Medical Container,Greenhub,0
+2022-10-19,NTSU,Mr Snuff,HDPE/PP,Tobacco,Greenhub,0
+2022-10-19,Oh So Heavenly,wipro,HDPE/PP,Skin/Hair Products,Greenhub,0
+2022-10-19,Yogi Sip,danone,HDPE/PP,Milk,Greenhub,6
+2022-10-19,alpro,danone,HDPE/PP,Milk,Greenhub,1
+2022-10-19,Inkomazi,danone,HDPE/PP,Milk,Greenhub,8
+2022-10-19,NutriDay,danone,HDPE/PP,Milk,Greenhub,4
+2022-10-19,Spring Meadow Dairy Farm,Spring Meadow Dairy Farm,PET,Milk,Greenhub,0
+2022-10-19,NA,Spring Meadow Dairy Farm,HDPE/PP,Milk,Greenhub,7
+2022-10-19,Crystal Valley,Crystal Valley,HDPE/PP,Milk,Greenhub,5
+2022-10-19,MAZ,MAZ,PET,Juices,Greenhub,0
+2022-10-19,Wild Island,Wild Island,PET,Juices,Greenhub,0
+2022-10-19,Save Water,Save Water,PET,Water,Greenhub,0
+2022-10-19,Pot 'o' Gold,Pot 'o' Gold,PET,Food Container/Packaging,Greenhub,0
+2022-10-19,Diamond Perlé,Diamond Perlé,PET,Water,Greenhub,0
+2022-10-19,Cappy,Coca Cola Beverages South Africa,PET,Juices,Greenhub,0
+2022-10-19,Bramley,Bramley,PET,Juices,Greenhub,0
+2022-10-19,Bramley,Bramley,HDPE/PP,Food Container/Packaging,Greenhub,0
+2022-10-19,Still Thirsti,Still Thirsti,PET,Water,Greenhub,0
+2022-10-19,Large Gas Containers,Miscellaneous,HDPE/PP,Container,Greenhub,0
+2022-10-19,Jabulani,Amasi,HDPE/PP,Milk,Greenhub,10
+2022-10-19,Gandour,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,0
+2022-10-19,AVON,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,0
+2022-10-19,Caro Light,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,0
+2022-10-19,Mitchum,OTHER,HDPE/PP,Deodorant,Greenhub,0
+2022-10-19,Garnier,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,0
+2022-10-19,Skin Clinic,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,0
+2022-10-19,Hetero Drugs South Africa,OTHER,HDPE/PP,Medical Container,Greenhub,0
+2022-10-19,Cipla,OTHER,HDPE/PP,Medical Container,Greenhub,0
+2022-10-19,MPACT,OTHER,HDPE/PP,Container,Greenhub,0
+2022-10-19,mondi,OTHER,HDPE/PP,Container,Greenhub,0
+2022-10-19,Dettol,OTHER,PET,Skin/Hair Products,Greenhub,0
+2022-10-19,Nestlé,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,4
+2022-10-19,Johnson's,OTHER,PET,Medical Container,Greenhub,0
+2022-10-19,Sir Fruit,OTHER,PET,Juices,Greenhub,0
+2022-10-19,Lucozade,OTHER,PET,Soda,Greenhub,0
+2022-10-19,Wimpy,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,0
+2022-10-19,Check Value Sun Oil,OTHER,PET,Sunflower Oil,Greenhub,0
+2022-10-19,Check Value Washing,OTHER,PET,Cleaning Product,Greenhub,0
+2022-10-19,Check Value,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,0
+2022-10-19,Twizza,OTHER,PET,Soda,Greenhub,3
+2022-10-19,Spar,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,1
+2022-10-19,We are AQUA,OTHER,PET,Water,Greenhub,0
+2022-10-19,One-Juice,OTHER,PET,Juices,Greenhub,0
+2022-10-19,Indlovu,OTHER,PET,Alcohol,Greenhub,0
+2022-10-19,Safola,OTHER,PET,Sunflower Oil,Greenhub,0
+2022-10-19,Clicks,OTHER,PET,Skin/Hair Products,Greenhub,0
+2022-10-19,Sunola,OTHER,PET,Sunflower Oil,Greenhub,0
+2022-10-19,Rider's Vodka,OTHER,PET,Alcohol,Greenhub,0
+2022-10-19,Volutrip,OTHER,HDPE/PP,Medical Container,Greenhub,0
+2022-10-19,Swiss Yoghurt,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,0
+2022-10-19,Lancewood,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,1
+2022-10-19,Pick n Pay,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,2
+2022-10-19,Dairymaid,OTHER,HDPE/PP,Milk,Greenhub,2
+2022-10-19,Castrol,OTHER,HDPE/PP,Container,Greenhub,0
+2022-10-19,Rainbow,OTHER,HDPE/PP,Container,Greenhub,0
+2022-10-19,Plascon,OTHER,HDPE/PP,Bucket,Greenhub,0
+2022-10-19,Revlon,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,0
+2022-10-19,shell,OTHER,HDPE/PP,Container,Greenhub,0
+2022-10-19,Natural flow,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,0
+2022-10-19,Safripol,OTHER,PET,Container,Greenhub,0
+2022-10-19,Blue death,OTHER,HDPE/PP,Cleaning Product,Greenhub,1.5
+2022-10-19,Nestlé,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,1.5
+2022-10-19,Total,OTHER,HDPE/PP,Cleaning Product,Greenhub,1.5
+2022-10-19,anti freeza and summer coolant,OTHER,HDPE/PP,Container,Greenhub,1.5
+2022-10-19,mondi,OTHER,HDPE/PP,Medical Container,Greenhub,1.5
+2022-10-19,dairy day honey dew,OTHER,HDPE/PP,Milk,Greenhub,1.5
+2022-10-19,colgate,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,1.5
+2022-10-19,shield since 1964,OTHER,HDPE/PP,Bucket,Greenhub,1.5
+2022-10-19,royale,OTHER,HDPE/PP,Container,Greenhub,1.5
+2022-10-19,petronas,OTHER,HDPE/PP,Container,Greenhub,1.5
+2022-10-19,olé,OTHER,HDPE/PP,Tobacco,Greenhub,1.5
+2022-10-19,Black Chic,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,1.5
+2022-10-19,Bodicare,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,1.5
+2022-10-19,sunny touch,OTHER,HDPE/PP,Unidentifiable,Greenhub,1.5
+2022-10-19,Renew,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,1.5
+2022-10-19,moir's,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,1.5
+2022-10-19,epimax,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,1.5
+2022-10-19,jills bleach,OTHER,HDPE/PP,Cleaning Product,Greenhub,1.5
+2022-10-19,ultrra,OTHER,HDPE/PP,Unidentifiable,Greenhub,1.5
+2022-10-19,Appletiser,OTHER,HDPE/PP,Juices,Greenhub,1.5
+2022-10-19,Reckitt Benckiser,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,1.5
+2022-10-19,madu magdeu,OTHER,HDPE/PP,Milk,Greenhub,1.5
+2022-10-19,KFC,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,1.5
+2022-10-19,hairglo,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,1.5
+2022-10-19,Toyota,OTHER,HDPE/PP,Container,Greenhub,1.5
+2022-10-19,Umkhucululu,OTHER,HDPE/PP,Medical Container,Greenhub,1.5
+2022-10-19,würth,OTHER,HDPE/PP,Container,Greenhub,1.5
+2022-10-19,pantavia,OTHER,HDPE/PP,Unidentifiable,Greenhub,1.5
+2022-10-19,the bake king,OTHER,HDPE/PP,Bucket,Greenhub,1.5
+2022-10-19,prominent paints,OTHER,HDPE/PP,Bucket,Greenhub,1.5
+2022-10-19,cash & carry,OTHER,HDPE/PP,Bucket,Greenhub,1.5
+2022-10-19,gritx,OTHER,HDPE/PP,Bucket,Greenhub,1.5
+2022-10-19,culinary fusion,OTHER,HDPE/PP,Bucket,Greenhub,1.5
+2022-10-19,Klenz,OTHER,HDPE/PP,Bucket,Greenhub,1.5
+2022-10-19,activex DCLBP,OTHER,HDPE/PP,Bucket,Greenhub,1.5
+2022-10-19,sika,OTHER,HDPE/PP,Bucket,Greenhub,1.5
+2022-10-19,kansai plascon,OTHER,HDPE/PP,Bucket,Greenhub,1.5
+2022-10-19,dulux,OTHER,HDPE/PP,Bucket,Greenhub,1.5
+2022-10-19,Engen,OTHER,HDPE/PP,Bucket,Greenhub,1.5
+2022-10-19,Polar,OTHER,HDPE/PP,Bucket,Greenhub,1.5
+2022-10-19,dulax,OTHER,HDPE/PP,Bucket,Greenhub,1.5
+2022-10-19,prostar,OTHER,HDPE/PP,Bucket,Greenhub,1.5
+2022-10-19,granulart,OTHER,HDPE/PP,Bucket,Greenhub,1.5
+2022-10-19,panorama biscuits,OTHER,HDPE/PP,Bucket,Greenhub,1.5
+2022-10-19,double velvet,OTHER,HDPE/PP,Bucket,Greenhub,1.5
+2022-10-19,homestead,OTHER,HDPE/PP,Bucket,Greenhub,1.5
+2022-10-19,powa fix,OTHER,HDPE/PP,Bucket,Greenhub,1.5
+2022-10-19,lubex,OTHER,HDPE/PP,Container,Greenhub,1.5
+2022-10-19,Castrol,OTHER,HDPE/PP,Container,Greenhub,1.5
+2022-10-19,shell,OTHER,HDPE/PP,Container,Greenhub,1.5
+2022-10-19,valvoline,OTHER,HDPE/PP,Container,Greenhub,1.5
+2022-10-19,wbho,OTHER,HDPE/PP,Unidentifiable,Greenhub,1.5
+2022-10-21,Coca Cola Beverages South Africa,Coca Cola Beverages South Africa,PET,Soda,Beach-wood,227
+2022-10-21,Twist,Coca Cola Beverages South Africa,PET,Soda,Beach-wood,54
+2022-10-21,Stoney,Coca Cola Beverages South Africa,PET,Soda,Beach-wood,24
+2022-10-21,Sprite,Coca Cola Beverages South Africa,PET,Soda,Beach-wood,10
+2022-10-21,Powerade,Coca Cola Beverages South Africa,PET,Soda,Beach-wood,31
+2022-10-21,Fanta,Coca Cola Beverages South Africa,PET,Soda,Beach-wood,33
+2022-10-21,bonaqua,Coca Cola Beverages South Africa,PET,Water,Beach-wood,16
+2022-10-21,Spar-Letta,Coca Cola Beverages South Africa,PET,Water,Beach-wood,21
+2022-10-21,Valpré Spring Water,Coca Cola Beverages South Africa,PET,Water,Beach-wood,13
+2022-10-21,Schweppes,Coca Cola Beverages South Africa,PET,Soda,Beach-wood,7
+2022-10-21,Cooee,Bevco - The Beverage Company,PET,Soda,Beach-wood,96
+2022-10-21,Pepsi,Bevco - The Beverage Company,PET,Soda,Beach-wood,3
+2022-10-21,aQuellé,Ekhamanzi Springs,PET,Water,Beach-wood,50
+2022-10-21,Sunfoil,Willowton Group,PET,Sunflower Oil,Beach-wood,19
+2022-10-21,Sunshine D,Willowton Group,PET,Food Container/Packaging,Beach-wood,0
+2022-10-21,d'Lite,Willowton Group,PET,Sunflower Oil,Beach-wood,5
+2022-10-21,d'Lite,Willowton Group,HDPE/PP,Food Container/Packaging,Beach-wood,0
+2022-10-21,Smirnoff,Smirnoff,PET,Alcohol,Beach-wood,34
+2022-10-21,NOLA,RCL Foods,PET,Food Container/Packaging,Beach-wood,15
+2022-10-21,NOLA,RCL Foods,HDPE/PP,Food Container/Packaging,Beach-wood,0
+2022-10-21,YUM YUM,RCL Foods,PET,Food Container/Packaging,Beach-wood,6
+2022-10-21,YUM YUM,RCL Foods,HDPE/PP,Food Container/Packaging,Beach-wood,0
+2022-10-21,Number 1,RCL Foods,HDPE/PP,Food Container/Packaging,Beach-wood,0
+2022-10-21,PIEMAN'S,RCL Foods,PET,Food Container/Packaging,Beach-wood,0
+2022-10-21,Checker's House Brand,Checker's,PET,Sunflower Oil,Beach-wood,3
+2022-10-21,Checker's House Brand,Checker's,HDPE/PP,Food Container/Packaging,Beach-wood,0
+2022-10-21,Gentle Magic,Gentle Magic,PET,Skin/Hair Products,Beach-wood,18
+2022-10-21,Woolworths Food,Woolworths,PET,Juices,Beach-wood,5
+2022-10-21,Woolworths Food,Woolworths,HDPE/PP,Food Container/Packaging,Beach-wood,0
+2022-10-21,UnID Water,unidentifiable,PET,Water,Beach-wood,31
+2022-10-21,UnID Oils,unidentifiable,PET,Sunflower Oil,Beach-wood,56
+2022-10-21,PET,unidentifiable,PET,Container,Beach-wood,62
+2022-10-21,UnID Medical,unidentifiable,HDPE/PP,Medical Container,Beach-wood,0
+2022-10-21,DEO,DEO,HDPE/PP,Deodorant,Beach-wood,0
+2022-10-21,Containers,Containers,HDPE/PP,Container,Beach-wood,0
+2022-10-21,Buckets,Buckets,HDPE/PP,Bucket,Beach-wood,0
+2022-10-21,OTHER,OTHER,HDPE/PP,Unidentifiable,Beach-wood,34
+2022-10-21,Clover,Clover Industries LTD,PET,Juices,Beach-wood,18
+2022-10-21,Clover,Clover Industries LTD,HDPE/PP,Milk,Beach-wood,0
+2022-10-21,Tropika,Clover Industries LTD,PET,Juices,Beach-wood,19
+2022-10-21,Tropika,Clover Industries LTD,HDPE/PP,Juices,Beach-wood,0
+2022-10-21,Super M,Clover Industries LTD,HDPE,Milk,Beach-wood,0
+2022-10-21,Quali,Clover Industries LTD,PET,Juices,Beach-wood,0
+2022-10-21,Quali,Clover Industries LTD,HDPE/PP,Juices,Beach-wood,0
+2022-10-21,Aquartz,Clover Industries LTD,PET,Water,Beach-wood,0
+2022-10-21,Sip Up,Clover Industries LTD,HDPE,Milk,Beach-wood,0
+2022-10-21,Go Nuts,Clover Industries LTD,HDPE,Food Container/Packaging,Beach-wood,0
+2022-10-21,Daly's,Pioneer Foods,PET,Juices,Beach-wood,8
+2022-10-21,Ceres,Pioneer Foods,NA,Juices,Beach-wood,0
+2022-10-21,OROS,Tiger Brands,PET,Juices,Beach-wood,6
+2022-10-21,Dolly Varden,Tiger Brands,PET,Skin/Hair Products,Beach-wood,2
+2022-10-21,Dolly Varden,Tiger Brands,HDPE/PP,Skin/Hair Products,Beach-wood,0
+2022-10-21,Hall's,Tiger Brands,PET,Juices,Beach-wood,0
+2022-10-21,Energade,Tiger Brands,PET,Soda,Beach-wood,24
+2022-10-21,Ingram's (The Skin Doctor),Tiger Brands,HDPE/PP,Skin/Hair Products,Beach-wood,0
+2022-10-21,IJUBA,United National Breweries PTY LTD,HDPE/PP,Alcohol,Beach-wood,0
+2022-10-21,Knorr,Unilever,HDPE/PP,Food Container/Packaging,Beach-wood,1
+2022-10-21,dawn,Unilever,HDPE/PP,Deodorant,Beach-wood,0
+2022-10-21,Domestos,Unilever,HDPE/PP,Cleaning Product,Beach-wood,1
+2022-10-21,Dove,Unilever,HDPE/PP,Deodorant,Beach-wood,0
+2022-10-21,Handy Andy,Unilever,HDPE/PP,Cleaning Product,Beach-wood,0
+2022-10-21,Ola,Unilever,HDPE/PP,Food Container/Packaging,Beach-wood,1
+2022-10-21,Shield,Unilever,HDPE/PP,Deodorant,Beach-wood,0
+2022-10-21,Vaseline,Unilever,HDPE/PP,Skin/Hair Products,Beach-wood,13
+2022-10-21,Brut,Unilever,HDPE/PP,Deodorant,Beach-wood,0
+2022-10-21,OMO,Unilever,HDPE/PP,Cleaning Product,Beach-wood,0
+2022-10-21,Comfort,Unilever,HDPE/PP,Cleaning Product,Beach-wood,0
+2022-10-21,Sunlight,Unilever,PET,Cleaning Product,Beach-wood,4
+2022-10-21,Orange Grove,Orange Grove,PET,Juices,Beach-wood,0
+2022-10-21,Orange Grove,Orange Grove,HDPE/PP,Milk,Beach-wood,0
+2022-10-21,Flora,Siqolo Foods,HDPE/PP,Food Container/Packaging,Beach-wood,0
+2022-10-21,Rama,Siqolo Foods,HDPE/PP,Food Container/Packaging,Beach-wood,0
+2022-10-21,Stork,Siqolo Foods,HDPE/PP,Food Container/Packaging,Beach-wood,0
+2022-10-21,Rondo,Siqolo Foods,HDPE/PP,Food Container/Packaging,Beach-wood,0
+2022-10-21,Clere,Amka Products,HDPE/PP,Skin/Hair Products,Beach-wood,13
+2022-10-21,Easy Waves,Amka Products,HDPE/PP,Skin/Hair Products,Beach-wood,0
+2022-10-21,Playboy/Playgirl,Amka Products,HDPE/PP,Deodorant,Beach-wood,0
+2022-10-21,Shower to Shower,Amka Products,HDPE/PP,Skin/Hair Products,Beach-wood,0
+2022-10-21,Sta-Sof-Fro,Amka Products,HDPE/PP,Skin/Hair Products,Beach-wood,0
+2022-10-21,Stylin',Amka Products,HDPE/PP,Skin/Hair Products,Beach-wood,0
+2022-10-21,NIVEA,Beiersdorf,HDPE/PP,Skin/Hair Products,Beach-wood,0
+2022-10-21,Top Class,Kwaden Group (imana foods),HDPE/PP,Food Container/Packaging,Beach-wood,0
+2022-10-21,parmalat,Lactalis,HDPE/PP,Milk,Beach-wood,0
+2022-10-21,Mylan,Viatris,HDPE/PP,Medical Container,Beach-wood,0
+2022-10-21,NTSU,Mr Snuff,HDPE/PP,Tobacco,Beach-wood,1
+2022-10-21,Oh So Heavenly,wipro,HDPE/PP,Skin/Hair Products,Beach-wood,0
+2022-10-21,Yogi Sip,danone,HDPE/PP,Milk,Beach-wood,1
+2022-10-21,alpro,danone,HDPE/PP,Milk,Beach-wood,0
+2022-10-21,Inkomazi,danone,HDPE/PP,Milk,Beach-wood,0
+2022-10-21,NutriDay,danone,HDPE/PP,Milk,Beach-wood,0
+2022-10-21,Spring Meadow Dairy Farm,Spring Meadow Dairy Farm,PET,Milk,Beach-wood,0
+2022-10-21,NA,Spring Meadow Dairy Farm,HDPE/PP,Milk,Beach-wood,0
+2022-10-21,Crystal Valley,Crystal Valley,HDPE/PP,Milk,Beach-wood,0
+2022-10-21,MAZ,MAZ,PET,Juices,Beach-wood,4
+2022-10-21,Wild Island,Wild Island,PET,Juices,Beach-wood,6
+2022-10-21,Save Water,Save Water,PET,Water,Beach-wood,0
+2022-10-21,Pot 'o' Gold,Pot 'o' Gold,PET,Food Container/Packaging,Beach-wood,0
+2022-10-21,Diamond Perlé,Diamond Perlé,PET,Water,Beach-wood,6
+2022-10-21,Cappy,Coca Cola Beverages South Africa,PET,Juices,Beach-wood,1
+2022-10-21,Bramley,Bramley,PET,Juices,Beach-wood,0
+2022-10-21,Bramley,Bramley,HDPE/PP,Food Container/Packaging,Beach-wood,0
+2022-10-21,Still Thirsti,Still Thirsti,PET,Water,Beach-wood,5
+2022-10-21,Large Gas Containers,Miscellaneous,HDPE/PP,Container,Beach-wood,0
+2022-10-21,Jabulani,Amasi,HDPE/PP,Milk,Beach-wood,0
+2022-10-21,Gandour,OTHER,HDPE/PP,Food Container/Packaging,Beach-wood,0
+2022-10-21,AVON,OTHER,HDPE/PP,Skin/Hair Products,Beach-wood,0
+2022-10-21,Caro Light,OTHER,HDPE/PP,Skin/Hair Products,Beach-wood,0
+2022-10-21,Mitchum,OTHER,HDPE/PP,Deodorant,Beach-wood,0
+2022-10-21,Garnier,OTHER,HDPE/PP,Skin/Hair Products,Beach-wood,0
+2022-10-21,Skin Clinic,OTHER,HDPE/PP,Skin/Hair Products,Beach-wood,0
+2022-10-21,Hetero Drugs South Africa,OTHER,HDPE/PP,Medical Container,Beach-wood,0
+2022-10-21,Cipla,OTHER,HDPE/PP,Medical Container,Beach-wood,0
+2022-10-21,MPACT,OTHER,HDPE/PP,Container,Beach-wood,0
+2022-10-21,mondi,OTHER,HDPE/PP,Container,Beach-wood,0
+2022-10-21,Dettol,OTHER,PET,Skin/Hair Products,Beach-wood,0
+2022-10-21,Nestlé,OTHER,HDPE/PP,Food Container/Packaging,Beach-wood,1
+2022-10-21,Johnson's,OTHER,PET,Medical Container,Beach-wood,0
+2022-10-21,Sir Fruit,OTHER,PET,Juices,Beach-wood,0
+2022-10-21,Lucozade,OTHER,PET,Soda,Beach-wood,3
+2022-10-21,Wimpy,OTHER,HDPE/PP,Food Container/Packaging,Beach-wood,0
+2022-10-21,Check Value Sun Oil,OTHER,PET,Sunflower Oil,Beach-wood,3
+2022-10-21,Check Value Washing,OTHER,PET,Cleaning Product,Beach-wood,0
+2022-10-21,Check Value,OTHER,HDPE/PP,Food Container/Packaging,Beach-wood,0
+2022-10-21,Twizza,OTHER,PET,Soda,Beach-wood,0
+2022-10-21,Spar,OTHER,HDPE/PP,Food Container/Packaging,Beach-wood,4
+2022-10-21,We are AQUA,OTHER,PET,Water,Beach-wood,0
+2022-10-21,One-Juice,OTHER,PET,Juices,Beach-wood,0
+2022-10-21,Indlovu,OTHER,PET,Alcohol,Beach-wood,0
+2022-10-21,Safola,OTHER,PET,Sunflower Oil,Beach-wood,4
+2022-10-21,Clicks,OTHER,PET,Skin/Hair Products,Beach-wood,0
+2022-10-21,Sunola,OTHER,PET,Sunflower Oil,Beach-wood,2
+2022-10-21,Rider's Vodka,OTHER,PET,Alcohol,Beach-wood,4
+2022-10-21,Volutrip,OTHER,HDPE/PP,Medical Container,Beach-wood,0
+2022-10-21,Swiss Yoghurt,OTHER,HDPE/PP,Food Container/Packaging,Beach-wood,0
+2022-10-21,Lancewood,OTHER,HDPE/PP,Food Container/Packaging,Beach-wood,0
+2022-10-21,Pick n Pay,OTHER,HDPE/PP,Food Container/Packaging,Beach-wood,0
+2022-10-21,Dairymaid,OTHER,HDPE/PP,Milk,Beach-wood,0
+2022-10-21,Castrol,OTHER,HDPE/PP,Container,Beach-wood,0
+2022-10-21,Rainbow,OTHER,HDPE/PP,Container,Beach-wood,0
+2022-10-21,Plascon,OTHER,HDPE/PP,Bucket,Beach-wood,0
+2022-10-21,Revlon,OTHER,HDPE/PP,Skin/Hair Products,Beach-wood,0
+2022-10-21,shell,OTHER,HDPE/PP,Container,Beach-wood,0
+2022-10-21,Natural flow,OTHER,HDPE/PP,Food Container/Packaging,Beach-wood,0
+2022-10-21,Safripol,OTHER,PET,Container,Beach-wood,0
+2022-10-21,Ideal,OTHER,PET,Sunflower Oil,Beach-wood,1.5
+2022-10-21,a h g,OTHER,PET,Water,Beach-wood,1.5
+2022-10-21,Sunglo,OTHER,PET,Container,Beach-wood,1.5
+2022-10-21,perfect water,OTHER,PET,Water,Beach-wood,1.5
+2022-10-21,telepoint,OTHER,PET,Cleaning Product,Beach-wood,1.5
+2022-10-21,Safola,OTHER,PET,Sunflower Oil,Beach-wood,1.5
+2022-10-21,food lover's,OTHER,PET,Food Container/Packaging,Beach-wood,1.5
+2022-10-21,Refreshhh,OTHER,PET,Soda,Beach-wood,1.5
+2022-10-21,Appletiser,OTHER,PET,Juices,Beach-wood,1.5
+2022-10-21,Brookes,OTHER,PET,Juices,Beach-wood,1.5
+2022-10-21,mr sheen,OTHER,PET,Cleaning Product,Beach-wood,1.5
+2022-10-21,Pure Refresh,OTHER,PET,Water,Beach-wood,1.5
+2022-10-21,h2o,OTHER,PET,Water,Beach-wood,1.5
+2022-10-21,Mama's,OTHER,PET,Food Container/Packaging,Beach-wood,1.5
+2022-10-21,Liqui Fruit,OTHER,PET,Juices,Beach-wood,1.5
+2022-10-21,al-imdaad foundation,OTHER,PET,Water,Beach-wood,1.5
+2022-10-21,stihl,OTHER,PET,Unidentifiable,Beach-wood,1.5
+2022-10-21,Clicks,OTHER,PET,Medical Container,Beach-wood,1.5
+2022-10-21,it's not made in china,OTHER,PET,Water,Beach-wood,1.5
+2022-10-21,Powa,OTHER,PET,Unidentifiable,Beach-wood,1.5
+2022-10-21,Simple Truth,OTHER,PET,Food Container/Packaging,Beach-wood,1.5
+2022-10-21,Indlovu,OTHER,PET,Alcohol,Beach-wood,1.5
+2022-10-21,prisma,OTHER,PET,Water,Beach-wood,1.5
+2022-10-21,Robertsons,OTHER,PET,Food Container/Packaging,Beach-wood,1.5
+2022-10-21,aquanow,OTHER,PET,Water,Beach-wood,1.5
+2022-10-21,m natural spring water,OTHER,PET,Water,Beach-wood,1.5
+2022-10-21,caxi,OTHER,PET,Unidentifiable,Beach-wood,1.5
+2022-10-21,just,OTHER,PET,Food Container/Packaging,Beach-wood,1.5
+2022-10-21,just for baby's,OTHER,PET,Container,Beach-wood,1.5
+2022-10-21,petrol,OTHER,PET,Container,Beach-wood,1.5
+2022-10-21,Tim Jan,OTHER,PET,Soda,Beach-wood,1.5
+2022-10-21,All Gold,OTHER,PET,Food Container/Packaging,Beach-wood,1.5
+2022-10-21,condense,OTHER,PET,Water,Beach-wood,1.5
+2022-10-21,security,OTHER,PET,Water,Beach-wood,1.5
+2022-10-21,p2 water,OTHER,PET,Water,Beach-wood,1.5
+2022-10-21,kara nichka's,OTHER,PET,Food Container/Packaging,Beach-wood,1.5
+2022-10-21,Purified Water,OTHER,PET,Water,Beach-wood,1.5
+2022-10-21,nature-e,OTHER,PET,Skin/Hair Products,Beach-wood,1.5
+2022-10-21,gangotri gangajal,OTHER,PET,Water,Beach-wood,1.5
+2022-10-21,nd,OTHER,PET,Unidentifiable,Beach-wood,1.5
+2022-10-21,Wild Island,OTHER,PET,Juices,Beach-wood,1.5
+2022-10-21,de novo,OTHER,PET,Water,Beach-wood,1.5
+2022-10-21,merida,OTHER,PET,Unidentifiable,Beach-wood,1.5
+2022-10-21,ovaltine,OTHER,PET,Food Container/Packaging,Beach-wood,1.5
+2022-10-21,meltons,OTHER,PET,Sunflower Oil,Beach-wood,1.5
+2022-10-21,fresh stop,OTHER,PET,Water,Beach-wood,1.5
+2022-10-21,McDonald's,OTHER,PET,Food Container/Packaging,Beach-wood,1.5
+2022-10-21,Glaceau,OTHER,PET,Soda,Beach-wood,1.5
+2022-10-21,red lable,OTHER,PET,Alcohol,Beach-wood,1.5
+2022-10-21,Eastern Highlands,OTHER,PET,Water,Beach-wood,1.5
+2022-10-21,Quick Shop & Co,OTHER,PET,Food Container/Packaging,Beach-wood,1.5
+2022-10-21,island,OTHER,PET,Water,Beach-wood,1.5
+2022-10-21,Sip Up,OTHER,PET,Soda,Beach-wood,1.5
+2022-10-21,evian,OTHER,PET,Water,Beach-wood,1.5
+2022-10-21,divine juice,OTHER,PET,Juices,Beach-wood,1.5
+2022-10-21,umgeni water,OTHER,PET,Water,Beach-wood,1.5
+2022-10-21,Wild Island,OTHER,PET,Juices,Beach-wood,1.5
+2022-10-21,gap,OTHER,PET,Water,Beach-wood,1.5
+2022-10-21,Nature's Buzz,OTHER,PET,Food Container/Packaging,Beach-wood,1.5
+2022-10-21,Hercules,OTHER,PET,Skin/Hair Products,Beach-wood,1.5
+2022-10-21,vick's,OTHER,PET,Skin/Hair Products,Beach-wood,1.5
+2022-10-21,Johnson's,OTHER,PET,Medical Container,Beach-wood,1.5
+2022-10-21,fresh mark,OTHER,PET,Food Container/Packaging,Beach-wood,1.5
+2022-10-21,inyonzo,OTHER,PET,Unidentifiable,Beach-wood,1.5
+2022-10-21,opuer,OTHER,PET,Unidentifiable,Beach-wood,1.5
+2022-10-21,marula,OTHER,PET,Alcohol,Beach-wood,1.5
+2022-10-21,Bramley,OTHER,PET,Skin/Hair Products,Beach-wood,1.5
+2022-10-21,Good Stuff,OTHER,PET,Skin/Hair Products,Beach-wood,1.5
+2022-10-21,Ubuhle,OTHER,PET,Skin/Hair Products,Beach-wood,1.5
+2022-10-21,Black Chic,OTHER,PET,Skin/Hair Products,Beach-wood,1.5
+2022-10-21,ominas,OTHER,PET,Unidentifiable,Beach-wood,1.5
+2022-10-21,Savlon,OTHER,PET,Skin/Hair Products,Beach-wood,1.5
+2022-10-21,KFC,OTHER,PET,Food Container/Packaging,Beach-wood,1.5
+2022-10-25,Coca Cola Beverages South Africa,Coca Cola Beverages South Africa,PET,Soda,Beach-wood,0
+2022-10-25,Twist,Coca Cola Beverages South Africa,PET,Soda,Beach-wood,1
+2022-10-25,Stoney,Coca Cola Beverages South Africa,PET,Soda,Beach-wood,0
+2022-10-25,Sprite,Coca Cola Beverages South Africa,PET,Soda,Beach-wood,0
+2022-10-25,Powerade,Coca Cola Beverages South Africa,PET,Soda,Beach-wood,0
+2022-10-25,Fanta,Coca Cola Beverages South Africa,PET,Soda,Beach-wood,1
+2022-10-25,bonaqua,Coca Cola Beverages South Africa,PET,Water,Beach-wood,0
+2022-10-25,Spar-Letta,Coca Cola Beverages South Africa,PET,Water,Beach-wood,0
+2022-10-25,Valpré Spring Water,Coca Cola Beverages South Africa,PET,Water,Beach-wood,0
+2022-10-25,Schweppes,Coca Cola Beverages South Africa,PET,Soda,Beach-wood,0
+2022-10-25,Cooee,Bevco - The Beverage Company,PET,Soda,Beach-wood,0
+2022-10-25,Pepsi,Bevco - The Beverage Company,PET,Soda,Beach-wood,0
+2022-10-25,aQuellé,Ekhamanzi Springs,PET,Water,Beach-wood,0
+2022-10-25,Sunfoil,Willowton Group,PET,Sunflower Oil,Beach-wood,0
+2022-10-25,Sunshine D,Willowton Group,PET,Food Container/Packaging,Beach-wood,0
+2022-10-25,d'Lite,Willowton Group,PET,Sunflower Oil,Beach-wood,0
+2022-10-25,d'Lite,Willowton Group,HDPE/PP,Food Container/Packaging,Beach-wood,1
+2022-10-25,Smirnoff,Smirnoff,PET,Alcohol,Beach-wood,1
+2022-10-25,NOLA,RCL Foods,PET,Food Container/Packaging,Beach-wood,0
+2022-10-25,NOLA,RCL Foods,HDPE/PP,Food Container/Packaging,Beach-wood,1
+2022-10-25,YUM YUM,RCL Foods,PET,Food Container/Packaging,Beach-wood,0
+2022-10-25,YUM YUM,RCL Foods,HDPE/PP,Food Container/Packaging,Beach-wood,1
+2022-10-25,Number 1,RCL Foods,HDPE/PP,Food Container/Packaging,Beach-wood,0
+2022-10-25,PIEMAN'S,RCL Foods,PET,Food Container/Packaging,Beach-wood,0
+2022-10-25,Checker's House Brand,Checker's,PET,Sunflower Oil,Beach-wood,0
+2022-10-25,Checker's House Brand,Checker's,HDPE/PP,Food Container/Packaging,Beach-wood,0
+2022-10-25,Gentle Magic,Gentle Magic,PET,Skin/Hair Products,Beach-wood,0
+2022-10-25,Woolworths Food,Woolworths,PET,Juices,Beach-wood,0
+2022-10-25,Woolworths Food,Woolworths,HDPE/PP,Food Container/Packaging,Beach-wood,0
+2022-10-25,UnID Water,unidentifiable,PET,Water,Beach-wood,0
+2022-10-25,UnID Oils,unidentifiable,PET,Sunflower Oil,Beach-wood,1
+2022-10-25,PET,unidentifiable,PET,Container,Beach-wood,1
+2022-10-25,UnID Medical,unidentifiable,HDPE/PP,Medical Container,Beach-wood,36
+2022-10-25,DEO,DEO,HDPE/PP,Deodorant,Beach-wood,4
+2022-10-25,Containers,Containers,HDPE/PP,Container,Beach-wood,0
+2022-10-25,Buckets,Buckets,HDPE/PP,Bucket,Beach-wood,0
+2022-10-25,OTHER,OTHER,HDPE/PP,Unidentifiable,Beach-wood,69
+2022-10-25,Clover,Clover Industries LTD,PET,Juices,Beach-wood,0
+2022-10-25,Clover,Clover Industries LTD,HDPE/PP,Milk,Beach-wood,32
+2022-10-25,Tropika,Clover Industries LTD,PET,Juices,Beach-wood,0
+2022-10-25,Tropika,Clover Industries LTD,HDPE/PP,Juices,Beach-wood,3
+2022-10-25,Super M,Clover Industries LTD,HDPE,Milk,Beach-wood,0
+2022-10-25,Quali,Clover Industries LTD,PET,Juices,Beach-wood,0
+2022-10-25,Quali,Clover Industries LTD,HDPE/PP,Juices,Beach-wood,0
+2022-10-25,Aquartz,Clover Industries LTD,PET,Water,Beach-wood,0
+2022-10-25,Sip Up,Clover Industries LTD,HDPE,Milk,Beach-wood,0
+2022-10-25,Go Nuts,Clover Industries LTD,HDPE,Food Container/Packaging,Beach-wood,0
+2022-10-25,Daly's,Pioneer Foods,PET,Juices,Beach-wood,0
+2022-10-25,Ceres,Pioneer Foods,NA,Juices,Beach-wood,0
+2022-10-25,OROS,Tiger Brands,PET,Juices,Beach-wood,0
+2022-10-25,Dolly Varden,Tiger Brands,PET,Skin/Hair Products,Beach-wood,0
+2022-10-25,Dolly Varden,Tiger Brands,HDPE/PP,Skin/Hair Products,Beach-wood,0
+2022-10-25,Hall's,Tiger Brands,PET,Juices,Beach-wood,0
+2022-10-25,Energade,Tiger Brands,PET,Soda,Beach-wood,0
+2022-10-25,Ingram's (The Skin Doctor),Tiger Brands,HDPE/PP,Skin/Hair Products,Beach-wood,0
+2022-10-25,IJUBA,United National Breweries PTY LTD,HDPE/PP,Alcohol,Beach-wood,17
+2022-10-25,Knorr,Unilever,HDPE/PP,Food Container/Packaging,Beach-wood,1
+2022-10-25,dawn,Unilever,HDPE/PP,Deodorant,Beach-wood,2
+2022-10-25,Domestos,Unilever,HDPE/PP,Cleaning Product,Beach-wood,2
+2022-10-25,Dove,Unilever,HDPE/PP,Deodorant,Beach-wood,0
+2022-10-25,Handy Andy,Unilever,HDPE/PP,Cleaning Product,Beach-wood,1
+2022-10-25,Ola,Unilever,HDPE/PP,Food Container/Packaging,Beach-wood,1
+2022-10-25,Shield,Unilever,HDPE/PP,Deodorant,Beach-wood,3
+2022-10-25,Vaseline,Unilever,HDPE/PP,Skin/Hair Products,Beach-wood,5
+2022-10-25,Brut,Unilever,HDPE/PP,Deodorant,Beach-wood,0
+2022-10-25,OMO,Unilever,HDPE/PP,Cleaning Product,Beach-wood,2
+2022-10-25,Comfort,Unilever,HDPE/PP,Cleaning Product,Beach-wood,1
+2022-10-25,Sunlight,Unilever,PET,Cleaning Product,Beach-wood,1
+2022-10-25,Orange Grove,Orange Grove,PET,Juices,Beach-wood,0
+2022-10-25,Orange Grove,Orange Grove,HDPE/PP,Milk,Beach-wood,10
+2022-10-25,Flora,Siqolo Foods,HDPE/PP,Food Container/Packaging,Beach-wood,4
+2022-10-25,Rama,Siqolo Foods,HDPE/PP,Food Container/Packaging,Beach-wood,4
+2022-10-25,Stork,Siqolo Foods,HDPE/PP,Food Container/Packaging,Beach-wood,5
+2022-10-25,Rondo,Siqolo Foods,HDPE/PP,Food Container/Packaging,Beach-wood,0
+2022-10-25,Clere,Amka Products,HDPE/PP,Skin/Hair Products,Beach-wood,2
+2022-10-25,Easy Waves,Amka Products,HDPE/PP,Skin/Hair Products,Beach-wood,2
+2022-10-25,Playboy/Playgirl,Amka Products,HDPE/PP,Deodorant,Beach-wood,0
+2022-10-25,Shower to Shower,Amka Products,HDPE/PP,Skin/Hair Products,Beach-wood,0
+2022-10-25,Sta-Sof-Fro,Amka Products,HDPE/PP,Skin/Hair Products,Beach-wood,1
+2022-10-25,Stylin',Amka Products,HDPE/PP,Skin/Hair Products,Beach-wood,0
+2022-10-25,NIVEA,Beiersdorf,HDPE/PP,Skin/Hair Products,Beach-wood,4
+2022-10-25,Top Class,Kwaden Group (imana foods),HDPE/PP,Food Container/Packaging,Beach-wood,0
+2022-10-25,parmalat,Lactalis,HDPE/PP,Milk,Beach-wood,9
+2022-10-25,Mylan,Viatris,HDPE/PP,Medical Container,Beach-wood,0
+2022-10-25,NTSU,Mr Snuff,HDPE/PP,Tobacco,Beach-wood,20
+2022-10-25,Oh So Heavenly,wipro,HDPE/PP,Skin/Hair Products,Beach-wood,0
+2022-10-25,Yogi Sip,danone,HDPE/PP,Milk,Beach-wood,5
+2022-10-25,alpro,danone,HDPE/PP,Milk,Beach-wood,0
+2022-10-25,Inkomazi,danone,HDPE/PP,Milk,Beach-wood,3
+2022-10-25,NutriDay,danone,HDPE/PP,Milk,Beach-wood,6
+2022-10-25,Spring Meadow Dairy Farm,Spring Meadow Dairy Farm,PET,Milk,Beach-wood,0
+2022-10-25,NA,Spring Meadow Dairy Farm,HDPE/PP,Milk,Beach-wood,6
+2022-10-25,Crystal Valley,Crystal Valley,HDPE/PP,Milk,Beach-wood,8
+2022-10-25,MAZ,MAZ,PET,Juices,Beach-wood,0
+2022-10-25,Wild Island,Wild Island,PET,Juices,Beach-wood,0
+2022-10-25,Save Water,Save Water,PET,Water,Beach-wood,0
+2022-10-25,Pot 'o' Gold,Pot 'o' Gold,PET,Food Container/Packaging,Beach-wood,0
+2022-10-25,Diamond Perlé,Diamond Perlé,PET,Water,Beach-wood,0
+2022-10-25,Cappy,Coca Cola Beverages South Africa,PET,Juices,Beach-wood,0
+2022-10-25,Bramley,Bramley,PET,Juices,Beach-wood,0
+2022-10-25,Bramley,Bramley,HDPE/PP,Food Container/Packaging,Beach-wood,0
+2022-10-25,Still Thirsti,Still Thirsti,PET,Water,Beach-wood,0
+2022-10-25,Large Gas Containers,Miscellaneous,HDPE/PP,Container,Beach-wood,0
+2022-10-25,Jabulani,Amasi,HDPE/PP,Milk,Beach-wood,9
+2022-10-25,Gandour,OTHER,HDPE/PP,Food Container/Packaging,Beach-wood,0
+2022-10-25,AVON,OTHER,HDPE/PP,Skin/Hair Products,Beach-wood,0
+2022-10-25,Caro Light,OTHER,HDPE/PP,Skin/Hair Products,Beach-wood,0
+2022-10-25,Mitchum,OTHER,HDPE/PP,Deodorant,Beach-wood,0
+2022-10-25,Garnier,OTHER,HDPE/PP,Skin/Hair Products,Beach-wood,0
+2022-10-25,Skin Clinic,OTHER,HDPE/PP,Skin/Hair Products,Beach-wood,0
+2022-10-25,Hetero Drugs South Africa,OTHER,HDPE/PP,Medical Container,Beach-wood,0
+2022-10-25,Cipla,OTHER,HDPE/PP,Medical Container,Beach-wood,0
+2022-10-25,MPACT,OTHER,HDPE/PP,Container,Beach-wood,0
+2022-10-25,mondi,OTHER,HDPE/PP,Container,Beach-wood,0
+2022-10-25,Dettol,OTHER,PET,Skin/Hair Products,Beach-wood,0
+2022-10-25,Nestlé,OTHER,HDPE/PP,Food Container/Packaging,Beach-wood,3
+2022-10-25,Johnson's,OTHER,PET,Medical Container,Beach-wood,0
+2022-10-25,Sir Fruit,OTHER,PET,Juices,Beach-wood,0
+2022-10-25,Lucozade,OTHER,PET,Soda,Beach-wood,0
+2022-10-25,Wimpy,OTHER,HDPE/PP,Food Container/Packaging,Beach-wood,0
+2022-10-25,Check Value Sun Oil,OTHER,PET,Sunflower Oil,Beach-wood,0
+2022-10-25,Check Value Washing,OTHER,PET,Cleaning Product,Beach-wood,0
+2022-10-25,Check Value,OTHER,HDPE/PP,Food Container/Packaging,Beach-wood,0
+2022-10-25,Twizza,OTHER,PET,Soda,Beach-wood,0
+2022-10-25,Spar,OTHER,HDPE/PP,Food Container/Packaging,Beach-wood,1
+2022-10-25,We are AQUA,OTHER,PET,Water,Beach-wood,0
+2022-10-25,One-Juice,OTHER,PET,Juices,Beach-wood,0
+2022-10-25,Indlovu,OTHER,PET,Alcohol,Beach-wood,0
+2022-10-25,Safola,OTHER,PET,Sunflower Oil,Beach-wood,0
+2022-10-25,Clicks,OTHER,PET,Skin/Hair Products,Beach-wood,0
+2022-10-25,Sunola,OTHER,PET,Sunflower Oil,Beach-wood,0
+2022-10-25,Rider's Vodka,OTHER,PET,Alcohol,Beach-wood,0
+2022-10-25,Volutrip,OTHER,HDPE/PP,Medical Container,Beach-wood,0
+2022-10-25,Swiss Yoghurt,OTHER,HDPE/PP,Food Container/Packaging,Beach-wood,0
+2022-10-25,Lancewood,OTHER,HDPE/PP,Food Container/Packaging,Beach-wood,0
+2022-10-25,Pick n Pay,OTHER,HDPE/PP,Food Container/Packaging,Beach-wood,1
+2022-10-25,Dairymaid,OTHER,HDPE/PP,Milk,Beach-wood,0
+2022-10-25,Castrol,OTHER,HDPE/PP,Container,Beach-wood,0
+2022-10-25,Rainbow,OTHER,HDPE/PP,Container,Beach-wood,0
+2022-10-25,Plascon,OTHER,HDPE/PP,Bucket,Beach-wood,0
+2022-10-25,Revlon,OTHER,HDPE/PP,Skin/Hair Products,Beach-wood,0
+2022-10-25,shell,OTHER,HDPE/PP,Container,Beach-wood,0
+2022-10-25,Natural flow,OTHER,HDPE/PP,Food Container/Packaging,Beach-wood,0
+2022-10-25,Safripol,OTHER,PET,Container,Beach-wood,0
+2022-10-25,blossom,OTHER,HDPE/PP,Food Container/Packaging,Beach-wood,1.5
+2022-10-25,deli,OTHER,HDPE/PP,Food Container/Packaging,Beach-wood,1.5
+2022-10-25,livewell,OTHER,HDPE/PP,Food Container/Packaging,Beach-wood,1.5
+2022-10-25,KFC,OTHER,HDPE/PP,Food Container/Packaging,Beach-wood,1.5
+2022-10-25,goudi,OTHER,HDPE/PP,Food Container/Packaging,Beach-wood,1.5
+2022-10-25,goldi,OTHER,HDPE/PP,Food Container/Packaging,Beach-wood,1.5
+2022-10-25,colgate,OTHER,HDPE/PP,Skin/Hair Products,Beach-wood,1.5
+2022-10-25,fair value,OTHER,HDPE/PP,Unidentifiable,Beach-wood,1.5
+2022-10-25,grain field chickens,OTHER,HDPE/PP,Food Container/Packaging,Beach-wood,1.5
+2022-10-25,gill,OTHER,HDPE/PP,Skin/Hair Products,Beach-wood,1.5
+2022-10-25,regal,OTHER,HDPE/PP,Unidentifiable,Beach-wood,1.5
+2022-10-25,Imari,OTHER,HDPE/PP,Skin/Hair Products,Beach-wood,1.5
+2022-10-25,tomil,OTHER,HDPE/PP,Unidentifiable,Beach-wood,1.5
+2022-10-25,sta-soft,OTHER,HDPE/PP,Skin/Hair Products,Beach-wood,1.5
+2022-10-25,kay titan,OTHER,HDPE/PP,Unidentifiable,Beach-wood,1.5
+2022-10-25,colad,OTHER,HDPE/PP,Bucket,Beach-wood,1.5
+2022-10-25,zandu,OTHER,HDPE/PP,Food Container/Packaging,Beach-wood,1.5
+2022-10-25,save,OTHER,HDPE/PP,Unidentifiable,Beach-wood,1.5
+2022-10-25,nike,OTHER,HDPE/PP,Container,Beach-wood,1.5
+2022-10-25,perfect choice,OTHER,HDPE/PP,Skin/Hair Products,Beach-wood,1.5
+2022-10-25,AVON,OTHER,HDPE/PP,Skin/Hair Products,Beach-wood,1.5
+2022-10-25,frisco,OTHER,HDPE/PP,Skin/Hair Products,Beach-wood,1.5
+2022-10-25,nu-ware,OTHER,HDPE/PP,Container,Beach-wood,1.5
+2022-10-25,tender loving care,OTHER,HDPE/PP,Skin/Hair Products,Beach-wood,1.5
+2022-10-25,gum salon,OTHER,HDPE/PP,Skin/Hair Products,Beach-wood,1.5
+2022-10-25,mrs. H.s. bocls,OTHER,HDPE/PP,Unidentifiable,Beach-wood,1.5
+2022-10-25,aunt caroline,OTHER,HDPE/PP,Skin/Hair Products,Beach-wood,1.5
+2022-10-25,oxford,OTHER,HDPE/PP,Unidentifiable,Beach-wood,1.5
+2022-10-25,the great cleaning company,OTHER,HDPE/PP,Cleaning Product,Beach-wood,1.5
+2022-10-25,rascals,OTHER,HDPE/PP,Food Container/Packaging,Beach-wood,1.5
+2022-10-25,la italiana,OTHER,HDPE/PP,Food Container/Packaging,Beach-wood,1.5
+2022-10-25,noir's,OTHER,HDPE/PP,Unidentifiable,Beach-wood,1.5
+2022-10-25,dumakude,OTHER,HDPE/PP,Unidentifiable,Beach-wood,1.5
+2022-10-25,portia m,OTHER,HDPE/PP,Skin/Hair Products,Beach-wood,1.5
+2022-10-25,shell,OTHER,HDPE/PP,Container,Beach-wood,1.5
+2022-10-25,Skin Clinic,OTHER,HDPE/PP,Skin/Hair Products,Beach-wood,1.5
+2022-10-25,Klenz,OTHER,HDPE/PP,Medical Container,Beach-wood,1.5
+2022-10-25,Lucozade,OTHER,HDPE/PP,Soda,Beach-wood,1.5
+2022-10-25,far end dairy,OTHER,HDPE/PP,Milk,Beach-wood,1.5
+2022-10-25,umklonyane,OTHER,HDPE/PP,Medical Container,Beach-wood,1.5
+2022-10-25,zinplex,OTHER,HDPE/PP,Medical Container,Beach-wood,1.5
+2022-10-25,veerox,OTHER,HDPE/PP,Skin/Hair Products,Beach-wood,1.5
+2022-10-25,MAZ,OTHER,HDPE/PP,Juices,Beach-wood,1.5
+2022-10-25,Dark and Lovely,OTHER,HDPE/PP,Skin/Hair Products,Beach-wood,1.5
+2022-10-25,due care,OTHER,HDPE/PP,Skin/Hair Products,Beach-wood,1.5
+2022-10-25,head n shoulders,OTHER,HDPE/PP,Skin/Hair Products,Beach-wood,1.5
+2022-10-25,enzo-oils,OTHER,HDPE/PP,Skin/Hair Products,Beach-wood,1.5
+2022-10-25,albex,OTHER,HDPE/PP,Cleaning Product,Beach-wood,1.5
+2022-10-25,just food,OTHER,HDPE/PP,Food Container/Packaging,Beach-wood,1.5
+2022-10-25,Saharaveg,OTHER,HDPE/PP,Food Container/Packaging,Beach-wood,1.5
+2022-10-25,Ideal,OTHER,HDPE/PP,Unidentifiable,Beach-wood,1.5
+2022-10-27,Coca Cola Beverages South Africa,Coca Cola Beverages South Africa,PET,Soda,Greenhub,105
+2022-10-27,Twist,Coca Cola Beverages South Africa,PET,Soda,Greenhub,18
+2022-10-27,Stoney,Coca Cola Beverages South Africa,PET,Soda,Greenhub,17
+2022-10-27,Sprite,Coca Cola Beverages South Africa,PET,Soda,Greenhub,5
+2022-10-27,Powerade,Coca Cola Beverages South Africa,PET,Soda,Greenhub,18
+2022-10-27,Fanta,Coca Cola Beverages South Africa,PET,Soda,Greenhub,8
+2022-10-27,bonaqua,Coca Cola Beverages South Africa,PET,Water,Greenhub,3
+2022-10-27,Spar-Letta,Coca Cola Beverages South Africa,PET,Water,Greenhub,11
+2022-10-27,Valpré Spring Water,Coca Cola Beverages South Africa,PET,Water,Greenhub,3
+2022-10-27,Schweppes,Coca Cola Beverages South Africa,PET,Soda,Greenhub,7
+2022-10-27,Cooee,Bevco - The Beverage Company,PET,Soda,Greenhub,60
+2022-10-27,Pepsi,Bevco - The Beverage Company,PET,Soda,Greenhub,1
+2022-10-27,aQuellé,Ekhamanzi Springs,PET,Water,Greenhub,9
+2022-10-27,Sunfoil,Willowton Group,PET,Sunflower Oil,Greenhub,7
+2022-10-27,Sunshine D,Willowton Group,PET,Food Container/Packaging,Greenhub,0
+2022-10-27,d'Lite,Willowton Group,PET,Sunflower Oil,Greenhub,2
+2022-10-27,d'Lite,Willowton Group,HDPE/PP,Food Container/Packaging,Greenhub,3
+2022-10-27,Smirnoff,Smirnoff,PET,Alcohol,Greenhub,2
+2022-10-27,NOLA,RCL Foods,PET,Food Container/Packaging,Greenhub,0
+2022-10-27,NOLA,RCL Foods,HDPE/PP,Food Container/Packaging,Greenhub,0
+2022-10-27,YUM YUM,RCL Foods,PET,Food Container/Packaging,Greenhub,0
+2022-10-27,YUM YUM,RCL Foods,HDPE/PP,Food Container/Packaging,Greenhub,0
+2022-10-27,Number 1,RCL Foods,HDPE/PP,Food Container/Packaging,Greenhub,0
+2022-10-27,PIEMAN'S,RCL Foods,PET,Food Container/Packaging,Greenhub,0
+2022-10-27,Checker's House Brand,Checker's,PET,Sunflower Oil,Greenhub,0
+2022-10-27,Checker's House Brand,Checker's,HDPE/PP,Food Container/Packaging,Greenhub,0
+2022-10-27,Gentle Magic,Gentle Magic,PET,Skin/Hair Products,Greenhub,0
+2022-10-27,Woolworths Food,Woolworths,PET,Juices,Greenhub,3
+2022-10-27,Woolworths Food,Woolworths,HDPE/PP,Food Container/Packaging,Greenhub,2
+2022-10-27,UnID Water,unidentifiable,PET,Water,Greenhub,4
+2022-10-27,UnID Oils,unidentifiable,PET,Sunflower Oil,Greenhub,6
+2022-10-27,PET,unidentifiable,PET,Container,Greenhub,5
+2022-10-27,UnID Medical,unidentifiable,HDPE/PP,Medical Container,Greenhub,12
+2022-10-27,DEO,DEO,HDPE/PP,Deodorant,Greenhub,12
+2022-10-27,Containers,Containers,HDPE/PP,Container,Greenhub,0
+2022-10-27,Buckets,Buckets,HDPE/PP,Bucket,Greenhub,0
+2022-10-27,OTHER,OTHER,HDPE/PP,Unidentifiable,Greenhub,36
+2022-10-27,Clover,Clover Industries LTD,PET,Juices,Greenhub,2
+2022-10-27,Clover,Clover Industries LTD,HDPE/PP,Milk,Greenhub,73
+2022-10-27,Tropika,Clover Industries LTD,PET,Juices,Greenhub,2
+2022-10-27,Tropika,Clover Industries LTD,HDPE/PP,Juices,Greenhub,37
+2022-10-27,Super M,Clover Industries LTD,HDPE,Milk,Greenhub,8
+2022-10-27,Quali,Clover Industries LTD,PET,Juices,Greenhub,0
+2022-10-27,Quali,Clover Industries LTD,HDPE/PP,Juices,Greenhub,0
+2022-10-27,Aquartz,Clover Industries LTD,PET,Water,Greenhub,0
+2022-10-27,Sip Up,Clover Industries LTD,HDPE,Milk,Greenhub,0
+2022-10-27,Go Nuts,Clover Industries LTD,HDPE,Food Container/Packaging,Greenhub,0
+2022-10-27,Daly's,Pioneer Foods,PET,Juices,Greenhub,0
+2022-10-27,Ceres,Pioneer Foods,NA,Juices,Greenhub,0
+2022-10-27,OROS,Tiger Brands,PET,Juices,Greenhub,1
+2022-10-27,Dolly Varden,Tiger Brands,PET,Skin/Hair Products,Greenhub,0
+2022-10-27,Dolly Varden,Tiger Brands,HDPE/PP,Skin/Hair Products,Greenhub,1
+2022-10-27,Hall's,Tiger Brands,PET,Juices,Greenhub,0
+2022-10-27,Energade,Tiger Brands,PET,Soda,Greenhub,5
+2022-10-27,Ingram's (The Skin Doctor),Tiger Brands,HDPE/PP,Skin/Hair Products,Greenhub,3
+2022-10-27,IJUBA,United National Breweries PTY LTD,HDPE/PP,Alcohol,Greenhub,656
+2022-10-27,Knorr,Unilever,HDPE/PP,Food Container/Packaging,Greenhub,3
+2022-10-27,dawn,Unilever,HDPE/PP,Deodorant,Greenhub,16
+2022-10-27,Domestos,Unilever,HDPE/PP,Cleaning Product,Greenhub,8
+2022-10-27,Dove,Unilever,HDPE/PP,Deodorant,Greenhub,2
+2022-10-27,Handy Andy,Unilever,HDPE/PP,Cleaning Product,Greenhub,9
+2022-10-27,Ola,Unilever,HDPE/PP,Food Container/Packaging,Greenhub,1
+2022-10-27,Shield,Unilever,HDPE/PP,Deodorant,Greenhub,0
+2022-10-27,Vaseline,Unilever,HDPE/PP,Skin/Hair Products,Greenhub,6
+2022-10-27,Brut,Unilever,HDPE/PP,Deodorant,Greenhub,0
+2022-10-27,OMO,Unilever,HDPE/PP,Cleaning Product,Greenhub,7
+2022-10-27,Comfort,Unilever,HDPE/PP,Cleaning Product,Greenhub,1
+2022-10-27,Sunlight,Unilever,PET,Cleaning Product,Greenhub,0
+2022-10-27,Orange Grove,Orange Grove,PET,Juices,Greenhub,0
+2022-10-27,Orange Grove,Orange Grove,HDPE/PP,Milk,Greenhub,51
+2022-10-27,Flora,Siqolo Foods,HDPE/PP,Food Container/Packaging,Greenhub,2
+2022-10-27,Rama,Siqolo Foods,HDPE/PP,Food Container/Packaging,Greenhub,3
+2022-10-27,Stork,Siqolo Foods,HDPE/PP,Food Container/Packaging,Greenhub,13
+2022-10-27,Rondo,Siqolo Foods,HDPE/PP,Food Container/Packaging,Greenhub,0
+2022-10-27,Clere,Amka Products,HDPE/PP,Skin/Hair Products,Greenhub,2
+2022-10-27,Easy Waves,Amka Products,HDPE/PP,Skin/Hair Products,Greenhub,0
+2022-10-27,Playboy/Playgirl,Amka Products,HDPE/PP,Deodorant,Greenhub,1
+2022-10-27,Shower to Shower,Amka Products,HDPE/PP,Skin/Hair Products,Greenhub,0
+2022-10-27,Sta-Sof-Fro,Amka Products,HDPE/PP,Skin/Hair Products,Greenhub,0
+2022-10-27,Stylin',Amka Products,HDPE/PP,Skin/Hair Products,Greenhub,0
+2022-10-27,NIVEA,Beiersdorf,HDPE/PP,Skin/Hair Products,Greenhub,18
+2022-10-27,Top Class,Kwaden Group (imana foods),HDPE/PP,Food Container/Packaging,Greenhub,3
+2022-10-27,parmalat,Lactalis,HDPE/PP,Milk,Greenhub,9
+2022-10-27,Mylan,Viatris,HDPE/PP,Medical Container,Greenhub,0
+2022-10-27,NTSU,Mr Snuff,HDPE/PP,Tobacco,Greenhub,0
+2022-10-27,Oh So Heavenly,wipro,HDPE/PP,Skin/Hair Products,Greenhub,0
+2022-10-27,Yogi Sip,danone,HDPE/PP,Milk,Greenhub,10
+2022-10-27,alpro,danone,HDPE/PP,Milk,Greenhub,1
+2022-10-27,Inkomazi,danone,HDPE/PP,Milk,Greenhub,36
+2022-10-27,NutriDay,danone,HDPE/PP,Milk,Greenhub,10
+2022-10-27,Spring Meadow Dairy Farm,Spring Meadow Dairy Farm,PET,Milk,Greenhub,0
+2022-10-27,NA,Spring Meadow Dairy Farm,HDPE/PP,Milk,Greenhub,65
+2022-10-27,Crystal Valley,Crystal Valley,HDPE/PP,Milk,Greenhub,35
+2022-10-27,MAZ,MAZ,PET,Juices,Greenhub,0
+2022-10-27,Wild Island,Wild Island,PET,Juices,Greenhub,1
+2022-10-27,Save Water,Save Water,PET,Water,Greenhub,0
+2022-10-27,Pot 'o' Gold,Pot 'o' Gold,PET,Food Container/Packaging,Greenhub,0
+2022-10-27,Diamond Perlé,Diamond Perlé,PET,Water,Greenhub,4
+2022-10-27,Cappy,Coca Cola Beverages South Africa,PET,Juices,Greenhub,4
+2022-10-27,Bramley,Bramley,PET,Juices,Greenhub,2
+2022-10-27,Bramley,Bramley,HDPE/PP,Food Container/Packaging,Greenhub,0
+2022-10-27,Still Thirsti,Still Thirsti,PET,Water,Greenhub,1
+2022-10-27,Large Gas Containers,Miscellaneous,HDPE/PP,Container,Greenhub,0
+2022-10-27,Jabulani,Amasi,HDPE/PP,Milk,Greenhub,60
+2022-10-27,Gandour,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,0
+2022-10-27,AVON,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,0
+2022-10-27,Caro Light,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,2
+2022-10-27,Mitchum,OTHER,HDPE/PP,Deodorant,Greenhub,0
+2022-10-27,Garnier,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,0
+2022-10-27,Skin Clinic,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,0
+2022-10-27,Hetero Drugs South Africa,OTHER,HDPE/PP,Medical Container,Greenhub,0
+2022-10-27,Cipla,OTHER,HDPE/PP,Medical Container,Greenhub,0
+2022-10-27,MPACT,OTHER,HDPE/PP,Container,Greenhub,0
+2022-10-27,mondi,OTHER,HDPE/PP,Container,Greenhub,0
+2022-10-27,Dettol,OTHER,PET,Skin/Hair Products,Greenhub,0
+2022-10-27,Nestlé,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,0
+2022-10-27,Johnson's,OTHER,PET,Medical Container,Greenhub,0
+2022-10-27,Sir Fruit,OTHER,PET,Juices,Greenhub,1
+2022-10-27,Lucozade,OTHER,PET,Soda,Greenhub,0
+2022-10-27,Wimpy,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,0
+2022-10-27,Check Value Sun Oil,OTHER,PET,Sunflower Oil,Greenhub,0
+2022-10-27,Check Value Washing,OTHER,PET,Cleaning Product,Greenhub,0
+2022-10-27,Check Value,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,2
+2022-10-27,Twizza,OTHER,PET,Soda,Greenhub,2
+2022-10-27,Spar,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,14
+2022-10-27,We are AQUA,OTHER,PET,Water,Greenhub,0
+2022-10-27,One-Juice,OTHER,PET,Juices,Greenhub,0
+2022-10-27,Indlovu,OTHER,PET,Alcohol,Greenhub,0
+2022-10-27,Safola,OTHER,PET,Sunflower Oil,Greenhub,0
+2022-10-27,Clicks,OTHER,PET,Skin/Hair Products,Greenhub,0
+2022-10-27,Sunola,OTHER,PET,Sunflower Oil,Greenhub,1
+2022-10-27,Rider's Vodka,OTHER,PET,Alcohol,Greenhub,0
+2022-10-27,Volutrip,OTHER,HDPE/PP,Medical Container,Greenhub,0
+2022-10-27,Swiss Yoghurt,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,0
+2022-10-27,Lancewood,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,0
+2022-10-27,Pick n Pay,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,2
+2022-10-27,Dairymaid,OTHER,HDPE/PP,Milk,Greenhub,0
+2022-10-27,Castrol,OTHER,HDPE/PP,Container,Greenhub,0
+2022-10-27,Rainbow,OTHER,HDPE/PP,Container,Greenhub,0
+2022-10-27,Plascon,OTHER,HDPE/PP,Bucket,Greenhub,0
+2022-10-27,Revlon,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,0
+2022-10-27,shell,OTHER,HDPE/PP,Container,Greenhub,2
+2022-10-27,Natural flow,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,0
+2022-10-27,Safripol,OTHER,PET,Container,Greenhub,0
+2022-10-27,Supreme Foods,OTHER,PET,Food Container/Packaging,Greenhub,1.5
+2022-10-27,Saharaveg,OTHER,PET,Food Container/Packaging,Greenhub,1.5
+2022-10-27,garlic mom,OTHER,PET,Food Container/Packaging,Greenhub,1.5
+2022-10-27,mystify,OTHER,PET,Cleaning Product,Greenhub,1.5
+2022-10-27,arctic,OTHER,PET,Water,Greenhub,1.5
+2022-10-27,chef's secret,OTHER,PET,Food Container/Packaging,Greenhub,1.5
+2022-10-27,Refreshhh,OTHER,PET,Soda,Greenhub,1.5
+2022-10-27,Appletiser,OTHER,PET,Juices,Greenhub,1.5
+2022-10-27,sani springs,OTHER,PET,Water,Greenhub,1.5
+2022-10-27,Cocopulp,OTHER,PET,Food Container/Packaging,Greenhub,1.5
+2022-10-27,Gorima's Magi,OTHER,PET,Food Container/Packaging,Greenhub,1.5
+2022-10-27,U,OTHER,PET,Sunflower Oil,Greenhub,1.5
+2022-10-27,Mr. Orange,OTHER,PET,Juices,Greenhub,1.5
+2022-10-27,just for kids,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,1.5
+2022-10-27,BFC,OTHER,HDPE/PP,Medical Container,Greenhub,1.5
+2022-10-27,bonnita,OTHER,HDPE/PP,Milk,Greenhub,1.5
+2022-10-27,skip (unilever),OTHER,HDPE/PP,Cleaning Product,Greenhub,1.5
+2022-10-27,Jik,OTHER,HDPE/PP,Cleaning Product,Greenhub,1.5
+2022-10-27,Save Mor,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,1.5
+2022-10-27,Cambridge Food,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,1.5
+2022-10-27,Dairymaid,OTHER,HDPE/PP,Milk,Greenhub,1.5
+2022-10-27,noname,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,1.5
+2022-10-27,vita-gard,OTHER,HDPE/PP,Medical Container,Greenhub,1.5
+2022-10-27,HTH,OTHER,HDPE/PP,Cleaning Product,Greenhub,1.5
+2022-10-27,OI,OTHER,HDPE/PP,Unidentifiable,Greenhub,1.5
+2022-10-27,biotech,OTHER,HDPE/PP,Medical Container,Greenhub,1.5
+2022-10-27,Polar,OTHER,HDPE/PP,Bucket,Greenhub,1.5
+2022-10-27,starbites,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,1.5
+2022-10-27,royale,OTHER,HDPE/PP,Container,Greenhub,1.5
+2022-10-27,Renew,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,1.5
+2022-10-27,Klenz,OTHER,HDPE/PP,Medical Container,Greenhub,1.5
+2022-10-27,Number 1,OTHER,HDPE/PP,Unidentifiable,Greenhub,1.5
+2022-10-27,evolve,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,1.5
+2022-10-27,3H,OTHER,HDPE/PP,Unidentifiable,Greenhub,1.5
+2022-10-27,AVON,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,1.5
+2022-10-27,Nestlé,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,1.5
+2022-10-27,jabu stone,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,1.5
+2022-10-27,Dark and Lovely,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,1.5
+2022-10-27,Mama's,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,1.5
+2022-10-27,Ritebrand,OTHER,HDPE/PP,Sunflower Oil,Greenhub,1.5
+2022-10-27,denmar,OTHER,HDPE/PP,Medical Container,Greenhub,1.5
+2022-10-27,far end dairy,OTHER,HDPE/PP,Milk,Greenhub,1.5
+2022-10-27,head n shoulders,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,1.5
+2022-10-27,azore,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,1.5
+2022-10-27,johnsons,OTHER,HDPE/PP,Medical Container,Greenhub,1.5
+2022-10-27,Hetero Drugs South Africa,OTHER,HDPE/PP,Medical Container,Greenhub,1.5
+2022-10-27,McDonald's,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,1.5
+2022-10-27,mathatha kanye izifo,OTHER,HDPE/PP,Unidentifiable,Greenhub,1.5
+2022-10-27,midas,OTHER,HDPE/PP,Container,Greenhub,1.5
+2022-10-27,tc health,OTHER,HDPE/PP,Medical Container,Greenhub,1.5
+2022-10-27,oya,OTHER,HDPE/PP,Unidentifiable,Greenhub,1.5
+2022-10-27,sof 'n' free,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,1.5
+2022-10-27,Lancewood,OTHER,HDPE/PP,Food Container/Packaging,Greenhub,1.5
+2022-10-27,honey dew,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,1.5
+2022-10-27,TCB,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,1.5
+2022-10-27,Biogen,OTHER,HDPE/PP,Medical Container,Greenhub,1.5
+2022-10-27,Powa,OTHER,HDPE/PP,Unidentifiable,Greenhub,1.5
+2022-10-27,isixazululo,OTHER,HDPE/PP,Medical Container,Greenhub,1.5
+2022-10-27,enzo-oils,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,1.5
+2022-10-27,sta-soft,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,1.5
+2022-10-27,tru-chem,OTHER,HDPE/PP,Medical Container,Greenhub,1.5
+2022-10-27,pierre fabré,OTHER,HDPE/PP,Medical Container,Greenhub,1.5
+2022-10-27,Dairibord,OTHER,HDPE/PP,Milk,Greenhub,1.5
+2022-10-27,dew drop,OTHER,HDPE/PP,Skin/Hair Products,Greenhub,1.5
