@@ -1,9 +1,8 @@
-#' Metadata for dats set Responses to ... survey
+#' Plastic waste litterboom counts
 #'
-#' type, site and place in the x-survey dataset. this comes from the CSV file
-#' the unprocessed dataset as exported from Kobo Toolbox
-#'
-#' raw: Mzedi_survey_-_all_versions_-_False_-_2022-11-28-08-50-18.csv
+#' Count of individual plastic waste items categorised by brand, corporate
+#' group, plastic type, and usage application. Waste was collected on 14 days
+#' in 6 locations in Durban, South Africa.
 #'
 #' @seealso \url{ghe.ethz.ch}
 #'
