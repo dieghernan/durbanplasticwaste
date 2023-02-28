@@ -39,7 +39,9 @@ litterboom_df |>
   filter(weight_pet == 0) |>
   filter(amount != 0) |>
   select(date, brand, plastic, amount, weight_pet) |>
-  head(n = 10) |>
+  group_by(date, plastic) |>
+  summarise(sum = sum(amount))
+  #head(n = 10) |>
   knitr::kable()
 
 # Issue 2: https://github.com/Global-Health-Engineering/durbanplasticwaste22/issues/2
