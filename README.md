@@ -26,15 +26,6 @@ devtools::install_github("Global-Health-Engineering/durbanplasticwaste22")
 Alternatively, you can download the individual data sets as a CSV or
 XLSX file from the table below.
 
-``` r
-tibble(
-  dataset = "litterboom_counts",
-  CSV = "[Download CSV](https://github.com/Global-Health-Engineering/durbanplasticwaste22/raw/main/inst/extdata/litterboom_counts.csv)",
-  XLSX = "[Download XLSX](https://github.com/Global-Health-Engineering/durbanplasticwaste22/raw/main/inst/extdata/litterboom_counts.xlsx)"
-) |> 
-  knitr::kable()
-```
-
 | dataset           | CSV                                                                                                                           | XLSX                                                                                                                            |
 |:------------------|:------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------|
 | litterboom_counts | [Download CSV](https://github.com/Global-Health-Engineering/durbanplasticwaste22/raw/main/inst/extdata/litterboom_counts.csv) | [Download XLSX](https://github.com/Global-Health-Engineering/durbanplasticwaste22/raw/main/inst/extdata/litterboom_counts.xlsx) |
@@ -80,15 +71,6 @@ library(durbanplasticwaste22)
 
 **`litterboom_counts`**
 
-    #> Warning: One or more parsing issues, see `problems()` for details
-    #> Rows: 14 Columns: 5
-    #> ── Column specification ────────────────────────────────────────────────────────
-    #> Delimiter: ","
-    #> chr (5): directory, file_name, variable_name, variable_type, description
-    #> 
-    #> ℹ Use `spec()` to retrieve the full column specification for this data.
-    #> ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.
-
 | variable_name | variable_type | description                                                                                                                    |
 |:--------------|:--------------|:-------------------------------------------------------------------------------------------------------------------------------|
 | date          | date          | Date of the collected litterboom sample.                                                                                       |
@@ -101,15 +83,6 @@ library(durbanplasticwaste22)
 
 **`litterboom_weights`**
 
-    #> Warning: One or more parsing issues, see `problems()` for details
-    #> Rows: 14 Columns: 5
-    #> ── Column specification ────────────────────────────────────────────────────────
-    #> Delimiter: ","
-    #> chr (5): directory, file_name, variable_name, variable_type, description
-    #> 
-    #> ℹ Use `spec()` to retrieve the full column specification for this data.
-    #> ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.
-
 | variable_name | variable_type | description                              |
 |:--------------|:--------------|:-----------------------------------------|
 | date          | date          | Date of the collected litterboom sample. |
@@ -118,15 +91,6 @@ library(durbanplasticwaste22)
 | hpde_pp       | numeric       | Weight (in kg) of PET items.             |
 
 **`locations`**
-
-    #> Warning: One or more parsing issues, see `problems()` for details
-    #> Rows: 14 Columns: 5
-    #> ── Column specification ────────────────────────────────────────────────────────
-    #> Delimiter: ","
-    #> chr (5): directory, file_name, variable_name, variable_type, description
-    #> 
-    #> ℹ Use `spec()` to retrieve the full column specification for this data.
-    #> ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.
 
 | variable_name | variable_type                            | description |
 |:--------------|:-----------------------------------------|:------------|

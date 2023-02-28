@@ -11,7 +11,9 @@ knitr::opts_chunk$set(
   collapse = TRUE,
   comment = "#>",
   fig.path = "man/figures/README-",
-  out.width = "100%"
+  out.width = "100%",
+  message = FALSE,
+  warning = FALSE
 )
 
 library(tidyverse)
@@ -42,7 +44,7 @@ devtools::install_github("Global-Health-Engineering/durbanplasticwaste22")
 Alternatively, you can download the individual data sets as a CSV or XLSX file 
 from the table below.
 
-```{r}
+```{r, echo=FALSE}
 tibble(
   dataset = "litterboom_counts",
   CSV = "[Download CSV](https://github.com/Global-Health-Engineering/durbanplasticwaste22/raw/main/inst/extdata/litterboom_counts.csv)",
