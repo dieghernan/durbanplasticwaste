@@ -51,6 +51,10 @@ litterboom_df |>
   mutate(new_name = NA_character_) |>
   openxlsx::write.xlsx("data-raw/tidy-brand.names.xlsx")
 
+brand_names <- read_excel("data-raw/tidy-brand.names-rb.xlsx")
+
+brand_names |> View()
+
 
 # write data --------------------------------------------------------------
 
