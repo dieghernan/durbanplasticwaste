@@ -29,7 +29,7 @@ litterboom_df <- litterboom |>
 
 ## store weights data as separate table
 
-litterboom_df |>
+litterboom_weights <- litterboom_df |>
   select(date, weight_pet, weight_hdpe_pp) |>
   distinct()
 
@@ -37,7 +37,7 @@ litterboom_df |>
 
 litterboom_df |>
   filter(weight_pet == 0) |>
-  filter(!is.na(amount)) |>
+  filter(amount != 0) |>
   select(date, brand, plastic, amount, weight_pet) |>
   head(n = 10) |>
   knitr::kable()
@@ -52,12 +52,16 @@ litterboom_df |>
 
 # write data --------------------------------------------------------------
 
-litterboom_df |>
+litterboom_weights
+
+litterboom_counts <- litterboom_df |>
   select(-weight_pet, -weight_hdpe_pp) |>
-  rename(count = amount) |>
+  rename(count = amount)
 
 
+usethis::use_data(litterboom_weights, litterboom_counts, overwrite = TRUE)
 
-## code to prepare `DATASET` dataset goes her
+# write_csv(litterboom_counts, here::here("inst", "extdata", "litterboom_counts.csv"))
+# write_csv(litterboom_weights, here::here("inst", "extdata", "litterboom_weights.csv"))
 
-usethis::use_data(DATASET, overwrite = TRUE,)
+
