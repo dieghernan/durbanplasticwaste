@@ -8,7 +8,7 @@
 #'   \item{location}{Descriptive name of the sample location. See [`locations`]
 #'   for longitude and latitude .}
 #'   \item{pet}{Weight (in kg) of PET items.}
-#'   \item{hdpe_pp}{Weight (in kg) of PET items.}
+#'   \item{hdpe_pp}{Weight (in kg) of HDPE and PP items.}
 #' }
 #'
 "litterboom_weights"
