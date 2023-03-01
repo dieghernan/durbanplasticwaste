@@ -69,7 +69,12 @@ The package provides access to three data sets.
 library(durbanplasticwaste22)
 ```
 
-**`litterboom_counts`**
+The `litterboom_counts` data set has 7 variables and 2784 observations.
+For an overview of the variable names, see the following table.
+
+``` r
+litterboom_counts
+```
 
 | variable_name | variable_type | description                                                                                                                    |
 |:--------------|:--------------|:-------------------------------------------------------------------------------------------------------------------------------|
@@ -81,7 +86,8 @@ library(durbanplasticwaste22)
 | category      | character     | Categorisation of waste into 15 product type categories (e.g. Alcohol, Milk, Tobacco, Water).                                  |
 | count         | numeric       | Number of counted items.                                                                                                       |
 
-**`litterboom_weights`**
+The `litterboom_weights` data set has 4 variables and 14 observations.
+For an overview of the variable names, see the following table.
 
 | variable_name | variable_type | description                              |
 |:--------------|:--------------|:-----------------------------------------|
@@ -90,7 +96,8 @@ library(durbanplasticwaste22)
 | pet           | numeric       | Weight (in kg) of PET items.             |
 | hpde_pp       | numeric       | Weight (in kg) of PET items.             |
 
-**`locations`**
+The `locations` data set has 3 variables and 6 observations. For an
+overview of the variable names, see the following table.
 
 | variable_name | variable_type                            | description |
 |:--------------|:-----------------------------------------|:------------|
@@ -152,5 +159,5 @@ Data are available as CC-BY.
 To cite the durbanplasticwaste22 package, please use:
 
 ``` r
-#citation("durbanplasticwaste22")
+# citation("durbanplasticwaste22")
 ```

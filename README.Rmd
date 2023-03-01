@@ -17,6 +17,7 @@ knitr::opts_chunk$set(
 )
 
 library(tidyverse)
+library(epoxy)
 ```
 
 # durbanplasticwaste22
@@ -92,17 +93,29 @@ The package provides access to three data sets.
 library(durbanplasticwaste22)
 ```
 
-**`litterboom_counts`**
+
+
+```{epoxy}
+The `litterboom_counts` data set has {ncol(litterboom_counts)} variables and {nrow(litterboom_counts)} observations. For an overview of the variable names, see the following table.  
+
+```
+
+```{r, eval=FALSE}
+litterboom_counts
+```
+
 
 ```{r, echo=FALSE}
 readr::read_csv("data-raw/dictionary.csv") |> 
   dplyr::filter(file_name == "litterboom_counts.rda") |> 
   dplyr::select(variable_name:description) |> 
   knitr::kable()
-
 ```
 
-**`litterboom_weights`**
+```{epoxy}
+The `litterboom_weights` data set has {ncol(litterboom_weights)} variables and {nrow(litterboom_weights)} observations. For an overview of the variable names, see the following table.  
+
+```
 
 ```{r, echo=FALSE}
 readr::read_csv("data-raw/dictionary.csv") |> 
@@ -112,7 +125,10 @@ readr::read_csv("data-raw/dictionary.csv") |>
 
 ```
 
-**`locations`**
+```{epoxy}
+The `locations` data set has {ncol(locations)} variables and {nrow(locations)} observations. For an overview of the variable names, see the following table.  
+
+```
 
 ```{r, echo=FALSE}
 readr::read_csv("data-raw/dictionary.csv") |> 
@@ -163,6 +179,6 @@ Data are available as CC-BY.
 To cite the durbanplasticwaste22 package, please use:
 
 ```{r}
-#citation("durbanplasticwaste22")
+# citation("durbanplasticwaste22")
 ```
 
