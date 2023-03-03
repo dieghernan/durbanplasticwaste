@@ -30,11 +30,11 @@ Authors@R: c(
     person(given = "Siphiwe",
            family = "Rakgabale",
            email = "first.last@example.com",
-           role = c("ctb")
+           role = c("ctb")),
     person(given = "First Name",
            family = "Last Name",
            email = "first.last@example.com",
-           role = c("ctb")
+           role = c("ctb")), 
     person(given = "Global Health Engineering", 
            role = c("cph", "fnd"))
           )
@@ -52,3 +52,7 @@ LazyData: true
 Imports: 
     ggplot2,
     dplyr
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr

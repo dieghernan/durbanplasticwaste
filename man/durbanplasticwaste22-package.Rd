@@ -21,8 +21,9 @@ Other contributors:
 \itemize{
   \item Elizabeth Tilley \email{tilleye@ethz.ch} (\href{https://orcid.org/0000-0002-2095-9724}{ORCID}) [contributor]
   \item Marc Kalina \email{mkalina@ethz.ch} (\href{https://orcid.org/0000-0002-6335-3845}{ORCID}) [contributor]
-  \item Siphiwe Rakgabale \email{first.last@example.com} (\href{https://orcid.org/YOUR-ORCID-ID}{ORCID}) [contributor]
-  \item First Name Last Name \email{first.last@example.com} (\href{https://orcid.org/YOUR-ORCID-ID}{ORCID}) [contributor]
+  \item Siphiwe Rakgabale \email{first.last@example.com} [contributor]
+  \item First Name Last Name \email{first.last@example.com} [contributor]
+  \item Global Health Engineering [copyright holder, funder]
 }
 
 }
