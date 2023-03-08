@@ -4,6 +4,8 @@
 # durbanplasticwaste
 
 <!-- badges: start -->
+
+[![DOI](https://zenodo.org/badge/604573987.svg)](https://zenodo.org/badge/latestdoi/604573987)
 <!-- badges: end -->
 
 ## Overview
