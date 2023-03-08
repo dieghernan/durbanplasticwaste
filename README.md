@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# durbanplasticwaste22
+# durbanplasticwaste
 
 <!-- badges: start -->
 <!-- badges: end -->
@@ -15,20 +15,20 @@ Zurich, Switzerland.
 
 ## Installation
 
-You can install the development version of durbanplasticwaste22 from
+You can install the development version of durbanplasticwaste from
 [GitHub](https://github.com/) with:
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("Global-Health-Engineering/durbanplasticwaste22")
+devtools::install_github("Global-Health-Engineering/durbanplasticwaste")
 ```
 
 Alternatively, you can download the individual data sets as a CSV or
 XLSX file from the table below.
 
-| dataset           | CSV                                                                                                                           | XLSX                                                                                                                            |
-|:------------------|:------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------|
-| litterboom_counts | [Download CSV](https://github.com/Global-Health-Engineering/durbanplasticwaste22/raw/main/inst/extdata/litterboom_counts.csv) | [Download XLSX](https://github.com/Global-Health-Engineering/durbanplasticwaste22/raw/main/inst/extdata/litterboom_counts.xlsx) |
+| dataset           | CSV                                                                                                                         | XLSX                                                                                                                          |
+|:------------------|:----------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------|
+| litterboom_counts | [Download CSV](https://github.com/Global-Health-Engineering/durbanplasticwaste/raw/main/inst/extdata/litterboom_counts.csv) | [Download XLSX](https://github.com/Global-Health-Engineering/durbanplasticwaste/raw/main/inst/extdata/litterboom_counts.xlsx) |
 
 ## Projects
 
@@ -66,7 +66,7 @@ of the occurence of the brands washed into the litterbooms.
 The package provides access to three data sets.
 
 ``` r
-library(durbanplasticwaste22)
+library(durbanplasticwaste)
 ```
 
 The `litterboom_counts` data set has 7 variables and 2784 observations.
@@ -122,10 +122,10 @@ overview of the variable names, see the following table.
 ## Examples
 
 You can find these and more code examples for exploring
-durbanplasticwaste22 in vignette(“examples”).
+durbanplasticwaste in vignette(“examples”).
 
 ``` r
-library(durbanplasticwaste22)
+library(durbanplasticwaste)
 library(dplyr)
 
 litterboom_counts |> 
@@ -156,8 +156,8 @@ Data are available as CC-BY.
 
 ## Citation
 
-To cite the durbanplasticwaste22 package, please use:
+To cite the durbanplasticwaste package, please use:
 
 ``` r
-# citation("durbanplasticwaste22")
+# citation("durbanplasticwaste")
 ```

@@ -1,4 +1,4 @@
-Package: durbanplasticwaste22
+Package: durbanplasticwaste
 Title: Durban (South Aftica) Plastic Waste Data 
 Version: 0.0.0.9000
 Authors@R: c(
@@ -16,6 +16,11 @@ Authors@R: c(
            family = "Meyer-Piening",
            email = "first.last@example.com",
            role = c("aut"),
+           comment = c(ORCID = "0000-0003-2368-7418")),
+    person(given = "Boynton",
+           family = "Lin",
+           email = "lbonyton@ethz.ch",
+           role = c("ctb"),
            comment = c(ORCID = "0000-0002-9944-3834")),
     person(given = "Elizabeth",
            family = "Tilley",
@@ -36,7 +41,7 @@ Authors@R: c(
            email = "first.last@example.com",
            role = c("ctb")), 
     person(given = "Global Health Engineering", 
-           role = c("cph", "fnd"))
+           role = c("fnd"))
           )
 Description: Waste characterisation data for extended producer responsibility.
     The plastic waste was collected in the uMngeni River system in Durban, 
