@@ -154,31 +154,37 @@ readr::read_csv("data-raw/dictionary.csv") |>
 
 ## Examples
 
-You can find these and more code examples for exploring durbanplasticwaste in 
-vignette("examples").
+```{epoxy}
+
+The `litterboom_counts` data identifies {length(unique(litterboom_counts$group))} unique groups that own the identified brands. The top 10 brands are shown in the following table. All other brands are lumped together as OTHER. 
+
+```
 
 ```{r}
 library(durbanplasticwaste)
 library(dplyr)
+library(forcats)
 
 litterboom_counts |> 
+  mutate(group = factor(group)) |> 
+  mutate(group = fct_lump(group, n = 10, other_level = "OTHER")) |> 
   group_by(group) |> 
   summarise(
-    sum = sum(count)
+    count = sum(count)
   ) |> 
-  arrange(desc(sum))
+  arrange(desc(count)) |> 
+  mutate(percent = count / sum(count) * 100) |> 
+  knitr::kable(digits = 0)
+
 ```
-
-
+  
 ## License
-
-Data are available as CC-BY.
-
+    
+Data are available as [CC-BY](https://github.com/Global-Health-Engineering/durbanplasticwaste/blob/main/LICENSE.md).
+    
 ## Citation
-
+    
 To cite the durbanplasticwaste package, please use:
+    
 
-```{r}
-# citation("durbanplasticwaste")
-```
-
+    
