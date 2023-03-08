@@ -25,128 +25,27 @@ authors:
   given-names: Chiara
   email: first.last@example.com
   orcid: https://orcid.org/0000-0003-2368-7418
+- family-names: Lin
+  given-names: Boynton
+  email: lbonyton@ethz.ch
+  orcid: https://orcid.org/0000-0002-9944-3834
+- family-names: Tilley
+  given-names: Elizabeth
+  email: tilleye@ethz.ch
+  orcid: https://orcid.org/0000-0002-2095-9724
+- family-names: Kalina
+  given-names: Marc
+  email: mkalina@ethz.ch
+  orcid: https://orcid.org/0000-0002-6335-3845
+- family-names: Rakgabale
+  given-names: Siphiwe
+  email: first.last@example.com
+- family-names: Last Name
+  given-names: First Name
+  email: first.last@example.com
+- name: Global Health Engineering
 contact:
 - family-names: Schöbitz
   given-names: Lars
   email: lschoebitz@ethz.ch
   orcid: https://orcid.org/0000-0003-2196-5015
-references:
-- type: software
-  title: 'R: A Language and Environment for Statistical Computing'
-  notes: Depends
-  url: https://www.R-project.org/
-  authors:
-  - name: R Core Team
-  location:
-    name: Vienna, Austria
-  year: '2023'
-  institution:
-    name: R Foundation for Statistical Computing
-  version: '>= 2.10'
-- type: software
-  title: ggplot2
-  abstract: 'ggplot2: Create Elegant Data Visualisations Using the Grammar of Graphics'
-  notes: Imports
-  url: https://ggplot2.tidyverse.org
-  repository: https://CRAN.R-project.org/package=ggplot2
-  authors:
-  - family-names: Wickham
-    given-names: Hadley
-    email: hadley@rstudio.com
-    orcid: https://orcid.org/0000-0003-4757-117X
-  - family-names: Chang
-    given-names: Winston
-    orcid: https://orcid.org/0000-0002-1576-2126
-  - family-names: Henry
-    given-names: Lionel
-  - family-names: Pedersen
-    given-names: Thomas Lin
-    email: thomas.pedersen@rstudio.com
-    orcid: https://orcid.org/0000-0002-5147-4711
-  - family-names: Takahashi
-    given-names: Kohske
-  - family-names: Wilke
-    given-names: Claus
-    orcid: https://orcid.org/0000-0002-7470-9261
-  - family-names: Woo
-    given-names: Kara
-    orcid: https://orcid.org/0000-0002-5125-4188
-  - family-names: Yutani
-    given-names: Hiroaki
-    orcid: https://orcid.org/0000-0002-3385-7233
-  - family-names: Dunnington
-    given-names: Dewey
-    orcid: https://orcid.org/0000-0002-9415-4582
-  year: '2023'
-- type: software
-  title: dplyr
-  abstract: 'dplyr: A Grammar of Data Manipulation'
-  notes: Imports
-  url: https://dplyr.tidyverse.org
-  repository: https://CRAN.R-project.org/package=dplyr
-  authors:
-  - family-names: Wickham
-    given-names: Hadley
-    email: hadley@rstudio.com
-    orcid: https://orcid.org/0000-0003-4757-117X
-  - family-names: François
-    given-names: Romain
-    orcid: https://orcid.org/0000-0002-2444-4226
-  - family-names: Henry
-    given-names: Lionel
-  - family-names: Müller
-    given-names: Kirill
-    orcid: https://orcid.org/0000-0002-1416-3412
-  year: '2023'
-- type: software
-  title: knitr
-  abstract: 'knitr: A General-Purpose Package for Dynamic Report Generation in R'
-  notes: Suggests
-  url: https://yihui.org/knitr/
-  repository: https://CRAN.R-project.org/package=knitr
-  authors:
-  - family-names: Xie
-    given-names: Yihui
-    email: xie@yihui.name
-    orcid: https://orcid.org/0000-0003-0645-5666
-  year: '2023'
-- type: software
-  title: rmarkdown
-  abstract: 'rmarkdown: Dynamic Documents for R'
-  notes: Suggests
-  url: https://pkgs.rstudio.com/rmarkdown/
-  repository: https://CRAN.R-project.org/package=rmarkdown
-  authors:
-  - family-names: Allaire
-    given-names: JJ
-    email: jj@rstudio.com
-  - family-names: Xie
-    given-names: Yihui
-    email: xie@yihui.name
-    orcid: https://orcid.org/0000-0003-0645-5666
-  - family-names: McPherson
-    given-names: Jonathan
-    email: jonathan@rstudio.com
-  - family-names: Luraschi
-    given-names: Javier
-    email: javier@rstudio.com
-  - family-names: Ushey
-    given-names: Kevin
-    email: kevin@rstudio.com
-  - family-names: Atkins
-    given-names: Aron
-    email: aron@rstudio.com
-  - family-names: Wickham
-    given-names: Hadley
-    email: hadley@rstudio.com
-  - family-names: Cheng
-    given-names: Joe
-    email: joe@rstudio.com
-  - family-names: Chang
-    given-names: Winston
-    email: winston@rstudio.com
-  - family-names: Iannone
-    given-names: Richard
-    email: rich@rstudio.com
-    orcid: https://orcid.org/0000-0003-3925-190X
-  year: '2023'

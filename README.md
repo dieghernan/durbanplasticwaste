@@ -4,6 +4,8 @@
 # durbanplasticwaste
 
 <!-- badges: start -->
+
+[![DOI](https://zenodo.org/badge/604573987.svg)](https://zenodo.org/badge/latestdoi/604573987)
 <!-- badges: end -->
 
 ## Overview
@@ -121,43 +123,46 @@ overview of the variable names, see the following table.
 
 ## Examples
 
-You can find these and more code examples for exploring
-durbanplasticwaste in vignette(“examples”).
+The `litterboom_counts` data identifies 40 unique groups that own the
+identified brands. The top 10 brands are shown in the following table.
+All other brands are lumped together as OTHER.
 
 ``` r
 library(durbanplasticwaste)
 library(dplyr)
+library(forcats)
 
 litterboom_counts |> 
+  mutate(group = factor(group)) |> 
+  mutate(group = fct_lump(group, n = 10, other_level = "OTHER")) |> 
   group_by(group) |> 
   summarise(
-    sum = sum(count)
+    count = sum(count)
   ) |> 
-  arrange(desc(sum))
-#> # A tibble: 40 × 2
-#>    group                               sum
-#>    <chr>                             <dbl>
-#>  1 Coca Cola Beverages South Africa  4030 
-#>  2 United National Breweries PTY LTD 2618 
-#>  3 OTHER                             2464.
-#>  4 unidentifiable                    1202 
-#>  5 Bevco - The Beverage Company       804 
-#>  6 Clover Industries LTD              737 
-#>  7 Unilever                           442 
-#>  8 Ekhamanzi Springs                  306 
-#>  9 Amasi                              304 
-#> 10 Tiger Brands                       232 
-#> # … with 30 more rows
+  arrange(desc(count)) |> 
+  mutate(percent = count / sum(count) * 100) |> 
+  knitr::kable(digits = 0)
 ```
+
+| group                            | count | percent |
+|:---------------------------------|------:|--------:|
+| OTHER                            |  8086 |      52 |
+| Coca Cola Beverages South Africa |  4030 |      26 |
+| unidentifiable                   |  1202 |       8 |
+| Clover Industries LTD            |   737 |       5 |
+| Unilever                         |   442 |       3 |
+| Tiger Brands                     |   232 |       2 |
+| danone                           |   183 |       1 |
+| Siqolo Foods                     |   144 |       1 |
+| Willowton Group                  |   139 |       1 |
+| Amka Products                    |   132 |       1 |
+| RCL Foods                        |    95 |       1 |
 
 ## License
 
-Data are available as CC-BY.
+Data are available as
+[CC-BY](https://github.com/Global-Health-Engineering/durbanplasticwaste/blob/main/LICENSE.md).
 
 ## Citation
 
 To cite the durbanplasticwaste package, please use:
-
-``` r
-# citation("durbanplasticwaste")
-```
