@@ -20,7 +20,7 @@ library(tidyverse)
 library(epoxy)
 ```
 
-# durbanplasticwaste22
+# durbanplasticwaste
 
 <!-- badges: start -->
 
@@ -34,12 +34,12 @@ supported by the Global Health Engineering group at ETH Zurich, Switzerland.
 
 ## Installation
 
-You can install the development version of durbanplasticwaste22 
+You can install the development version of durbanplasticwaste 
 from [GitHub](https://github.com/) with:
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("Global-Health-Engineering/durbanplasticwaste22")
+devtools::install_github("Global-Health-Engineering/durbanplasticwaste")
 ```
 
 Alternatively, you can download the individual data sets as a CSV or XLSX file 
@@ -48,8 +48,8 @@ from the table below.
 ```{r, echo=FALSE}
 tibble(
   dataset = "litterboom_counts",
-  CSV = "[Download CSV](https://github.com/Global-Health-Engineering/durbanplasticwaste22/raw/main/inst/extdata/litterboom_counts.csv)",
-  XLSX = "[Download XLSX](https://github.com/Global-Health-Engineering/durbanplasticwaste22/raw/main/inst/extdata/litterboom_counts.xlsx)"
+  CSV = "[Download CSV](https://github.com/Global-Health-Engineering/durbanplasticwaste/raw/main/inst/extdata/litterboom_counts.csv)",
+  XLSX = "[Download XLSX](https://github.com/Global-Health-Engineering/durbanplasticwaste/raw/main/inst/extdata/litterboom_counts.xlsx)"
 ) |> 
   knitr::kable()
 ```
@@ -90,7 +90,7 @@ of the brands washed into the litterbooms.
 The package provides access to three data sets.
 
 ```{r}
-library(durbanplasticwaste22)
+library(durbanplasticwaste)
 ```
 
 
@@ -154,11 +154,11 @@ readr::read_csv("data-raw/dictionary.csv") |>
 
 ## Examples
 
-You can find these and more code examples for exploring durbanplasticwaste22 in 
+You can find these and more code examples for exploring durbanplasticwaste in 
 vignette("examples").
 
 ```{r}
-library(durbanplasticwaste22)
+library(durbanplasticwaste)
 library(dplyr)
 
 litterboom_counts |> 
@@ -176,9 +176,9 @@ Data are available as CC-BY.
 
 ## Citation
 
-To cite the durbanplasticwaste22 package, please use:
+To cite the durbanplasticwaste package, please use:
 
 ```{r}
-# citation("durbanplasticwaste22")
+# citation("durbanplasticwaste")
 ```
 

@@ -19,7 +19,7 @@ knitr::opts_chunk$set(
 ```
 
 ```{r setup}
-library(durbanplasticwaste22)
+library(durbanplasticwaste)
 library(ggplot2)
 library(dplyr)
 ```
