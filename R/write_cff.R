@@ -54,8 +54,15 @@ mod$authors <- newauth
 
 length(mod$authors)
 
-mod
+newkeys <- list(
+  "doi" = "https://doi.org/10.5281/zenodo.7708629"
+)
+
+modobject <- cff_create(mod, keys = newkeys)
+
+cff_validate(modobject)
 
 # Write the new object.
 
 cff_write(mod)
+
