@@ -7,11 +7,7 @@
 
 library(cffr)
 # Download desc
-tempdesc <- file.path(tempdir(), "DESCRIPTION")
-download.file(
-  "https://raw.githubusercontent.com/Global-Health-Engineering/durbanplasticwaste/main/DESCRIPTION",
-  tempdesc
-)
+tempdesc <- "DESCRIPTION"
 
 # Default behaviour
 default <- cff_create(tempdesc, dependencies = FALSE)
