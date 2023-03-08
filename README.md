@@ -166,3 +166,9 @@ Data are available as
 ## Citation
 
 To cite the durbanplasticwaste package, please use:
+
+Bergen, R., Schöbitz, L., Meyer-Piening, C., Lin, B., Tilley, E.,
+Kalina, M., Rakgabale, S., Last Name, F. N., & Global Health
+Engineering. durbanplasticwaste: Durban (South Aftica) Plastic Waste
+Data (Version 0.1.0) \[Data set\].
+<https://doi.org/https://doi.org/10.5281/zenodo.7708629>
