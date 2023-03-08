@@ -36,7 +36,7 @@
       </button>
       <span class="navbar-brand">
         <a class="navbar-link" href="index.html">durbanplasticwaste</a>
-        <span class="version label label-default" data-toggle="tooltip" data-placement="bottom" title="">0.0.0.9000</span>
+        <span class="version label label-default" data-toggle="tooltip" data-placement="bottom" title="">0.1.0</span>
       </span>
     </div>
 
@@ -74,7 +74,7 @@
 <div class="page-header"><h1 id="durbanplasticwaste">durbanplasticwaste<a class="anchor" aria-label="anchor" href="#durbanplasticwaste"></a>
 </h1></div>
 <!-- badges: start -->
-<!-- badges: end -->
+
 <div class="section level2">
 <h2 id="overview">Overview<a class="anchor" aria-label="anchor" href="#overview"></a>
 </h2>
@@ -273,43 +273,97 @@
 <div class="section level2">
 <h2 id="examples">Examples<a class="anchor" aria-label="anchor" href="#examples"></a>
 </h2>
-<p>You can find these and more code examples for exploring durbanplasticwaste in vignette(“examples”).</p>
+<p>The <code>litterboom_counts</code> data identifies 40 unique groups that own the identified brands. The top 10 brands are shown in the following table. All other brands are lumped together as OTHER.</p>
 <div class="sourceCode" id="cb4"><pre class="downlit sourceCode r">
 <code class="sourceCode R"><span class="kw"><a href="https://rdrr.io/r/base/library.html" class="external-link">library</a></span><span class="op">(</span><span class="va">durbanplasticwaste</span><span class="op">)</span>
 <span class="kw"><a href="https://rdrr.io/r/base/library.html" class="external-link">library</a></span><span class="op">(</span><span class="va"><a href="https://dplyr.tidyverse.org" class="external-link">dplyr</a></span><span class="op">)</span>
+<span class="kw"><a href="https://rdrr.io/r/base/library.html" class="external-link">library</a></span><span class="op">(</span><span class="va"><a href="https://forcats.tidyverse.org" class="external-link">forcats</a></span><span class="op">)</span>
 
 <span class="va">litterboom_counts</span> |&gt; 
+  <span class="fu"><a href="https://dplyr.tidyverse.org/reference/mutate.html" class="external-link">mutate</a></span><span class="op">(</span>group <span class="op">=</span> <span class="fu"><a href="https://rdrr.io/r/base/factor.html" class="external-link">factor</a></span><span class="op">(</span><span class="va">group</span><span class="op">)</span><span class="op">)</span> |&gt; 
+  <span class="fu"><a href="https://dplyr.tidyverse.org/reference/mutate.html" class="external-link">mutate</a></span><span class="op">(</span>group <span class="op">=</span> <span class="fu"><a href="https://forcats.tidyverse.org/reference/fct_lump.html" class="external-link">fct_lump</a></span><span class="op">(</span><span class="va">group</span>, n <span class="op">=</span> <span class="fl">10</span>, other_level <span class="op">=</span> <span class="st">"OTHER"</span><span class="op">)</span><span class="op">)</span> |&gt; 
   <span class="fu"><a href="https://dplyr.tidyverse.org/reference/group_by.html" class="external-link">group_by</a></span><span class="op">(</span><span class="va">group</span><span class="op">)</span> |&gt; 
   <span class="fu"><a href="https://dplyr.tidyverse.org/reference/summarise.html" class="external-link">summarise</a></span><span class="op">(</span>
-    sum <span class="op">=</span> <span class="fu"><a href="https://rdrr.io/r/base/sum.html" class="external-link">sum</a></span><span class="op">(</span><span class="va">count</span><span class="op">)</span>
+    count <span class="op">=</span> <span class="fu"><a href="https://rdrr.io/r/base/sum.html" class="external-link">sum</a></span><span class="op">(</span><span class="va">count</span><span class="op">)</span>
   <span class="op">)</span> |&gt; 
-  <span class="fu"><a href="https://dplyr.tidyverse.org/reference/arrange.html" class="external-link">arrange</a></span><span class="op">(</span><span class="fu"><a href="https://dplyr.tidyverse.org/reference/desc.html" class="external-link">desc</a></span><span class="op">(</span><span class="va">sum</span><span class="op">)</span><span class="op">)</span>
-<span class="co">#&gt; # A tibble: 40 × 2</span>
-<span class="co">#&gt;    group                               sum</span>
-<span class="co">#&gt;    &lt;chr&gt;                             &lt;dbl&gt;</span>
-<span class="co">#&gt;  1 Coca Cola Beverages South Africa  4030 </span>
-<span class="co">#&gt;  2 United National Breweries PTY LTD 2618 </span>
-<span class="co">#&gt;  3 OTHER                             2464.</span>
-<span class="co">#&gt;  4 unidentifiable                    1202 </span>
-<span class="co">#&gt;  5 Bevco - The Beverage Company       804 </span>
-<span class="co">#&gt;  6 Clover Industries LTD              737 </span>
-<span class="co">#&gt;  7 Unilever                           442 </span>
-<span class="co">#&gt;  8 Ekhamanzi Springs                  306 </span>
-<span class="co">#&gt;  9 Amasi                              304 </span>
-<span class="co">#&gt; 10 Tiger Brands                       232 </span>
-<span class="co">#&gt; # … with 30 more rows</span></code></pre></div>
+  <span class="fu"><a href="https://dplyr.tidyverse.org/reference/arrange.html" class="external-link">arrange</a></span><span class="op">(</span><span class="fu"><a href="https://dplyr.tidyverse.org/reference/desc.html" class="external-link">desc</a></span><span class="op">(</span><span class="va">count</span><span class="op">)</span><span class="op">)</span> |&gt; 
+  <span class="fu"><a href="https://dplyr.tidyverse.org/reference/mutate.html" class="external-link">mutate</a></span><span class="op">(</span>percent <span class="op">=</span> <span class="va">count</span> <span class="op">/</span> <span class="fu"><a href="https://rdrr.io/r/base/sum.html" class="external-link">sum</a></span><span class="op">(</span><span class="va">count</span><span class="op">)</span> <span class="op">*</span> <span class="fl">100</span><span class="op">)</span> |&gt; 
+  <span class="fu">knitr</span><span class="fu">::</span><span class="fu"><a href="https://rdrr.io/pkg/knitr/man/kable.html" class="external-link">kable</a></span><span class="op">(</span>digits <span class="op">=</span> <span class="fl">0</span><span class="op">)</span></code></pre></div>
+<table class="table">
+<thead><tr class="header">
+<th align="left">group</th>
+<th align="right">count</th>
+<th align="right">percent</th>
+</tr></thead>
+<tbody>
+<tr class="odd">
+<td align="left">OTHER</td>
+<td align="right">8086</td>
+<td align="right">52</td>
+</tr>
+<tr class="even">
+<td align="left">Coca Cola Beverages South Africa</td>
+<td align="right">4030</td>
+<td align="right">26</td>
+</tr>
+<tr class="odd">
+<td align="left">unidentifiable</td>
+<td align="right">1202</td>
+<td align="right">8</td>
+</tr>
+<tr class="even">
+<td align="left">Clover Industries LTD</td>
+<td align="right">737</td>
+<td align="right">5</td>
+</tr>
+<tr class="odd">
+<td align="left">Unilever</td>
+<td align="right">442</td>
+<td align="right">3</td>
+</tr>
+<tr class="even">
+<td align="left">Tiger Brands</td>
+<td align="right">232</td>
+<td align="right">2</td>
+</tr>
+<tr class="odd">
+<td align="left">danone</td>
+<td align="right">183</td>
+<td align="right">1</td>
+</tr>
+<tr class="even">
+<td align="left">Siqolo Foods</td>
+<td align="right">144</td>
+<td align="right">1</td>
+</tr>
+<tr class="odd">
+<td align="left">Willowton Group</td>
+<td align="right">139</td>
+<td align="right">1</td>
+</tr>
+<tr class="even">
+<td align="left">Amka Products</td>
+<td align="right">132</td>
+<td align="right">1</td>
+</tr>
+<tr class="odd">
+<td align="left">RCL Foods</td>
+<td align="right">95</td>
+<td align="right">1</td>
+</tr>
+</tbody>
+</table>
 </div>
 <div class="section level2">
 <h2 id="license">License<a class="anchor" aria-label="anchor" href="#license"></a>
 </h2>
-<p>Data are available as CC-BY.</p>
+<p>Data are available as <a href="https://github.com/Global-Health-Engineering/durbanplasticwaste/blob/main/LICENSE.md" class="external-link">CC-BY</a>.</p>
 </div>
 <div class="section level2">
 <h2 id="citation">Citation<a class="anchor" aria-label="anchor" href="#citation"></a>
 </h2>
 <p>To cite the durbanplasticwaste package, please use:</p>
-<div class="sourceCode" id="cb5"><pre class="downlit sourceCode r">
-<code class="sourceCode R"><span class="co"># citation("durbanplasticwaste")</span></code></pre></div>
+<p>Bergen, R., Schöbitz, L., Meyer-Piening, C., Lin, B., Tilley, E., Kalina, M., Rakgabale, S., Last Name, F. N., &amp; Global Health Engineering. durbanplasticwaste: Durban (South Aftica) Plastic Waste Data (Version 0.1.0) [Data set]. <a href="https://doi.org/https://doi.org/10.5281/zenodo.7708629" class="external-link uri">https://doi.org/https://doi.org/10.5281/zenodo.7708629</a></p>
 </div>
 </div>
   </div>
@@ -342,7 +396,12 @@
 </ul>
 </div>
 
-
+<div class="dev-status">
+<h2 data-toc-skip>Dev status</h2>
+<ul class="list-unstyled">
+<li><a href="https://zenodo.org/badge/latestdoi/604573987" class="external-link"><img src="https://zenodo.org/badge/604573987.svg" alt="DOI"></a></li>
+</ul>
+</div>
 
   </div>
 </div>
