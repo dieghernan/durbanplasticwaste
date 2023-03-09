@@ -1,4 +1,5 @@
 
+<script defer data-domain="global-health-engineering.github.io/durbanplasticwaste" src="https://plausible.io/js/script.js"></script>
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
 # durbanplasticwaste
