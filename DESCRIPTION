@@ -35,7 +35,7 @@ Authors@R: c(
     person(given = "Siphiwe",
            family = "Rakgabale",
            email = "siphiwerakgabale@gmail.com",
-           role = c("ctb")),
+           role = c("ctb"),
            comment = c(ORCID = "0009-0007-3253-6327")),
     person(given = "Sfiso Nduduzo",
            family = "Luvuno",
@@ -43,7 +43,7 @@ Authors@R: c(
            role = c("ctb")), 
     person(given = "Global Health Engineering", 
            role = c("fnd"))
-          )
+           )
 Description: Waste characterisation data for extended producer responsibility.
     The plastic waste was collected in the uMngeni River system in Durban, 
     South Africa, and categorised by brand, corporate group, application, and 

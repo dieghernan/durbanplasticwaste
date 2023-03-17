@@ -22,8 +22,8 @@ Other contributors:
   \item Boynton Lin \email{lbonyton@ethz.ch} (\href{https://orcid.org/0000-0002-9944-3834}{ORCID}) [contributor]
   \item Elizabeth Tilley \email{tilleye@ethz.ch} (\href{https://orcid.org/0000-0002-2095-9724}{ORCID}) [contributor]
   \item Marc Kalina \email{mkalina@ethz.ch} (\href{https://orcid.org/0000-0002-6335-3845}{ORCID}) [contributor]
-  \item Siphiwe Rakgabale \email{first.last@example.com} [contributor]
-  \item First Name Last Name \email{first.last@example.com} [contributor]
+  \item Siphiwe Rakgabale \email{siphiwerakgabale@gmail.com} (\href{https://orcid.org/0009-0007-3253-6327}{ORCID}) [contributor]
+  \item Sfiso Nduduzo Luvuno \email{sfisonduduzo.luvuno@gmail.com} [contributor]
   \item Global Health Engineering [funder]
 }
 

@@ -39,10 +39,11 @@ authors:
   orcid: https://orcid.org/0000-0002-6335-3845
 - family-names: Rakgabale
   given-names: Siphiwe
-  email: first.last@example.com
-- family-names: Last Name
-  given-names: First Name
-  email: first.last@example.com
+  email: siphiwerakgabale@gmail.com
+  orcid: https://orcid.org/0009-0007-3253-6327
+- family-names: Luvuno
+  given-names: Sfiso Nduduzo
+  email: sfisonduduzo.luvuno@gmail.com
 - name: Global Health Engineering
 contact:
 - family-names: Schöbitz
