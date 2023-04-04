@@ -8,8 +8,6 @@
 [![DOI](https://zenodo.org/badge/604573987.svg)](https://zenodo.org/badge/latestdoi/604573987)
 <!-- badges: end -->
 
-<script defer data-domain="global-health-engineering.github.io/durbanplasticwaste" src="https://plausible.io/js/script.js"></script>
-
 ## Overview
 
 This packages combines data collected as part of an MSc. Thesis Project
