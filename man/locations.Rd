@@ -16,6 +16,6 @@ A tibble with 6 rows and 3 variables:
 locations
 }
 \description{
-Weight in kg of identified PET and HDPE/PP items.
+Plastic waste litterboom sampling locations
 }
 \keyword{datasets}
