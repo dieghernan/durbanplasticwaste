@@ -1,5 +1,4 @@
 
-<script defer data-domain="global-health-engineering.github.io/durbanplasticwaste" src="https://plausible.io/js/script.js"></script>
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
 # durbanplasticwaste
@@ -8,6 +7,8 @@
 
 [![DOI](https://zenodo.org/badge/604573987.svg)](https://zenodo.org/badge/latestdoi/604573987)
 <!-- badges: end -->
+
+<script defer data-domain="global-health-engineering.github.io/durbanplasticwaste" src="https://plausible.io/js/script.js"></script>
 
 ## Overview
 
