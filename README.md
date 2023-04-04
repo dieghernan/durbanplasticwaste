@@ -26,12 +26,14 @@ You can install the development version of durbanplasticwaste from
 devtools::install_github("Global-Health-Engineering/durbanplasticwaste")
 ```
 
-Alternatively, you can download the individual data sets as a CSV or
-XLSX file from the table below.
+Alternatively, you can download the individual datasets as a CSV or XLSX
+file from the table below.
 
-| dataset           | CSV                                                                                                                         | XLSX                                                                                                                          |
-|:------------------|:----------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------|
-| litterboom_counts | [Download CSV](https://github.com/Global-Health-Engineering/durbanplasticwaste/raw/main/inst/extdata/litterboom_counts.csv) | [Download XLSX](https://github.com/Global-Health-Engineering/durbanplasticwaste/raw/main/inst/extdata/litterboom_counts.xlsx) |
+| dataset            | CSV                                                                                                                          | XLSX                                                                                                                           |
+|:-------------------|:-----------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------|
+| litterboom_counts  | [Download CSV](https://github.com/Global-Health-Engineering/durbanplasticwaste/raw/main/inst/extdata/litterboom_counts.csv)  | [Download XLSX](https://github.com/Global-Health-Engineering/durbanplasticwaste/raw/main/inst/extdata/litterboom_counts.xlsx)  |
+| litterboom_weights | [Download CSV](https://github.com/Global-Health-Engineering/durbanplasticwaste/raw/main/inst/extdata/litterboom_weights.csv) | [Download XLSX](https://github.com/Global-Health-Engineering/durbanplasticwaste/raw/main/inst/extdata/litterboom_weights.xlsx) |
+| locations          | [Download CSV](https://github.com/Global-Health-Engineering/durbanplasticwaste/raw/main/inst/extdata/locations.csv)          | [Download XLSX](https://github.com/Global-Health-Engineering/durbanplasticwaste/raw/main/inst/extdata/locations.xlsx)          |
 
 ## Projects
 

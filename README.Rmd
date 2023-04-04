@@ -43,16 +43,23 @@ from [GitHub](https://github.com/) with:
 devtools::install_github("Global-Health-Engineering/durbanplasticwaste")
 ```
 
-Alternatively, you can download the individual data sets as a CSV or XLSX file 
+Alternatively, you can download the individual datasets as a CSV or XLSX file 
 from the table below.
 
 ```{r, echo=FALSE}
-tibble(
-  dataset = "litterboom_counts",
-  CSV = "[Download CSV](https://github.com/Global-Health-Engineering/durbanplasticwaste/raw/main/inst/extdata/litterboom_counts.csv)",
-  XLSX = "[Download XLSX](https://github.com/Global-Health-Engineering/durbanplasticwaste/raw/main/inst/extdata/litterboom_counts.xlsx)"
-) |> 
+
+extdata_path <- "https://github.com/Global-Health-Engineering/durbanplasticwaste/raw/main/inst/extdata/"
+
+read_csv("data-raw/dictionary.csv") |> 
+  distinct(file_name) |> 
+  mutate(file_name = str_remove(file_name, ".rda")) |> 
+  rename(dataset = file_name) |> 
+  mutate(
+    CSV = paste0("[Download CSV](", extdata_path, dataset, ".csv)"),
+    XLSX = paste0("[Download XLSX](", extdata_path, dataset, ".xlsx)")
+  ) |> 
   knitr::kable()
+
 ```
 
 ## Projects
