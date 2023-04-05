@@ -9,14 +9,14 @@
 [![R-CMD-check](https://github.com/Global-Health-Engineering/durbanplasticwaste/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/Global-Health-Engineering/durbanplasticwaste/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
-## Overview
+# Overview
 
 This packages combines data collected as part of an MSc. Thesis Project
 and an MSc. Semester Project conducted in Durban, South Africa. The
 projects were supported by the Global Health Engineering group at ETH
 Zurich, Switzerland.
 
-## Installation
+# Installation
 
 You can install the development version of durbanplasticwaste from
 [GitHub](https://github.com/) with:
@@ -35,9 +35,9 @@ file from the table below.
 | litterboom_weights | [Download CSV](https://github.com/Global-Health-Engineering/durbanplasticwaste/raw/main/inst/extdata/litterboom_weights.csv) | [Download XLSX](https://github.com/Global-Health-Engineering/durbanplasticwaste/raw/main/inst/extdata/litterboom_weights.xlsx) |
 | locations          | [Download CSV](https://github.com/Global-Health-Engineering/durbanplasticwaste/raw/main/inst/extdata/locations.csv)          | [Download XLSX](https://github.com/Global-Health-Engineering/durbanplasticwaste/raw/main/inst/extdata/locations.xlsx)          |
 
-## Projects
+# Projects
 
-### MSc. Thesis Project
+## MSc. Thesis Project
 
 Evaluating the potential of Extended Producer Responsibility returns for
 a small local waste collection company through a brand audit of riverine
@@ -110,17 +110,21 @@ overview of the variable names, see the following table.
 | latitude      | Latitude coordinate.                     | NA          |
 | longitude     | Longitude coordinate.                    | NA          |
 
-### MSc. Semester Project
+## MSc. Semester Project
 
-<!--# please add semester project title -->
+Examination of non-recycled marine plastic litter in order to identify
+recycling and beneficiation pathways in Durban, South Africa
 
 ### Description
 
-<!--# please add a short description of the semester -->
+This Semester Thesis Project focuses on determining the distribution of
+plastic litter on the Durban beachfront in order to identify key targets
+for policy and financial support through the South African EPR policy to
+reduce plastic spills into the environment and promote higher recycling
+rates. Research Question
 
-### Research Question
-
-<!--# please add the research questions -->
+What types and amounts of plastic are found along the beachfront in the
+mangroves of Durban-North, South Africa?
 
 ### Data
 
