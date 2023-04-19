@@ -173,9 +173,9 @@ sampling_locations <- leaflet(locations)  |>
 
 
 sampling_locations |> 
-  mapview::mapshot(file = here::here("img/map-litterboom-sampling-locations.png"))
+  mapview::mapshot(file = here::here("man/figures/map-litterboom-sampling-locations.png"))
 
-knitr::include_graphics("img/map-litterboom-sampling-locations.png")
+knitr::include_graphics("man/figures/map-litterboom-sampling-locations.png")
 ```
 
 
