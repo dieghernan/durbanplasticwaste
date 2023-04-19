@@ -69,16 +69,35 @@ litterboom_counts <- litterboom_df |>
     TRUE ~ category
   ))
 
+## locations data - convert locations from degress, minutes, seconds to
+## decimal degrees
+
+locations <- locations |>
+  pivot_longer(cols = latitude:longitude) |>
+  mutate(value = str_replace(value, pattern = "˚", replacement = "")) |>
+  mutate(value = str_replace(value, pattern = "'", replacement = "")) |>
+  mutate(value = str_replace(value, pattern = "''", replacement = "")) |>
+  separate(value, into = c("degree", "minutes", "seconds", "direction"), sep = " ") |>
+  mutate(across(c(degree:seconds), as.numeric)) |>
+  mutate(dd = degree + minutes/60 + seconds/3600) |>
+  mutate(dd = case_when(
+    direction == "S" ~ -dd,
+    TRUE ~ dd
+  )) |>
+  select(location, name, dd) |>
+  pivot_wider(names_from = name,
+              values_from = dd)
+
 # write data --------------------------------------------------------------
 
 usethis::use_data(litterboom_weights, litterboom_counts, locations, overwrite = TRUE)
 
 write_csv(litterboom_counts, here::here("inst", "extdata", "litterboom_counts.csv"))
 write_csv(litterboom_weights, here::here("inst", "extdata", "litterboom_weights.csv"))
-write_csv(litterboom_weights, here::here("inst", "extdata", "locations.csv"))
+write_csv(locations, here::here("inst", "extdata", "locations.csv"))
 
 openxlsx::write.xlsx(litterboom_counts, here::here("inst", "extdata", "litterboom_counts.xlsx"))
 openxlsx::write.xlsx(litterboom_weights, here::here("inst", "extdata", "litterboom_weights.xlsx"))
-openxlsx::write.xlsx(litterboom_weights, here::here("inst", "extdata", "locations.xlsx"))
+openxlsx::write.xlsx(locations, here::here("inst", "extdata", "locations.xlsx"))
 
 
