@@ -8,6 +8,13 @@
 \description{
 Waste characterisation data for extended producer responsibility. The plastic waste was collected in the uMngeni River system in Durban, South Africa, and categorised by brand, corporate group, application, and type of plastic.
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://global-health-engineering.github.io/durbanplasticwaste/}
+}
+
+}
 \author{
 \strong{Maintainer}: Lars Schöbitz \email{lschoebitz@ethz.ch} (\href{https://orcid.org/0000-0003-2196-5015}{ORCID})
 
