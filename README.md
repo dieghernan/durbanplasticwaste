@@ -114,7 +114,7 @@ Locations data as a map illustrating the six litterboom sampling
 locations in Durban, South Africa. For an interactive map and other code
 examples, see `vignette("examples")`.
 
-<img src="img/map-litterboom-sampling-locations.png" width="100%" />
+<img src="man/figures/map-litterboom-sampling-locations.png" width="100%" />
 
 ## MSc. Semester Project
 
