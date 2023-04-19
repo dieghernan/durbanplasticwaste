@@ -1,14 +1,15 @@
 # -----------------------------------------------------------
-# CITATION file created with {cffr} R package, v0.4.0
+# CITATION file created with {cffr} R package, v0.4.1.9000
 # See also: https://docs.ropensci.org/cffr/
 # -----------------------------------------------------------
  
 cff-version: 1.2.0
 message: 'To cite package "durbanplasticwaste" in publications use:'
-type: dataset
+type: software
 license: CC-BY-4.0
 title: 'durbanplasticwaste: Durban (South Aftica) Plastic Waste Data'
 version: 0.1.0
+doi: 10.5281/zenodo.7825679
 abstract: Waste characterisation data for extended producer responsibility. The plastic
   waste was collected in the uMngeni River system in Durban, South Africa, and categorised
   by brand, corporate group, application, and type of plastic.

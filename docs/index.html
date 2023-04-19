@@ -70,28 +70,30 @@
 
       </header><div class="row">
   <div class="contents col-md-9">
+
 <div class="section level1">
 <div class="page-header"><h1 id="durbanplasticwaste">durbanplasticwaste<a class="anchor" aria-label="anchor" href="#durbanplasticwaste"></a>
 </h1></div>
 <!-- badges: start -->
 
-<div class="section level2">
-<h2 id="overview">Overview<a class="anchor" aria-label="anchor" href="#overview"></a>
-</h2>
+</div>
+<div class="section level1">
+<h1 id="overview">Overview<a class="anchor" aria-label="anchor" href="#overview"></a>
+</h1>
 <p>This packages combines data collected as part of an MSc. Thesis Project and an MSc. Semester Project conducted in Durban, South Africa. The projects were supported by the Global Health Engineering group at ETH Zurich, Switzerland.</p>
 </div>
-<div class="section level2">
-<h2 id="installation">Installation<a class="anchor" aria-label="anchor" href="#installation"></a>
-</h2>
+<div class="section level1">
+<h1 id="installation">Installation<a class="anchor" aria-label="anchor" href="#installation"></a>
+</h1>
 <p>You can install the development version of durbanplasticwaste from <a href="https://github.com/" class="external-link">GitHub</a> with:</p>
 <div class="sourceCode" id="cb1"><pre class="downlit sourceCode r">
-<code class="sourceCode R"><span class="co"># install.packages("devtools")</span>
-<span class="fu">devtools</span><span class="fu">::</span><span class="fu"><a href="https://devtools.r-lib.org/reference/remote-reexports.html" class="external-link">install_github</a></span><span class="op">(</span><span class="st">"Global-Health-Engineering/durbanplasticwaste"</span><span class="op">)</span></code></pre></div>
-<p>Alternatively, you can download the individual data sets as a CSV or XLSX file from the table below.</p>
+<code class="sourceCode R"><span><span class="co"># install.packages("devtools")</span></span>
+<span><span class="fu">devtools</span><span class="fu">::</span><span class="fu"><a href="https://remotes.r-lib.org/reference/install_github.html" class="external-link">install_github</a></span><span class="op">(</span><span class="st">"Global-Health-Engineering/durbanplasticwaste"</span><span class="op">)</span></span></code></pre></div>
+<p>Alternatively, you can download the individual datasets as a CSV or XLSX file from the table below.</p>
 <table class="table">
 <colgroup>
 <col width="7%">
-<col width="46%">
+<col width="45%">
 <col width="46%">
 </colgroup>
 <thead><tr class="header">
@@ -99,21 +101,32 @@
 <th align="left">CSV</th>
 <th align="left">XLSX</th>
 </tr></thead>
-<tbody><tr class="odd">
+<tbody>
+<tr class="odd">
 <td align="left">litterboom_counts</td>
 <td align="left"><a href="https://github.com/Global-Health-Engineering/durbanplasticwaste/raw/main/inst/extdata/litterboom_counts.csv" class="external-link">Download CSV</a></td>
 <td align="left"><a href="https://github.com/Global-Health-Engineering/durbanplasticwaste/raw/main/inst/extdata/litterboom_counts.xlsx" class="external-link">Download XLSX</a></td>
-</tr></tbody>
+</tr>
+<tr class="even">
+<td align="left">litterboom_weights</td>
+<td align="left"><a href="https://github.com/Global-Health-Engineering/durbanplasticwaste/raw/main/inst/extdata/litterboom_weights.csv" class="external-link">Download CSV</a></td>
+<td align="left"><a href="https://github.com/Global-Health-Engineering/durbanplasticwaste/raw/main/inst/extdata/litterboom_weights.xlsx" class="external-link">Download XLSX</a></td>
+</tr>
+<tr class="odd">
+<td align="left">locations</td>
+<td align="left"><a href="https://github.com/Global-Health-Engineering/durbanplasticwaste/raw/main/inst/extdata/locations.csv" class="external-link">Download CSV</a></td>
+<td align="left"><a href="https://github.com/Global-Health-Engineering/durbanplasticwaste/raw/main/inst/extdata/locations.xlsx" class="external-link">Download XLSX</a></td>
+</tr>
+</tbody>
 </table>
 </div>
+<div class="section level1">
+<h1 id="projects">Projects<a class="anchor" aria-label="anchor" href="#projects"></a>
+</h1>
 <div class="section level2">
-<h2 id="projects">Projects<a class="anchor" aria-label="anchor" href="#projects"></a>
+<h2 id="msc-thesis-project">MSc. Thesis Project<a class="anchor" aria-label="anchor" href="#msc-thesis-project"></a>
 </h2>
-<div class="section level3">
-<h3 id="msc-thesis-project">MSc. Thesis Project<a class="anchor" aria-label="anchor" href="#msc-thesis-project"></a>
-</h3>
 <p>Evaluating the potential of Extended Producer Responsibility returns for a small local waste collection company through a brand audit of riverine plastic waste in Durban, South Africa.</p>
-</div>
 <div class="section level3">
 <h3 id="description">Description<a class="anchor" aria-label="anchor" href="#description"></a>
 </h3>
@@ -131,10 +144,10 @@
 <p>The data was collected throughout two months in Durban, South Africa right before the rainy season. The collection took place in 6 different litterboom locations throughout Durban. The data gathered was the audit of the occurence of the brands washed into the litterbooms.</p>
 <p>The package provides access to three data sets.</p>
 <div class="sourceCode" id="cb2"><pre class="downlit sourceCode r">
-<code class="sourceCode R"><span class="kw"><a href="https://rdrr.io/r/base/library.html" class="external-link">library</a></span><span class="op">(</span><span class="va">durbanplasticwaste</span><span class="op">)</span></code></pre></div>
+<code class="sourceCode R"><span><span class="kw"><a href="https://rdrr.io/r/base/library.html" class="external-link">library</a></span><span class="op">(</span><span class="va">durbanplasticwaste</span><span class="op">)</span></span></code></pre></div>
 <p>The <code>litterboom_counts</code> data set has 7 variables and 2784 observations. For an overview of the variable names, see the following table.</p>
 <div class="sourceCode" id="cb3"><pre class="downlit sourceCode r">
-<code class="sourceCode R"><span class="va">litterboom_counts</span></code></pre></div>
+<code class="sourceCode R"><span><span class="va">litterboom_counts</span></span></code></pre></div>
 <table class="table">
 <colgroup>
 <col width="9%">
@@ -250,20 +263,16 @@
 </tbody>
 </table>
 </div>
-<div class="section level3">
-<h3 id="msc-semester-project">MSc. Semester Project<a class="anchor" aria-label="anchor" href="#msc-semester-project"></a>
-</h3>
-<!--# please add semester project title -->
 </div>
+<div class="section level2">
+<h2 id="msc-semester-project">MSc. Semester Project<a class="anchor" aria-label="anchor" href="#msc-semester-project"></a>
+</h2>
+<p>Examination of non-recycled marine plastic litter in order to identify recycling and beneficiation pathways in Durban, South Africa</p>
 <div class="section level3">
 <h3 id="description-1">Description<a class="anchor" aria-label="anchor" href="#description-1"></a>
 </h3>
-<!--# please add a short description of the semester -->
-</div>
-<div class="section level3">
-<h3 id="research-question-1">Research Question<a class="anchor" aria-label="anchor" href="#research-question-1"></a>
-</h3>
-<!--# please add the research questions -->
+<p>This Semester Thesis Project focuses on determining the distribution of plastic litter on the Durban beachfront in order to identify key targets for policy and financial support through the South African EPR policy to reduce plastic spills into the environment and promote higher recycling rates. Research Question</p>
+<p>What types and amounts of plastic are found along the beachfront in the mangroves of Durban-North, South Africa?</p>
 </div>
 <div class="section level3">
 <h3 id="data-1">Data<a class="anchor" aria-label="anchor" href="#data-1"></a>
@@ -275,20 +284,20 @@
 </h2>
 <p>The <code>litterboom_counts</code> data identifies 40 unique groups that own the identified brands. The top 10 brands are shown in the following table. All other brands are lumped together as OTHER.</p>
 <div class="sourceCode" id="cb4"><pre class="downlit sourceCode r">
-<code class="sourceCode R"><span class="kw"><a href="https://rdrr.io/r/base/library.html" class="external-link">library</a></span><span class="op">(</span><span class="va">durbanplasticwaste</span><span class="op">)</span>
-<span class="kw"><a href="https://rdrr.io/r/base/library.html" class="external-link">library</a></span><span class="op">(</span><span class="va"><a href="https://dplyr.tidyverse.org" class="external-link">dplyr</a></span><span class="op">)</span>
-<span class="kw"><a href="https://rdrr.io/r/base/library.html" class="external-link">library</a></span><span class="op">(</span><span class="va"><a href="https://forcats.tidyverse.org" class="external-link">forcats</a></span><span class="op">)</span>
-
-<span class="va">litterboom_counts</span> |&gt; 
-  <span class="fu"><a href="https://dplyr.tidyverse.org/reference/mutate.html" class="external-link">mutate</a></span><span class="op">(</span>group <span class="op">=</span> <span class="fu"><a href="https://rdrr.io/r/base/factor.html" class="external-link">factor</a></span><span class="op">(</span><span class="va">group</span><span class="op">)</span><span class="op">)</span> |&gt; 
-  <span class="fu"><a href="https://dplyr.tidyverse.org/reference/mutate.html" class="external-link">mutate</a></span><span class="op">(</span>group <span class="op">=</span> <span class="fu"><a href="https://forcats.tidyverse.org/reference/fct_lump.html" class="external-link">fct_lump</a></span><span class="op">(</span><span class="va">group</span>, n <span class="op">=</span> <span class="fl">10</span>, other_level <span class="op">=</span> <span class="st">"OTHER"</span><span class="op">)</span><span class="op">)</span> |&gt; 
-  <span class="fu"><a href="https://dplyr.tidyverse.org/reference/group_by.html" class="external-link">group_by</a></span><span class="op">(</span><span class="va">group</span><span class="op">)</span> |&gt; 
-  <span class="fu"><a href="https://dplyr.tidyverse.org/reference/summarise.html" class="external-link">summarise</a></span><span class="op">(</span>
-    count <span class="op">=</span> <span class="fu"><a href="https://rdrr.io/r/base/sum.html" class="external-link">sum</a></span><span class="op">(</span><span class="va">count</span><span class="op">)</span>
-  <span class="op">)</span> |&gt; 
-  <span class="fu"><a href="https://dplyr.tidyverse.org/reference/arrange.html" class="external-link">arrange</a></span><span class="op">(</span><span class="fu"><a href="https://dplyr.tidyverse.org/reference/desc.html" class="external-link">desc</a></span><span class="op">(</span><span class="va">count</span><span class="op">)</span><span class="op">)</span> |&gt; 
-  <span class="fu"><a href="https://dplyr.tidyverse.org/reference/mutate.html" class="external-link">mutate</a></span><span class="op">(</span>percent <span class="op">=</span> <span class="va">count</span> <span class="op">/</span> <span class="fu"><a href="https://rdrr.io/r/base/sum.html" class="external-link">sum</a></span><span class="op">(</span><span class="va">count</span><span class="op">)</span> <span class="op">*</span> <span class="fl">100</span><span class="op">)</span> |&gt; 
-  <span class="fu">knitr</span><span class="fu">::</span><span class="fu"><a href="https://rdrr.io/pkg/knitr/man/kable.html" class="external-link">kable</a></span><span class="op">(</span>digits <span class="op">=</span> <span class="fl">0</span><span class="op">)</span></code></pre></div>
+<code class="sourceCode R"><span><span class="kw"><a href="https://rdrr.io/r/base/library.html" class="external-link">library</a></span><span class="op">(</span><span class="va">durbanplasticwaste</span><span class="op">)</span></span>
+<span><span class="kw"><a href="https://rdrr.io/r/base/library.html" class="external-link">library</a></span><span class="op">(</span><span class="va"><a href="https://dplyr.tidyverse.org" class="external-link">dplyr</a></span><span class="op">)</span></span>
+<span><span class="kw"><a href="https://rdrr.io/r/base/library.html" class="external-link">library</a></span><span class="op">(</span><span class="va"><a href="https://forcats.tidyverse.org/" class="external-link">forcats</a></span><span class="op">)</span></span>
+<span></span>
+<span><span class="va">litterboom_counts</span> <span class="op">|&gt;</span> </span>
+<span>  <span class="fu"><a href="https://dplyr.tidyverse.org/reference/mutate.html" class="external-link">mutate</a></span><span class="op">(</span>group <span class="op">=</span> <span class="fu"><a href="https://rdrr.io/r/base/factor.html" class="external-link">factor</a></span><span class="op">(</span><span class="va">group</span><span class="op">)</span><span class="op">)</span> <span class="op">|&gt;</span> </span>
+<span>  <span class="fu"><a href="https://dplyr.tidyverse.org/reference/mutate.html" class="external-link">mutate</a></span><span class="op">(</span>group <span class="op">=</span> <span class="fu"><a href="https://forcats.tidyverse.org/reference/fct_lump.html" class="external-link">fct_lump</a></span><span class="op">(</span><span class="va">group</span>, n <span class="op">=</span> <span class="fl">10</span>, other_level <span class="op">=</span> <span class="st">"OTHER"</span><span class="op">)</span><span class="op">)</span> <span class="op">|&gt;</span> </span>
+<span>  <span class="fu"><a href="https://dplyr.tidyverse.org/reference/group_by.html" class="external-link">group_by</a></span><span class="op">(</span><span class="va">group</span><span class="op">)</span> <span class="op">|&gt;</span> </span>
+<span>  <span class="fu"><a href="https://dplyr.tidyverse.org/reference/summarise.html" class="external-link">summarise</a></span><span class="op">(</span></span>
+<span>    count <span class="op">=</span> <span class="fu"><a href="https://rdrr.io/r/base/sum.html" class="external-link">sum</a></span><span class="op">(</span><span class="va">count</span><span class="op">)</span></span>
+<span>  <span class="op">)</span> <span class="op">|&gt;</span> </span>
+<span>  <span class="fu"><a href="https://dplyr.tidyverse.org/reference/arrange.html" class="external-link">arrange</a></span><span class="op">(</span><span class="fu"><a href="https://dplyr.tidyverse.org/reference/desc.html" class="external-link">desc</a></span><span class="op">(</span><span class="va">count</span><span class="op">)</span><span class="op">)</span> <span class="op">|&gt;</span> </span>
+<span>  <span class="fu"><a href="https://dplyr.tidyverse.org/reference/mutate.html" class="external-link">mutate</a></span><span class="op">(</span>percent <span class="op">=</span> <span class="va">count</span> <span class="op">/</span> <span class="fu"><a href="https://rdrr.io/r/base/sum.html" class="external-link">sum</a></span><span class="op">(</span><span class="va">count</span><span class="op">)</span> <span class="op">*</span> <span class="fl">100</span><span class="op">)</span> <span class="op">|&gt;</span> </span>
+<span>  <span class="fu">knitr</span><span class="fu">::</span><span class="fu"><a href="https://rdrr.io/pkg/knitr/man/kable.html" class="external-link">kable</a></span><span class="op">(</span>digits <span class="op">=</span> <span class="fl">0</span><span class="op">)</span></span></code></pre></div>
 <table class="table">
 <thead><tr class="header">
 <th align="left">group</th>
@@ -366,6 +375,7 @@
 <p>Bergen, R., Schöbitz, L., Meyer-Piening, C., Lin, B., Tilley, E., Kalina, M., Rakgabale, S., Last Name, F. N., &amp; Global Health Engineering. durbanplasticwaste: Durban (South Aftica) Plastic Waste Data (Version 0.1.0) [Data set]. <a href="https://doi.org/https://doi.org/10.5281/zenodo.7708629" class="external-link uri">https://doi.org/https://doi.org/10.5281/zenodo.7708629</a></p>
 </div>
 </div>
+
   </div>
 
   <div class="col-md-3 hidden-xs hidden-sm" id="pkgdown-sidebar">
@@ -400,6 +410,7 @@
 <h2 data-toc-skip>Dev status</h2>
 <ul class="list-unstyled">
 <li><a href="https://zenodo.org/badge/latestdoi/604573987" class="external-link"><img src="https://zenodo.org/badge/604573987.svg" alt="DOI"></a></li>
+<li><a href="https://github.com/Global-Health-Engineering/durbanplasticwaste/actions/workflows/R-CMD-check.yaml" class="external-link"><img src="https://github.com/Global-Health-Engineering/durbanplasticwaste/actions/workflows/R-CMD-check.yaml/badge.svg" alt="R-CMD-check"></a></li>
 </ul>
 </div>
 
@@ -414,7 +425,7 @@
 
 <div class="pkgdown">
   <p></p>
-<p>Site built with <a href="https://pkgdown.r-lib.org/" class="external-link">pkgdown</a> 2.0.7.</p>
+<p>Site built with <a href="https://pkgdown.r-lib.org/" class="external-link">pkgdown</a> 2.0.6.</p>
 </div>
 
       </footer>
