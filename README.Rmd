@@ -147,12 +147,12 @@ readr::read_csv("data-raw/dictionary.csv") |>
 
 Locations data as a map illustrating the six litterboom sampling locations in Durban, South Africa. For an interactive map and other code examples, see `vignette("examples")`.
 
-```{r}
+```{r, echo=FALSE}
 
 sampling_locations <- leaflet(locations)  |>
   setView(lng = locations$longitude[[4]],
           lat = locations$latitude[[4]],
-          zoom = 12) |>
+          zoom = 13) |>
   addTiles() |>
   addCircleMarkers(
     lng = ~longitude,

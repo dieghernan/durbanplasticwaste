@@ -110,6 +110,12 @@ overview of the variable names, see the following table.
 | latitude      | Latitude coordinate.                     | NA          |
 | longitude     | Longitude coordinate.                    | NA          |
 
+Locations data as a map illustrating the six litterboom sampling
+locations in Durban, South Africa. For an interactive map and other code
+examples, see `vignette("examples")`.
+
+<img src="img/map-litterboom-sampling-locations.png" width="100%" />
+
 ## MSc. Semester Project
 
 Examination of non-recycled marine plastic litter in order to identify
