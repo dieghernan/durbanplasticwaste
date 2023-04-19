@@ -1,0 +1,7 @@
+template:
+  bootstrap: 5
+  includes:
+    in_header: |
+      <script defer data-domain="global-health-engineering.github.io/durbanplasticwaste" src="https://plausible.io/js/script.js"></script>
+
+url: https://global-health-engineering.github.io/durbanplasticwaste/
