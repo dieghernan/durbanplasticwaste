@@ -18,6 +18,7 @@ knitr::opts_chunk$set(
 
 library(tidyverse)
 library(epoxy)
+library(leaflet)
 ```
 
 # durbanplasticwaste
@@ -101,8 +102,6 @@ The package provides access to three data sets.
 library(durbanplasticwaste)
 ```
 
-
-
 ```{epoxy}
 The `litterboom_counts` data set has {ncol(litterboom_counts)} variables and {nrow(litterboom_counts)} observations. For an overview of the variable names, see the following table.  
 
@@ -145,6 +144,40 @@ readr::read_csv("data-raw/dictionary.csv") |>
   knitr::kable()
 
 ```
+
+Locations data as a map illustrating the six litterboom sampling locations in Durban, South Africa. For an interactive map and other code examples, see `vignette("examples")`.
+
+```{r}
+
+sampling_locations <- leaflet(locations)  |>
+  setView(lng = locations$longitude[[4]],
+          lat = locations$latitude[[4]],
+          zoom = 12) |>
+  addTiles() |>
+  addCircleMarkers(
+    lng = ~longitude,
+    lat = ~latitude,
+    label = ~location,
+    radius = 10,
+    stroke = FALSE,
+    fillOpacity = 1,
+    labelOptions = labelOptions(noHide = T,
+                                textsize = "10px",
+                                direction = "left",
+                                offset = c(0, 0),
+                                style = list(
+                                  "box-shadow" = "3px 3px rgba(0,0,0,0.25)",
+                                  "border-color" = "rgba(0,0,0,0.5)",
+                                  "font-style" = "italic"
+                                )))
+
+
+sampling_locations |> 
+  mapview::mapshot(file = here::here("img/map-litterboom-sampling-locations.png"))
+
+knitr::include_graphics("img/map-litterboom-sampling-locations.png")
+```
+
 
 ## MSc. Semester Project
 
